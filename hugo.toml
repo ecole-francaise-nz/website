@@ -1,0 +1,4 @@
+baseURL = 'https://afis.nz/'
+languageCode = 'en-us'
+title = 'Auckland French International School'
+theme = 'ananke'
