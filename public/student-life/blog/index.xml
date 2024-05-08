@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Auckland French International School</title>
+    <link>https://afis.nz/student-life/blog/</link>
+    <description>Recent content in Blog on Auckland French International School</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 May 2024 09:54:37 +1200</lastBuildDate>
+    <atom:link href="https://afis.nz/student-life/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>09 05 2024 Goodbye</title>
+      <link>https://afis.nz/student-life/blog/09-05-2024-goodbye/</link>
+      <pubDate>Thu, 09 May 2024 09:54:37 +1200</pubDate>
+      <guid>https://afis.nz/student-life/blog/09-05-2024-goodbye/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu lectus. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.&#xA;Nam luctus Nam luctus eleifend diam, faucibus convallis sem viverra venenatis.</description>
+    </item>
+    <item>
+      <title>09 05 2024 Hello</title>
+      <link>https://afis.nz/student-life/blog/09-05-2024-hello/</link>
+      <pubDate>Thu, 09 May 2024 09:54:29 +1200</pubDate>
+      <guid>https://afis.nz/student-life/blog/09-05-2024-hello/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu lectus. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.&#xA;Nam luctus Nam luctus eleifend diam, faucibus convallis sem viverra venenatis.</description>
+    </item>
+  </channel>
+</rss>
