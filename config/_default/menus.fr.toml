@@ -1,0 +1,174 @@
+#### About us
+[[main]]
+name = 'À propos'
+identifier = 'About us'
+pageRef = '/about'
+weight = 10
+
+[[main]]
+name = 'AFIS'
+identifier = 'AFIS'
+pageRef = '/about/afis'
+parent = 'About us'
+weight = 11
+
+[[main]]
+name = "L'équipe"
+identifier = 'Our team'
+pageRef = '/about/team'
+parent = 'About us'
+weight = 12
+
+[[main]]
+name = "Nos installations"
+identifier = 'Facilities'
+pageRef = '/about/facilities'
+parent = 'About us'
+weight = 13
+
+[[main]]
+name = 'Langues'
+identifier = 'Languages'
+pageRef = '/about/languages'
+parent = 'About us'
+weight = 14
+
+[[main]]
+name = 'Contact'
+identifier = 'Contact us'
+pageRef = '/about/contact'
+parent = 'About us'
+weight = 15
+
+#### Primary
+[[main]]
+name = 'Primaire'
+identifier = 'Primary'
+pageRef = '/primary'
+weight = 20
+
+[[main]]
+name = 'Elementaire'
+identifier = 'Elementary'
+pageRef = '/primary/elementary'
+parent = 'Primary'
+weight = 21
+
+[[main]]
+name = 'Garderie'
+identifier = 'After school'
+pageRef = '/primary/after-school'
+parent = 'Primary'
+weight = 22
+
+[[main]]
+name = 'Bibliothèque'
+identifier = 'Library'
+pageRef = '/primary/library'
+parent = 'Primary'
+weight = 23
+
+#### Student Life
+[[main]]
+name = 'Vie des élèves'
+identifier = 'Student Life'
+pageRef = '/student-life'
+weight = 30
+
+[[main]]
+name = 'Bien-être'
+identifier = 'Wellbeing'
+pageRef = '/student-life/wellbeing'
+parent = 'Student Life'
+weight = 31
+
+[[main]]
+name = 'Sport'
+identifier = 'Sport'
+pageRef = '/student-life/sport'
+parent = 'Student Life'
+weight = 32
+
+[[main]]
+name = 'Périscolaire'
+identifier = 'Extracurricular activities'
+pageRef = '/student-life/extracurricular'
+parent = 'Student Life'
+weight = 33
+
+[[main]]
+name = 'Blog'
+identifier = 'Blog'
+pageRef = '/student-life/blog'
+parent = 'Student Life'
+weight = 34
+
+#### Enrolment
+[[main]]
+name = "S'inscrire"
+identifier = 'Enrolment'
+pageRef = '/enrolment'
+weight = 40
+
+[[main]]
+name = "Pourquoi l'AFIS"
+identifier = 'Why AFIS'
+pageRef = '/enrolment/why-afis'
+parent = 'Enrolment'
+weight = 41
+
+[[main]]
+name = "Comment s'inscrire"
+identifier = 'How to enrol'
+pageRef = '/enrolment/how-to-enrol'
+parent = 'Enrolment'
+weight = 42
+
+[[main]]
+name = "Visiter l'AFIS"
+identifier = 'Visit'
+pageRef = '/enrolment/visit'
+parent = 'Enrolment'
+weight = 43
+
+[[main]]
+name = 'Frais et aides financières'
+identifier = 'Fees & financing'
+pageRef = '/enrolment/fees-and-financing'
+parent = 'Enrolment'
+weight = 44
+
+#### Careers
+[[main]]
+name = 'Recrutement'
+identifier = 'Careers'
+pageRef = '/careers'
+weight = 50
+
+[[main]]
+name = 'Vivre à Auckland'
+identifier = 'Life in Auckland'
+pageRef = '/careers/life-in-auckland'
+parent = 'Careers'
+weight = 51
+
+[[main]]
+name = "Travailler à l'AFIS"
+identifier = 'Work with us'
+pageRef = '/careers/work-with-us'
+parent = 'Careers'
+weight = 52
+
+[[main]]
+name = 'Postes vacants'
+identifier = 'Current opportunities'
+pageRef = '/careers/current-opportunities'
+parent = 'Careers'
+weight = 53
+
+[[main]]
+name = 'AEFE'
+identifier = 'AEFE'
+pageRef = '/careers/aefe'
+parent = 'Careers'
+weight = 54

@@ -11,10 +11,21 @@
         {{ if .Site.Menus.main }}
           <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
             {{ range .Site.Menus.main }}
-            <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-              <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+            <li class="list f5 f4-ns fw4 dib {{ if .HasChildren }} hide-child {{ end }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+              <a class="nav hover-white no-underline white-70" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
                 {{ .Name }}
               </a>
+              {{ if .HasChildren }}
+              <ul class="child absolute-l ma0 ml2 pa0 mt2 shadow-1">
+                {{ range .Children }}
+                <li class="list f5 f4-ns fw4 pa1 {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                  <a class="nav hover-white no-underline white-70" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+                    {{ .Name }}
+                  </a>
+                </li>
+                {{ end }}
+              </ul>
+              {{ end }}
             </li>
             {{ end }}
           </ul>
