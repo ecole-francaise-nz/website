@@ -1,3 +1,4 @@
+/*
 // *-blue.css
 $primary:#eeeeff;
 $secondary:#6c757d;
@@ -7,7 +8,7 @@ $info:#17a2b8;
 $warning:#ffc107;
 $light:#f8f9fa;
 $dark:#6c757d;
-
+*/
 // Shared styles
 @import "main-pre-import.scss";
 
@@ -21,14 +22,17 @@ body {
     background-color: #ffffff;
     font-family: 'avenir next', avenir, sans-serif;
     line-height: 1.5;
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     color: #555;
 }
 
 $navbar-bg: #0072bb;
-$link: #a0a0a0a0;
+$navbar-bg-hover: #0062ab;
+$navbar-text: white;
+$link: #0072bb;
 
-a { border-bottom: dotted 2px $link; }
+/*
+a { text-decoration: none; border-bottom: dotted 2px $link; }
 a:link { border-bottom: dotted 2px $link; }
 a:visited { border-bottom: dotted 2px $link; }
 a:hover { border-bottom: solid 2px $link; }
@@ -40,19 +44,26 @@ a.fas { border-bottom: 0px; }
 a.badge { border-bottom: 0px; }
 a.page-link { border-bottom: 1px solid $link; }
 a.badge:hover { color: $body-bg; }
+*/
 
-.navbar-light {
+.navbar-dark {
     background-color: $navbar-bg!important;
     font-family: 'avenir next', avenir, sans-serif;
     font-size: 1rem;
     font-weight: 400;
 }
-.navbar-light .navbar-brand { border-bottom: 0px; }
-.navbar-light .navbar-brand:hover { border-bottom: 0px; } 
-.navbar-light .navbar-nav .nav-link { border-bottom: 0px; }
+.navbar-dark a { color: $navbar-text; }
+.navbar-dark a:hover { color: $navbar-text; text-shadow: 0px 0px 1px white; }
+.navbar-dark .navbar-brand { border-bottom: 0px; }
+.navbar-dark .navbar-brand:hover { border-bottom: 0px; } 
+.navbar-dark .navbar-nav .nav-link { border-bottom: 0px; }
 .dropdown-menu { background-color: $navbar-bg;}
 .dropdown-menu .dropdown-item { border-bottom: 0px; }
-.dropdown-menu .dropdown-item:hover { border-bottom: 0px; background-color: #0062ab;}
+.dropdown-menu .dropdown-item:hover {
+    border-bottom: 0px;
+    background-color: $navbar-bg-hover;
+    color: $navbar-text;
+}
 
 .language-switcher a {
     text-decoration: none;
@@ -61,9 +72,7 @@ a.badge:hover { color: $body-bg; }
 }
 .language-switcher a.selected {
     text-shadow: 0px 0px 8px white;
-    // text-decoration: underline #c0c0ff;
 }
-
 
 .full-width-div {
 width: 100%;
@@ -72,6 +81,10 @@ align-items: center;
 justify-content: center;
 position: relative;
 color: white;
+}
+
+.no-hero {
+    background-color: #0072bbc0;
 }
 
 .background-dim {
@@ -83,9 +96,17 @@ bottom: 0;
 background-color: #0072bb60; /* Adjust dimming effect here */
 }
 
-.content {
+.page-title {
 position: relative;
 z-index: 2; /* Make sure the content appears above the dimming layer */
-font-size: 3rem; /* Adjust title size as needed */
+font-size: 2.6rem; /* Adjust title size as needed */
 font-weight: 200;
+}
+
+blockquote {
+    color: black;
+    font-style: italic;
+    margin-left: 3rem;
+    padding-left: 1rem;
+    border-left: 4px solid blue;
 }

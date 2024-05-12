@@ -1,8 +1,11 @@
-
+{{ if .Params.hero }}
 <div class="full-width-div" style="{{ with .Params.hero }}background: url('{{ . }}') no-repeat center center/cover;{{ end }} min-height: {{ or .Params.bannerHeight .Site.Params.bannerHeight }};">
     <div class="background-dim"></div>
-    <div class="content avenir">{{ .Title }}</div>
+{{ else }}
+<div class="full-width-div no-hero" style="min-height: {{ or .Params.bannerHeight .Site.Params.bannerHeight }};">
+{{ end }}
+    <div class="page-title avenir">{{ .Title }}</div>
 </div>
-<div class="container mt-5 mb-3" style="width: 80%;">
+<div class="container mt-5 mb-5">
     {{- .Content -}}
 </div>

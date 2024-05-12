@@ -1,7 +1,7 @@
 {{ $currentPage := . }}
-<nav class="navbar navbar-light bg-light navbar-expand-lg border-bottom" aria-label="Navigation">
+<nav class="navbar navbar-dark bg-dark navbar-expand-lg border-bottom" aria-label="Navigation">
     <div class="container">
-        <a class="navbar-brand link-primary mb-1" href="{{ "/" | relLangURL }}">
+        <a class="navbar-brand mb-1" href="{{ "/" | relLangURL }}">
             <img src="{{ .Site.Params.logo }}" height="30" alt="{{ .Site.Title }}" title="{{ .Site.Title }}">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,16 +13,16 @@
                 {{ range $index, $element := .Site.Menus.main }}
                     {{ if .HasChildren }}
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle link-primary" href="#" id="dropdown{{$index}}" data-bs-toggle="dropdown" aria-expanded="false">{{ .Pre }} {{ .Name }}</a>
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown{{$index}}" data-bs-toggle="dropdown" aria-expanded="false">{{ .Pre }} {{ .Name }}</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown{{$index}}">
                             {{ range .Children }}
-                                <a class="dropdown-item link-primary" href="{{ .URL }}">{{ .Pre }} {{ .Name }}</a>
+                                <a class="dropdown-item" href="{{ .URL }}">{{ .Pre }} {{ .Name }}</a>
                             {{ end }}
                             </div>
                         </li>
                     {{ else }}
                         <li class="nav-item">
-                            <a class="nav-link link-primary" href="{{ .URL }}">{{ .Pre }} {{ .Name }}</a>
+                            <a class="nav-link" href="{{ .URL }}">{{ .Pre }} {{ .Name }}</a>
                         </li>
                     {{ end }}
                 {{ end }}

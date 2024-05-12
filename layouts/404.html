@@ -1,0 +1,10 @@
+{{ define "title" }}
+{{ i18n "error404" }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<div class="full-width-div" style="{{ with .Params.hero }}background: url('{{ . }}') no-repeat center center/cover;{{ end }} min-height: {{ or .Params.bannerHeight .Site.Params.bannerHeight }};">
+    <div class="background-dim"></div>
+    <div class="content avenir">{{ i18n "error404" }}</div>
+</div>
+{{ end }}

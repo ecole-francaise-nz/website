@@ -1,8 +1,8 @@
-<footer class="navbar-light border-top pt-1">
+<footer class="navbar-dark border-top pt-1">
     <div class="container">
         <div class="row">
-            <div class="text-primary me-auto mb-1">
-                {{ .Title }} &copy; {{ now.Format "2006" }} {{ range .Site.Author }}{{ . }}{{ end }}<br/>
+            <div class="me-auto mb-1" style="color: #ddf; text-align: center;">
+                {{ .Site.Title }} &copy; {{ now.Format "2006" }} {{ range .Site.Author }}{{ . }}{{ end }}<br/>
             </div>
         </div>
     </div>

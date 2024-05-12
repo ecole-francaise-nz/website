@@ -5,10 +5,75 @@ date = 2024-05-09T09:47:42+12:00
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu lectus. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.
 
+Here's an image test:
+
+![Some alt text](../test.png "Some image")
+
+Here is a quick link: <https://google.com/> and an email address <contact@afis.nz>. Here's a link with anchor text: [Google](https://google.com/)
+
+Here's a [reference link][1] and another [another][2] (you'll see "France" if you hover over this one for a second).
+
+And at the bottom of the page you would have something like this:
+
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[2]: https://en.wikipedia.org/wiki/France "France"
+
+# Title 1
+
+## Title 2
+
+### Title 3
+
+#### Title 4
+
+##### Title 5
+
+###### Title 6
+
+**Bold text**, *italics*, ***both bold and italics***, and some superscript x{{< sup 2 >}}</sup> and subscript x{{< sub 3 >}}.
+
+> This is a block quote, and
+> it can span multiple lines.
+>
+> Here it continues.
+
+> And this is a separate one.
+>> You can even nest block quotes.
+
+You can include `text in code font` and even code blocks:
+```python
+def f(x):
+    return x*x
+```
+
+Here is a horizontal line:
+
+---
+
+Here is a list:
+* Apple
+* Orange
+* Banana
+* Cities
+    * New York
+    * Paris
+
+Here is a numbered list:
+1. Apple
+2. Orange
+3. Banana
+4. Cities
+    1. New York
+    2. Paris
+
+
+
+
+
 # Nam luctus
 Nam luctus eleifend diam, faucibus convallis sem viverra venenatis. Cras lectus eros, pulvinar quis ultricies vitae, blandit quis elit. Donec tortor ante, maximus ornare justo eget, ultrices gravida diam. Mauris finibus, ante et eleifend ultrices, mi odio condimentum neque, sed malesuada mauris erat et lectus. Ut ullamcorper ac tortor et sodales. Suspendisse viverra id magna sollicitudin rutrum. Vestibulum purus odio, cursus in cursus eget, consequat ut velit. Vestibulum varius magna non erat commodo, sed posuere leo dapibus.
 
-Integer cursus porttitor massa, eu tempor neque eleifend ac. Morbi sit amet libero auctor, fringilla augue sit amet, varius lectus. Cras tristique varius lacus sit amet tincidunt. Aliquam commodo molestie ligula, vel scelerisque magna ultrices vitae. Nullam rhoncus lorem nisl, eget facilisis ante euismod scelerisque. Sed euismod, nisi varius rutrum pellentesque, dui mi hendrerit elit, eu aliquet diam velit vitae lacus. Aliquam ultrices sapien vel sagittis feugiat. Cras mollis tortor nec placerat ultrices. Nullam vestibulum urna tristique eros faucibus, ac iaculis eros fermentum. Mauris nec dui ultrices, aliquet dolor semper, sodales ex. Donec iaculis arcu at fringilla congue. Pellentesque fringilla nulla mi, et viverra eros egestas at. Suspendisse venenatis congue enim sed auctor. Mauris hendrerit pulvinar augue, ut fermentum dolor scelerisque et.
+##Integer cursus porttitor massa, eu tempor neque eleifend ac. Morbi sit amet libero auctor, fringilla augue sit amet, varius lectus. Cras tristique varius lacus sit amet tincidunt. Aliquam commodo molestie ligula, vel scelerisque magna ultrices vitae. Nullam rhoncus lorem nisl, eget facilisis ante euismod scelerisque. Sed euismod, nisi varius rutrum pellentesque, dui mi hendrerit elit, eu aliquet diam velit vitae lacus. Aliquam ultrices sapien vel sagittis feugiat. Cras mollis tortor nec placerat ultrices. Nullam vestibulum urna tristique eros faucibus, ac iaculis eros fermentum. Mauris nec dui ultrices, aliquet dolor semper, sodales ex. Donec iaculis arcu at fringilla congue. Pellentesque fringilla nulla mi, et viverra eros egestas at. Suspendisse venenatis congue enim sed auctor. Mauris hendrerit pulvinar augue, ut fermentum dolor scelerisque et.
 
 # Quisque et dignissim sapien
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean sit amet arcu efficitur, aliquam est quis, elementum ex. Vestibulum viverra viverra nibh in luctus. Vestibulum ut auctor est. Phasellus ipsum elit, semper a aliquam eu, condimentum in lacus. Vestibulum lectus leo, eleifend eu pharetra nec, sollicitudin id neque. Nam tristique commodo erat, vel tempor risus mollis vel.
