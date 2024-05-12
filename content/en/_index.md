@@ -3,15 +3,12 @@ title = 'Auckland French International School'
 
 description = 'Coming very soon...'
 
-# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
-#theme_version: '2.8.2'
-
-[cascade]
-featured_image = '/images/afis-hero.jpg'
+hero = "/images/afis-hero.jpg"
+bannerHeight = "500px"
 +++
-The first French international school right here in Auckland.
+The first **French** international school right here in Auckland.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu lectus. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu *lectus*. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.
 
 # Nam luctus
 Nam luctus eleifend diam, faucibus convallis sem viverra venenatis. Cras lectus eros, pulvinar quis ultricies vitae, blandit quis elit. Donec tortor ante, maximus ornare justo eget, ultrices gravida diam. Mauris finibus, ante et eleifend ultrices, mi odio condimentum neque, sed malesuada mauris erat et lectus. Ut ullamcorper ac tortor et sodales. Suspendisse viverra id magna sollicitudin rutrum. Vestibulum purus odio, cursus in cursus eget, consequat ut velit. Vestibulum varius magna non erat commodo, sed posuere leo dapibus.

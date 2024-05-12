@@ -1,14 +1,9 @@
 baseURL = 'https://afis.nz/'
 languageCode = 'en-nz'
 title = 'Auckland French International School'
-theme = 'ananke'
+author = 'AFIS'
 
-# resourceDir = "../resources"
-
-DefaultContentLanguage = "en"
-# SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-# googleAnalytics = ""
+defaultContentLanguage = "en"
 enableRobotsTXT = true
 
 [languages]
@@ -16,11 +11,15 @@ enableRobotsTXT = true
 title = "Auckland French International School"
 weight = 1
 contentDir = "content/en"
-# languageDirection = 'rtl' for Right-To-Left languages
+[languages.en.params]
+flag = "🇳🇿"
+
 [languages.fr]
-title = "École Française International d'Auckland"
+title = "École Française Internationale d'Auckland"
 weight = 2
 contentDir = "content/fr"
+[languages.fr.params]
+flag = "🇫🇷"
 
 [sitemap]
 changefreq = "monthly"
@@ -28,15 +27,11 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
-text_color = ""
-author = ""
-favicon = ""
-site_logo = "/images/afis-logo5.webp"
+logo = "/images/afis-logo4.png"
 description = "Auckland French International School Description"
-# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-background_color_class = "bg-black"
-recent_posts_number = 3
+copyrightYears = 2024
+themeColor = "blue"
+bannerHeight = "200px"
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/afauckland"
+[social]
+twitter = "afauckland"

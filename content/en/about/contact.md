@@ -1,14 +1,7 @@
 +++
 title = 'Contact'
-featured_image = ''
-omit_header_text = true
 description = "We'd love to hear from you"
-type = 'page'
 +++
-
-Please enter your name, email address, and message, and we'll get back to you asap.
-
-{{< form-contact action="https://formspree.io/f/xdoqjngp"  >}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu lectus. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.
 

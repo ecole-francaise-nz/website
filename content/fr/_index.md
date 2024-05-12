@@ -1,8 +1,6 @@
 +++
 title = "École Française Internationale d'Auckland"
 description = "Très bientôt..."
-[cascade]
-featured_image = '/images/afis-hero.jpg'
 +++
 La première école Française internationale à Auckland.
 

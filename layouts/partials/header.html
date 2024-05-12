@@ -1,0 +1,49 @@
+{{ $currentPage := . }}
+<nav class="navbar navbar-light bg-light navbar-expand-lg border-bottom" aria-label="Navigation">
+    <div class="container">
+        <a class="navbar-brand link-primary mb-1" href="{{ "/" | relLangURL }}">
+            <img src="{{ .Site.Params.logo }}" height="30" alt="{{ .Site.Title }}" title="{{ .Site.Title }}">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav me-auto mb-1">
+                {{ range $index, $element := .Site.Menus.main }}
+                    {{ if .HasChildren }}
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle link-primary" href="#" id="dropdown{{$index}}" data-bs-toggle="dropdown" aria-expanded="false">{{ .Pre }} {{ .Name }}</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown{{$index}}">
+                            {{ range .Children }}
+                                <a class="dropdown-item link-primary" href="{{ .URL }}">{{ .Pre }} {{ .Name }}</a>
+                            {{ end }}
+                            </div>
+                        </li>
+                    {{ else }}
+                        <li class="nav-item">
+                            <a class="nav-link link-primary" href="{{ .URL }}">{{ .Pre }} {{ .Name }}</a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+            <div class="language-switcher mb-1">
+                {{ $translations := .Translations }}
+                {{ range $gotoLanguage := $.Site.Languages }}
+                    {{ $translationURL := (printf "/%s" $gotoLanguage.Lang) }}
+                    {{ range $translations }}
+                        {{ if (eq .Lang $gotoLanguage.Lang) }}
+                            {{ $translationURL = .RelPermalink }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if (eq $gotoLanguage.Lang $.Site.Language.Lang) }}
+                        <a href="#" class="selected">{{ $gotoLanguage.Params.flag }}</a>
+                    {{ else }}
+                        <a href="{{ $translationURL }}">{{ $gotoLanguage.Params.flag }}</a>
+                    {{ end }}                    
+
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,8 @@
+
+<div class="full-width-div" style="{{ with .Params.hero }}background: url('{{ . }}') no-repeat center center/cover;{{ end }} height: {{ or .Params.bannerHeight .Site.Params.bannerHeight }};">
+    <div class="background-dim"></div>
+    <div class="content avenir">{{ .Title }}</div>
+</div>
+<div class="container mt-5 mb-3" style="width: 80%;">
+    {{- .Content -}}
+</div>

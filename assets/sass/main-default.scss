@@ -1,0 +1,10 @@
+// *-default.css
+
+// Shared styles
+@import "main-pre-import.scss";
+
+// Bootstrap
+@import "./bootstrap/bootstrap";
+
+// Shared styles overrides
+@import "main-post-import.scss";

@@ -1,0 +1,9 @@
+<footer class="navbar-light border-top pt-1">
+    <div class="container">
+        <div class="row">
+            <div class="text-primary me-auto mb-1">
+                {{ .Title }} &copy; {{ now.Format "2006" }} {{ range .Site.Author }}{{ . }}{{ end }}<br/>
+            </div>
+        </div>
+    </div>
+</footer>
