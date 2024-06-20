@@ -5,8 +5,8 @@ pageRef = '/about'
 weight = 10
 
 [[main]]
-name = 'AFIS'
-pageRef = '/about/afis'
+name = 'EFIA'
+pageRef = '/about/efia'
 parent = 'About us'
 weight = 11
 
@@ -82,12 +82,6 @@ pageRef = '/student-life/extracurricular'
 parent = 'Student Life'
 weight = 33
 
-[[main]]
-name = 'Blog'
-pageRef = '/student-life/blog'
-parent = 'Student Life'
-weight = 34
-
 #### Enrolment
 [[main]]
 name = 'Enrolment'
@@ -95,8 +89,8 @@ pageRef = '/enrolment'
 weight = 40
 
 [[main]]
-name = 'Why AFIS'
-pageRef = '/enrolment/why-afis'
+name = 'Why EFIA'
+pageRef = '/enrolment/why-efia'
 parent = 'Enrolment'
 weight = 41
 
@@ -147,3 +141,9 @@ name = 'AEFE'
 pageRef = '/careers/aefe'
 parent = 'Careers'
 weight = 54
+
+#### News
+[[main]]
+name = 'News'
+pageRef = '/news'
+weight = 60

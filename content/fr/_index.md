@@ -1,6 +1,5 @@
 +++
 title = "École Française Internationale d'Auckland"
-description = "Très bientôt..."
 +++
 La première école Française internationale à Auckland.
 

@@ -1,0 +1,22 @@
+{{ define "title" }}
+    {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+{{- partial "content.html" . -}}
+{{ $customDateFormat := "02.01.2006" }}
+{{ with .Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
+<div class="mb-3">
+    <div class="card">
+        <div class="card-body">
+            <h1>{{ .Title }}</h1>
+            <ul>
+                {{ range .Pages.ByPublishDate.Reverse }}
+                    <li>{{ .PublishDate.Format $customDateFormat }} - <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a></li>
+                {{ end}}
+            </ul>
+        </div>
+    </div>
+</div>
+
+{{ end }}

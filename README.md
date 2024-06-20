@@ -1,3 +1,3 @@
-# afis-nz.github.io
+# ecole-francaise-nz.github.io
 
 Work in progress...
