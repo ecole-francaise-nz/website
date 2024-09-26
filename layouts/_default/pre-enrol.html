@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{.Site.Language.Lang }}">
+  <meta charset="utf-8" />
+  {{- partial "seo_schema" . -}}
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <body>
+    <a
+      href="https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform"
+      ><img src="/images/efia-en-pre-enrol-wide.png"
+    /></a>
+    <p>
+      If you are not redirected automatically, please
+      <a
+        href="https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform"
+        >click here</a
+      >.
+    </p>
+    <script>
+      setTimeout(function () {
+        window.location.href =
+          "https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform";
+      }, 1000);
+    </script>
+    {{- partial "js.html" . -}}
+  </body>
+</html>
