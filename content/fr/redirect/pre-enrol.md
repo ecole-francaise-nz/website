@@ -1,8 +1,9 @@
 ---
-title: "Formulaire de pré-inscription"
+title: ""
 url: "/fr/pre-enrol"
-layout: "redirect"
+hero: "/images/efia-en-pre-enrol-wide.png"
+bannerHeight: "730px"
 redirectURL: "https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform"
-redirectText: "Bienvenue à l'École Française Internationale Auckland. Nous vous redirigeons vers le formulaire de pré-inscription. Si vous n'êtes pas automatiquement redirigé(e), veuillez "
-orClickHere: "cliquer ici"
 ---
+
+Si vous n'êtes pas automatiquement redirigé(e), veuillez [cliquer ici](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform).
