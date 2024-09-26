@@ -4,38 +4,30 @@ hero = "/images/efia-hero.jpg"
 bannerHeight = "500px"
 +++
 
-The first **French international school** right here in Auckland.
+Exciting News: A new **French International School in Auckland**! 🇫🇷📚
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu _lectus_. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.
+A few weeks ago, we shared the exciting plan to open Auckland’s new **French International School**, offering the renowned French curriculum right here in our city. The community response has been incredible—thank you all for your amazing support! 🙌
 
-# Nam luctus
+🌍 This school is for **everyone**! It will be part of a prestigious network of 580 French schools across 139 countries, known for delivering a world-class education. It will provide a quality educational experience for families of all nationalities, offering a **bilingual and multicultural environment** where children can thrive both academically and personally.
 
-Nam luctus eleifend diam, faucibus convallis sem viverra venenatis. Cras lectus eros, pulvinar quis ultricies vitae, blandit quis elit. Donec tortor ante, maximus ornare justo eget, ultrices gravida diam. Mauris finibus, ante et eleifend ultrices, mi odio condimentum neque, sed malesuada mauris erat et lectus. Ut ullamcorper ac tortor et sodales. Suspendisse viverra id magna sollicitudin rutrum. Vestibulum purus odio, cursus in cursus eget, consequat ut velit. Vestibulum varius magna non erat commodo, sed posuere leo dapibus.
+🎉 We’re thrilled to announce that we have applied for funding to offer **free tuition** for all students, and our project is now in the final phase of the selection process!
 
-Integer cursus porttitor massa, eu tempor neque eleifend ac. Morbi sit amet libero auctor, fringilla augue sit amet, varius lectus. Cras tristique varius lacus sit amet tincidunt. Aliquam commodo molestie ligula, vel scelerisque magna ultrices vitae. Nullam rhoncus lorem nisl, eget facilisis ante euismod scelerisque. Sed euismod, nisi varius rutrum pellentesque, dui mi hendrerit elit, eu aliquet diam velit vitae lacus. Aliquam ultrices sapien vel sagittis feugiat. Cras mollis tortor nec placerat ultrices. Nullam vestibulum urna tristique eros faucibus, ac iaculis eros fermentum. Mauris nec dui ultrices, aliquet dolor semper, sodales ex. Donec iaculis arcu at fringilla congue. Pellentesque fringilla nulla mi, et viverra eros egestas at. Suspendisse venenatis congue enim sed auctor. Mauris hendrerit pulvinar augue, ut fermentum dolor scelerisque et.
+🗓️ **What's Next**?
+We need your support now, to help us strengthen and finalise our application by the end of the first week of October. Pre-enrolments for 2025 are now open to secure your child’s spot today! 👇
 
-# Quisque et dignissim sapien
+👉 Complete the [pre-enrolment form](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform) now!
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean sit amet arcu efficitur, aliquam est quis, elementum ex. Vestibulum viverra viverra nibh in luctus. Vestibulum ut auctor est. Phasellus ipsum elit, semper a aliquam eu, condimentum in lacus. Vestibulum lectus leo, eleifend eu pharetra nec, sollicitudin id neque. Nam tristique commodo erat, vel tempor risus mollis vel.
+🔑 **Key Info**:
 
-Integer sit amet enim aliquam, egestas velit in, vehicula mi. Aenean finibus faucibus sem commodo pharetra. Maecenas rhoncus turpis quis diam sodales, id congue dolor ultrices. Aliquam id condimentum dui. Curabitur fringilla arcu in justo aliquam, in iaculis odio mattis. Duis efficitur lacus ac facilisis suscipit. Suspendisse porttitor, ligula id tristique sollicitudin, justo purus consectetur orci, eget vestibulum metus mi et mi. Etiam a molestie leo. Aenean feugiat nisl rutrum erat ornare congue. Aenean accumsan tristique sem, vitae mollis sapien imperdiet vitae. Donec sed sollicitudin velit. Sed auctor congue arcu.
+- Opening: 2025 school year
+- Location: 131 Remuera Road, Remuera
+- Classes: Grande Section (Years 0 & 1), CP (Year 2), CE1 (Year 3)
+- Curriculum: French program taught in French for 3 1/2 days and 1 1/2 days/week in English
+- Limited Spots: Max. 15 students per class
+- If your child was born between 1 July 2017 and 30 September 2020, they are eligible!
 
-# Maecenas eget euismod tortor.
+A formal commitment will be required in November, once we receive the final decision on our funding application for tuition fees.
 
-Donec gravida libero nec magna molestie ultrices.
+Help us bring this new French school to life—complete the [pre-enrolment form](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform) now!
 
-## Aliquam sit amet odio
-
-Et risus iaculis fermentum sit amet sit amet nisl. Nam varius quis metus eu dignissim. Praesent viverra elementum risus id faucibus. Sed ultricies eros accumsan venenatis venenatis. Curabitur non ex fringilla purus fringilla condimentum a pulvinar risus.
-
-Quisque nec rutrum ex. Quisque feugiat mattis enim, ut molestie magna venenatis sagittis. Maecenas volutpat, dolor vitae condimentum pretium, lorem justo commodo quam, a convallis tortor mauris id tortor. Nulla mollis nibh ac sapien hendrerit eleifend. Nam tempor mauris urna, ac pharetra sem convallis quis. Curabitur eget ultricies lacus. Vivamus tristique neque vel finibus malesuada. Morbi placerat placerat nulla non tincidunt. Vivamus non urna scelerisque, pharetra ante posuere, eleifend nisl. Donec dictum urna ac tempus tincidunt. Suspendisse potenti. Curabitur ultrices tincidunt ante sed elementum. Fusce gravida pharetra dolor, sed ultrices ex varius ut. Nunc at tempus ante. Nulla eget dui suscipit, feugiat lectus quis, gravida massa. Integer massa mauris, volutpat sit amet neque ac, congue lacinia dolor.
-
-## Pellentesque habitant morbi
-
-Tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam fringilla vel lectus nec egestas. Ut molestie, est vitae cursus tincidunt, mi orci commodo nisi, accumsan feugiat velit mauris dignissim erat. Pellentesque in rhoncus felis. Cras consequat justo et sem mollis, non finibus ante euismod. Integer nibh tortor, eleifend eget leo ut, pretium ultricies augue. Nullam mollis congue sapien, ac interdum mauris vestibulum ut. In lorem velit, ultricies id metus ut, porttitor interdum turpis. Etiam lorem metus, bibendum non facilisis in, placerat eu neque. Vestibulum aliquet dui ac vulputate viverra. Pellentesque suscipit felis sapien, in faucibus ligula porta non. Nunc sit amet lobortis augue, ut hendrerit dolor.
-
-# Etiam in pharetra enim
-
-Etiam in pharetra enim. Nullam augue felis, faucibus eget enim ut, vestibulum facilisis nisl. In facilisis, nibh placerat volutpat sollicitudin, nulla purus eleifend eros, at semper tortor mi ut orci. Donec purus metus, sodales ut ante at, scelerisque hendrerit leo. Aliquam erat volutpat. Mauris egestas ultrices quam, non dapibus purus posuere eu. Suspendisse sed pretium mauris.
-
-Etiam sit amet tempor mi, vitae ullamcorper elit. Nullam maximus congue ultrices. Donec enim urna, vehicula ut quam ut, laoreet dignissim nunc. Aenean vel dictum augue. Nunc pretium nulla sed arcu interdum, nec pulvinar ante varius. Suspendisse accumsan eros justo, non consequat eros volutpat laoreet. Suspendisse eget consectetur tortor, et consectetur magna. Nam posuere eros fermentum metus fermentum fermentum. Nam scelerisque pulvinar enim, ut semper felis consectetur eget. Etiam quis aliquam purus. Nullam ut molestie eros. Pellentesque in sagittis ligula. Sed ornare mi imperdiet tincidunt ullamcorper. Phasellus sed urna tortor.
+If you have any questions, please contact us at contact@ecole-francaise.nz

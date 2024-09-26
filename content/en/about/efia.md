@@ -3,6 +3,10 @@ title = 'EFIA'
 date = 2024-05-09T09:47:42+12:00
 +++
 
+As you can see, this site is under construction. We are doing our very best to get it up and running soon.
+
+The random text below is used to test the site layout.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu lectus. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.
 
 Here's an image test:

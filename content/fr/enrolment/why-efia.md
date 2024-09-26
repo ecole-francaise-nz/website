@@ -3,6 +3,10 @@ title = "Pourquoi l'EFIA ?"
 date = 2024-05-09T10:12:38+12:00
 +++
 
+Ce site est en construction. Il devrait être prêt d'ici peu, revenez bientôt!
+
+Le text aléatoire ci-dessous est utilisé pour tester la mise en page du site.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu lectus. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.
 
 # Nam luctus

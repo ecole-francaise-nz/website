@@ -1,37 +1,31 @@
 +++
 title = "École Française Internationale d'Auckland"
 +++
-La première école Française internationale à Auckland.
 
-Blablablablabla.
+Une nouvelle **école internationale française à Auckland**&nbsp;! 🇫🇷📚
 
-# Titre de niveau 1
+Il y a quelques semaines, nous avons annoncé le projet d'ouvrir une école internationale française à Auckland, offrant le programme français ici même à Auckland. La réponse de la communauté a été incroyable&nbsp;: merci à toutes et à tous pour votre soutien extraordinaire&nbsp;! 🙌
 
-Coucou les **amis**.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et aliquam magna, sit amet imperdiet diam. Donec interdum, mauris nec molestie sagittis, metus quam vulputate libero, vitae iaculis mi nulla eu lectus. Sed non eleifend neque. Integer nec turpis nisl. Cras vitae commodo quam, faucibus rutrum lectus. Pellentesque eget libero eget leo auctor feugiat. Vestibulum cursus a ligula at mollis. Duis vel varius est, molestie sollicitudin ipsum.
+🌍 Cette école est **pour tout le monde**&nbsp;! Elle fera partie d'un réseau prestigieux de 580 écoles françaises dans 139 pays, reconnu pour offrir une éducation de classe mondiale. Elle proposera une expérience éducative de qualité pour les familles de toutes nationalités, offrant un environnement bilingue et multiculturel où les enfants pourront s’épanouir à la fois académiquement et personnellement.
 
-# Nam luctus
-Nam luctus eleifend diam, faucibus convallis sem viverra venenatis. Cras lectus eros, pulvinar quis ultricies vitae, blandit quis elit. Donec tortor ante, maximus ornare justo eget, ultrices gravida diam. Mauris finibus, ante et eleifend ultrices, mi odio condimentum neque, sed malesuada mauris erat et lectus. Ut ullamcorper ac tortor et sodales. Suspendisse viverra id magna sollicitudin rutrum. Vestibulum purus odio, cursus in cursus eget, consequat ut velit. Vestibulum varius magna non erat commodo, sed posuere leo dapibus.
+🎉 Nous sommes ravis d'annoncer que nous avons déposé une demande de financement pour offrir une **scolarité gratuite** à tous les élèves, et que notre projet est désormais dans la phase finale du processus de sélection&nbsp;!
 
-Integer cursus porttitor massa, eu tempor neque eleifend ac. Morbi sit amet libero auctor, fringilla augue sit amet, varius lectus. Cras tristique varius lacus sit amet tincidunt. Aliquam commodo molestie ligula, vel scelerisque magna ultrices vitae. Nullam rhoncus lorem nisl, eget facilisis ante euismod scelerisque. Sed euismod, nisi varius rutrum pellentesque, dui mi hendrerit elit, eu aliquet diam velit vitae lacus. Aliquam ultrices sapien vel sagittis feugiat. Cras mollis tortor nec placerat ultrices. Nullam vestibulum urna tristique eros faucibus, ac iaculis eros fermentum. Mauris nec dui ultrices, aliquet dolor semper, sodales ex. Donec iaculis arcu at fringilla congue. Pellentesque fringilla nulla mi, et viverra eros egestas at. Suspendisse venenatis congue enim sed auctor. Mauris hendrerit pulvinar augue, ut fermentum dolor scelerisque et.
+🗓️ **Quelles sont les prochaines étapes&nbsp;?**
 
-# Quisque et dignissim sapien
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean sit amet arcu efficitur, aliquam est quis, elementum ex. Vestibulum viverra viverra nibh in luctus. Vestibulum ut auctor est. Phasellus ipsum elit, semper a aliquam eu, condimentum in lacus. Vestibulum lectus leo, eleifend eu pharetra nec, sollicitudin id neque. Nam tristique commodo erat, vel tempor risus mollis vel.
+Nous avons besoin de votre soutien maintenant, afin de nous aider à renforcer et finaliser notre candidature d'ici la fin de la première semaine d'octobre. Les pré-inscriptions pour 2025 sont désormais ouvertes, alors réservez dès aujourd'hui la place de votre enfant&nbsp;! 👇
 
-Integer sit amet enim aliquam, egestas velit in, vehicula mi. Aenean finibus faucibus sem commodo pharetra. Maecenas rhoncus turpis quis diam sodales, id congue dolor ultrices. Aliquam id condimentum dui. Curabitur fringilla arcu in justo aliquam, in iaculis odio mattis. Duis efficitur lacus ac facilisis suscipit. Suspendisse porttitor, ligula id tristique sollicitudin, justo purus consectetur orci, eget vestibulum metus mi et mi. Etiam a molestie leo. Aenean feugiat nisl rutrum erat ornare congue. Aenean accumsan tristique sem, vitae mollis sapien imperdiet vitae. Donec sed sollicitudin velit. Sed auctor congue arcu.
+👉 Remplissez dès maintenant le [formulaire de pré-inscription](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform)&nbsp;!
 
-# Maecenas eget euismod tortor.
-Donec gravida libero nec magna molestie ultrices.
+🔑 **Informations clés**&nbsp;:
 
-## Aliquam sit amet odio
-Et risus iaculis fermentum sit amet sit amet nisl. Nam varius quis metus eu dignissim. Praesent viverra elementum risus id faucibus. Sed ultricies eros accumsan venenatis venenatis. Curabitur non ex fringilla purus fringilla condimentum a pulvinar risus.
+- Ouverture&nbsp;: Année scolaire 2025
+- Emplacement&nbsp;: 131 Remuera Road, Remuera
+- Classes&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3)
+- Programme&nbsp;: Programme français enseigné en français pendant 3 jours et demi, et en anglais pendant 1 jour et demi par semaine
+- Maximum 15 élèves par classe
+- Si votre enfant est né entre le 1er juillet 2017 et le 30 septembre 2020, il est éligible&nbsp;!
+- Un engagement formel sera requis en novembre, une fois que nous aurons reçu la décision finale concernant notre demande de financement pour les frais de scolarité.
 
-Quisque nec rutrum ex. Quisque feugiat mattis enim, ut molestie magna venenatis sagittis. Maecenas volutpat, dolor vitae condimentum pretium, lorem justo commodo quam, a convallis tortor mauris id tortor. Nulla mollis nibh ac sapien hendrerit eleifend. Nam tempor mauris urna, ac pharetra sem convallis quis. Curabitur eget ultricies lacus. Vivamus tristique neque vel finibus malesuada. Morbi placerat placerat nulla non tincidunt. Vivamus non urna scelerisque, pharetra ante posuere, eleifend nisl. Donec dictum urna ac tempus tincidunt. Suspendisse potenti. Curabitur ultrices tincidunt ante sed elementum. Fusce gravida pharetra dolor, sed ultrices ex varius ut. Nunc at tempus ante. Nulla eget dui suscipit, feugiat lectus quis, gravida massa. Integer massa mauris, volutpat sit amet neque ac, congue lacinia dolor.
+Aidez-nous à donner vie à cette nouvelle école française&nbsp;: Remplissez dès maintenant le [formulaire de pré-inscription](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform)&nbsp;!
 
-## Pellentesque habitant morbi
-Tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam fringilla vel lectus nec egestas. Ut molestie, est vitae cursus tincidunt, mi orci commodo nisi, accumsan feugiat velit mauris dignissim erat. Pellentesque in rhoncus felis. Cras consequat justo et sem mollis, non finibus ante euismod. Integer nibh tortor, eleifend eget leo ut, pretium ultricies augue. Nullam mollis congue sapien, ac interdum mauris vestibulum ut. In lorem velit, ultricies id metus ut, porttitor interdum turpis. Etiam lorem metus, bibendum non facilisis in, placerat eu neque. Vestibulum aliquet dui ac vulputate viverra. Pellentesque suscipit felis sapien, in faucibus ligula porta non. Nunc sit amet lobortis augue, ut hendrerit dolor.
-
-# Etiam in pharetra enim
-Etiam in pharetra enim. Nullam augue felis, faucibus eget enim ut, vestibulum facilisis nisl. In facilisis, nibh placerat volutpat sollicitudin, nulla purus eleifend eros, at semper tortor mi ut orci. Donec purus metus, sodales ut ante at, scelerisque hendrerit leo. Aliquam erat volutpat. Mauris egestas ultrices quam, non dapibus purus posuere eu. Suspendisse sed pretium mauris.
-
-Etiam sit amet tempor mi, vitae ullamcorper elit. Nullam maximus congue ultrices. Donec enim urna, vehicula ut quam ut, laoreet dignissim nunc. Aenean vel dictum augue. Nunc pretium nulla sed arcu interdum, nec pulvinar ante varius. Suspendisse accumsan eros justo, non consequat eros volutpat laoreet. Suspendisse eget consectetur tortor, et consectetur magna. Nam posuere eros fermentum metus fermentum fermentum. Nam scelerisque pulvinar enim, ut semper felis consectetur eget. Etiam quis aliquam purus. Nullam ut molestie eros. Pellentesque in sagittis ligula. Sed ornare mi imperdiet tincidunt ullamcorper. Phasellus sed urna tortor.
+Si vous avez des questions, veuillez nous contacter à l'adresse suivante : contact@ecole-francaise.nz
