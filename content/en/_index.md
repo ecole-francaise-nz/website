@@ -22,7 +22,7 @@ We need your support now, to help us strengthen and finalise our application in 
 - **Opening**: 2025 school year
 - **Location**: 131 Remuera Road, Remuera
 - **Classes**: Grande Section (Years 0 & 1), CP (Year 2), CE1 (Year 3)
-- **Curriculum**: French program taught in French for 3 1/2 days and 1 1/2 days/week in English
+- **Curriculum**: French program taught in French for 3½ days and 1½ days per week in English
 - **Limited Spots**: Max. 15 students per class
 - If your child was born between **1 July 2017 and 30 September 2020**, they are eligible!
 
