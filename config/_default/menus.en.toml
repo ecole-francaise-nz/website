@@ -1,149 +1,149 @@
 #### About us
-[[main]]
-name = 'About us'
-pageRef = '/about'
-weight = 10
+# [[main]]
+# name = 'About us'
+# pageRef = '/about'
+# weight = 10
 
-[[main]]
-name = 'EFIA'
-pageRef = '/about/efia'
-parent = 'About us'
-weight = 11
+# [[main]]
+# name = 'EFIA'
+# pageRef = '/about/efia'
+# parent = 'About us'
+# weight = 11
 
-[[main]]
-name = 'Our team'
-pageRef = '/about/team'
-parent = 'About us'
-weight = 12
+# [[main]]
+# name = 'Our team'
+# pageRef = '/about/team'
+# parent = 'About us'
+# weight = 12
 
-[[main]]
-name = 'Facilities'
-pageRef = '/about/facilities'
-parent = 'About us'
-weight = 13
+# [[main]]
+# name = 'Facilities'
+# pageRef = '/about/facilities'
+# parent = 'About us'
+# weight = 13
 
-[[main]]
-name = 'Languages'
-pageRef = '/about/languages'
-parent = 'About us'
-weight = 14
+# [[main]]
+# name = 'Languages'
+# pageRef = '/about/languages'
+# parent = 'About us'
+# weight = 14
 
-[[main]]
-name = 'Contact us'
-pageRef = '/about/contact'
-parent = 'About us'
-weight = 15
+# [[main]]
+# name = 'Contact us'
+# pageRef = '/about/contact'
+# parent = 'About us'
+# weight = 15
 
-#### Primary
-[[main]]
-name = 'Primary'
-pageRef = '/primary'
-weight = 20
+# #### Primary
+# [[main]]
+# name = 'Primary'
+# pageRef = '/primary'
+# weight = 20
 
-[[main]]
-name = 'Elementary'
-pageRef = '/primary/elementary'
-parent = 'Primary'
-weight = 21
+# [[main]]
+# name = 'Elementary'
+# pageRef = '/primary/elementary'
+# parent = 'Primary'
+# weight = 21
 
-[[main]]
-name = 'After school'
-pageRef = '/primary/after-school'
-parent = 'Primary'
-weight = 22
+# [[main]]
+# name = 'After school'
+# pageRef = '/primary/after-school'
+# parent = 'Primary'
+# weight = 22
 
-[[main]]
-name = 'Library'
-pageRef = '/primary/library'
-parent = 'Primary'
-weight = 23
+# [[main]]
+# name = 'Library'
+# pageRef = '/primary/library'
+# parent = 'Primary'
+# weight = 23
 
-#### Student Life
-[[main]]
-name = 'Student Life'
-pageRef = '/student-life'
-weight = 30
+# #### Student Life
+# [[main]]
+# name = 'Student Life'
+# pageRef = '/student-life'
+# weight = 30
 
-[[main]]
-name = 'Wellbeing'
-pageRef = '/student-life/wellbeing'
-parent = 'Student Life'
-weight = 31
+# [[main]]
+# name = 'Wellbeing'
+# pageRef = '/student-life/wellbeing'
+# parent = 'Student Life'
+# weight = 31
 
-[[main]]
-name = 'Sport'
-pageRef = '/student-life/sport'
-parent = 'Student Life'
-weight = 32
+# [[main]]
+# name = 'Sport'
+# pageRef = '/student-life/sport'
+# parent = 'Student Life'
+# weight = 32
 
-[[main]]
-name = 'Extracurricular activities'
-pageRef = '/student-life/extracurricular'
-parent = 'Student Life'
-weight = 33
+# [[main]]
+# name = 'Extracurricular activities'
+# pageRef = '/student-life/extracurricular'
+# parent = 'Student Life'
+# weight = 33
 
-#### Enrolment
-[[main]]
-name = 'Enrolment'
-pageRef = '/enrolment'
-weight = 40
+# #### Enrolment
+# [[main]]
+# name = 'Enrolment'
+# pageRef = '/enrolment'
+# weight = 40
 
-[[main]]
-name = 'Why EFIA'
-pageRef = '/enrolment/why-efia'
-parent = 'Enrolment'
-weight = 41
+# [[main]]
+# name = 'Why EFIA'
+# pageRef = '/enrolment/why-efia'
+# parent = 'Enrolment'
+# weight = 41
 
-[[main]]
-name = 'How to enrol'
-pageRef = '/enrolment/how-to-enrol'
-parent = 'Enrolment'
-weight = 42
+# [[main]]
+# name = 'How to enrol'
+# pageRef = '/enrolment/how-to-enrol'
+# parent = 'Enrolment'
+# weight = 42
 
-[[main]]
-name = 'Visit'
-pageRef = '/enrolment/visit'
-parent = 'Enrolment'
-weight = 43
+# [[main]]
+# name = 'Visit'
+# pageRef = '/enrolment/visit'
+# parent = 'Enrolment'
+# weight = 43
 
-[[main]]
-name = 'Fees & financing'
-pageRef = '/enrolment/fees-and-financing'
-parent = 'Enrolment'
-weight = 44
+# [[main]]
+# name = 'Fees & financing'
+# pageRef = '/enrolment/fees-and-financing'
+# parent = 'Enrolment'
+# weight = 44
 
-#### Careers
-[[main]]
-name = 'Careers'
-pageRef = '/careers'
-weight = 50
+# #### Careers
+# [[main]]
+# name = 'Careers'
+# pageRef = '/careers'
+# weight = 50
 
-[[main]]
-name = 'Life in Auckland'
-pageRef = '/careers/life-in-auckland'
-parent = 'Careers'
-weight = 51
+# [[main]]
+# name = 'Life in Auckland'
+# pageRef = '/careers/life-in-auckland'
+# parent = 'Careers'
+# weight = 51
 
-[[main]]
-name = 'Work with us'
-pageRef = '/careers/work-with-us'
-parent = 'Careers'
-weight = 52
+# [[main]]
+# name = 'Work with us'
+# pageRef = '/careers/work-with-us'
+# parent = 'Careers'
+# weight = 52
 
-[[main]]
-name = 'Current opportunities'
-pageRef = '/careers/current-opportunities'
-parent = 'Careers'
-weight = 53
+# [[main]]
+# name = 'Current opportunities'
+# pageRef = '/careers/current-opportunities'
+# parent = 'Careers'
+# weight = 53
 
-[[main]]
-name = 'AEFE'
-pageRef = '/careers/aefe'
-parent = 'Careers'
-weight = 54
+# [[main]]
+# name = 'AEFE'
+# pageRef = '/careers/aefe'
+# parent = 'Careers'
+# weight = 54
 
-#### News
-[[main]]
-name = 'News'
-pageRef = '/news'
-weight = 60
+# #### News
+# [[main]]
+# name = 'News'
+# pageRef = '/news'
+# weight = 60
