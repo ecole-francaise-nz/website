@@ -19,9 +19,9 @@ parent = 'About us'
 weight = 12
 
 [[main]]
-name = "Facilities"
-identifier = 'Facilities'
-pageRef = '/about/facilities'
+name = "Premises"
+identifier = 'Premises'
+pageRef = '/about/premises'
 parent = 'About us'
 weight = 13
 

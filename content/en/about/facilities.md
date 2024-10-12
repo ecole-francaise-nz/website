@@ -1,5 +1,5 @@
 +++
-title = 'Facilities'
+title = 'Premises'
 date = 2024-05-09T09:48:20+12:00
 hero = "../premises.jpg"
 bannerHeight = "500px"
