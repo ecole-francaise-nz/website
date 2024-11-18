@@ -13,9 +13,9 @@ A few weeks ago, we shared the exciting plan to open Auckland’s new **French I
 🎉 We’re thrilled to announce that we have applied for funding to offer **free tuition** for all students, and our project is now in the final phase of the selection process!
 
 🗓️ **What's Next**?
-We need your support now, to help us strengthen and finalise our application in the next few days. Pre-enrolments for 2025 are now open to secure your child’s spot today! 👇
+Enrolments for 2025 are open now, as well as pre-enrolment for 2026 or beyond, so secure your child’s spot today! 👇
 
-👉 Complete the [pre-enrolment form](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform) now!
+👉 Complete the [enrolment form for 2025](https://ecole-francaise.nz/efia_application_form.pdf), or the [pre-enrolment form for 2026 or beyond](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform).
 
 🔑 **Key Info**:
 

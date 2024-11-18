@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Préinscription"
 url: "/fr/pre-enrol"
 hero: "/images/efia-en-pre-enrol-wide.png"
 bannerHeight: "730px"

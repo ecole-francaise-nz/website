@@ -1,4 +1,3 @@
-### About us
 [[main]]
 name = 'À propos'
 identifier = 'About us'
@@ -21,19 +20,19 @@ weight = 12
 
 [[main]]
 name = "Nos installations"
-identifier = 'Facilities'
-pageRef = '/about/facilities'
+identifier = 'Premises'
+pageRef = '/about/premises'
 parent = 'About us'
 weight = 13
 
 [[main]]
-name = 'Curriculum'
+name = 'Programme'
 identifier = 'Curriculum'
 pageRef = '/curriculum'
 weight = 20
 
 [[main]]
-name = 'Le programme Français'
+name = 'Le programme français'
 identifier = 'The French Curriculum'
 pageRef = '/curriculum/french-curriculum'
 parent = 'Curriculum'
@@ -47,14 +46,14 @@ parent = 'Curriculum'
 weight = 22
 
 [[main]]
-name = 'Accréditation AEFE'
+name = "L'accréditation AEFE"
 identifier = 'AEFE Accreditation'
 pageRef = '/curriculum/aefe'
 parent = 'Curriculum'
 weight = 23
 
 [[main]]
-name = 'Enrolment'
+name = 'Inscription'
 identifier = 'Enrolment'
 pageRef = '/enrolment'
 weight = 30

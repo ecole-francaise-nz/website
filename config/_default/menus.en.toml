@@ -26,13 +26,6 @@ parent = 'About us'
 weight = 13
 
 [[main]]
-name = 'Contact'
-identifier = 'Contact us'
-pageRef = '/about/contact'
-parent = 'About us'
-weight = 14
-
-[[main]]
 name = 'Curriculum'
 identifier = 'Curriculum'
 pageRef = '/curriculum'

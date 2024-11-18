@@ -4,9 +4,9 @@ hero = "/images/efia-hero.jpg"
 bannerHeight = "500px"
 +++
 
-Pre-enrolments for 2025 are now open to secure your child’s spot today! 👇
+Enrolments for 2025 are open now, as well as pre-enrolment for 2026 and beyond, so secure your child’s spot today! 👇
 
-👉 Complete the [pre-enrolment form](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform) now!
+👉 Complete the [enrolment form for 2025](https://ecole-francaise.nz/efia_application_form.pdf), or the [pre-enrolment form for 2026 or beyond](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform).
 
 🔑 **Key Info**:
 
