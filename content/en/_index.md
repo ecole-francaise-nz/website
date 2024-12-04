@@ -1,31 +1,42 @@
 +++
 title = 'Auckland French International School'
-hero = "/images/efia-hero.jpg"
+hero = "/images/efia-maison1.jpg"
 bannerHeight = "500px"
 +++
 
-📢 Exciting News: A new **French International School in Auckland**! 🇫🇷📚
+**Welcome to École Française Internationale Auckland! ✨**
 
-A few weeks ago, we shared the exciting plan to open Auckland’s new **French International School**, offering the French curriculum right here in our city. The community response has been incredible—thank you all for your amazing support! 🙌
+The first **French charter school** in New Zealand is opening its doors in **February 2025!**
 
-🌍 This school is for **everyone**! It will be part of a prestigious network of 580 French schools across 139 countries, known for delivering a world-class education. It will provide a quality educational experience for families of all nationalities, offering a **bilingual and multicultural environment** where children can thrive both academically and personally.
+This school welcomes **everyone**, regardless of your child’s nationality, fostering a vibrant and diverse community. We are thrilled to bring a **world-class education** to Auckland, offering the prestigious French curriculum in a bilingual and multicultural environment.
+This is an exciting opportunity for children to grow academically and personally while benefiting from **free tuition** for all students.
 
-🎉 We’re thrilled to announce that we have applied for funding to offer **free tuition** for all students, and our project is now in the final phase of the selection process!
+**🌍 About Us**
 
-🗓️ **What's Next**?
-Enrolments for 2025 are open now, as well as pre-enrolment for 2026 or beyond, so secure your child’s spot today! 👇
+École Française Internationale Auckland is part of the renowned global network of **580 French schools across 139 countries**, known for academic excellence and innovation.
 
-👉 Complete the [enrolment form for 2025](https://ecole-francaise.nz/efia_application_form.pdf), or the [pre-enrolment form for 2026 or beyond](https://docs.google.com/forms/d/1VLo-GeMip3u43QxgeJ3xVMMyPnuiR6afyajZACTnBsk/viewform).
+🔑 **Key Information**
 
-🔑 **Key Info**:
-
-- **Opening**: 2025 school year
+- **Opening date**: 2025 school year
 - **Location**: 131 Remuera Road, Remuera
 - **Classes**: Grande Section (Years 0 & 1), CP (Year 2), CE1 (Year 3)
-- **Curriculum**: French program taught in French for 3½ days and 1½ days per week in English
-- **Limited Spots**: Max. 20 students per class
-- If your child was born between **1 July 2017 and 30 September 2020**, they are eligible!
+- **Curriculum**: French program taught in French (3½ days per week) and in English (1½ days per week)
+- **Limited Spots**: Maximum of 15 students per class
+- **Eligibility**: Children born between **1 July 2017 and 30 September 2020**
 
-A formal commitment will be required in November, once we receive the final decision on our funding application for tuition fees.
+📢 **Enrol Now!**
 
-For any questions, feel free to contact us at contact@ecole-francaise.nz.
+Enrolments for 2025 are now open. Secure your child’s spot today:
+
+👉 [Enrolment form for 2025](https://ecole-francaise.nz/efia_application_form.pdf)
+
+⚠️ Enrolments for 2026 will open during 2025. Stay tuned for updates!
+
+**Why enrol your children with us?**
+
+- **Free Tuition**: Access high-quality education without tuition fees.
+- **Bilingual Excellence**: Master French and English in a multicultural setting.
+- **Small Class Sizes**: Individual attention with a maximum of 15 students per class.
+- **Global Network**: Be part of a prestigious international education system.
+
+_For any questions, feel free to contact us at contact@ecole-francaise.nz._
