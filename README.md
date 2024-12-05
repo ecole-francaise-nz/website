@@ -1,3 +1,4 @@
 # ecole-francaise-nz.github.io
 
-Work in progress...
+An update is being deployed, please try again in a few minutes.
+
