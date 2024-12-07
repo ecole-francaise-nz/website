@@ -9,6 +9,6 @@ L'école est située dans le quartier de Remuera ([carte](https://maps.app.goo.g
 
 L'accès est très facile et il y a de nombreuses places de stationnement dans les environs.
 
-Nous aurons des classes réduites de maximum 20 élèves.
+Nous aurons des classes réduites de maximum 15 élèves.
 
 ![Locaux de l'ÉFIA](../premises.jpg "Locaux de l'ÉFIA")
