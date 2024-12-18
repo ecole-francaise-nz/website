@@ -1,5 +1,7 @@
 +++
 title = 'Le programme français'
+hero = "/images/french-curriculum-banner.png"
+bannerHeight = "450px"
 +++
 
 L'EFIA est une école internationale bilingue offrant un programme français de haute qualité, enrichi par le programme et les approches pédagogiques de la Nouvelle-Zélande.

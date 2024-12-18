@@ -1,5 +1,7 @@
 +++
 title = 'The French Curriculum'
+hero = "/images/french-curriculum-banner.png"
+bannerHeight = "450px"
 +++
 
 A bilingual international school offering a high-quality French curriculum, enriched by New Zealand's curriculum and pedagogical approaches.

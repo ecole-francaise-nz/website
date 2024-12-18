@@ -1,5 +1,5 @@
 +++
-title = 'Auckland French International School'
+title = 'École Française Internationale Auckland'
 hero = "/images/efia-maison1.jpg"
 bannerHeight = "500px"
 +++
@@ -12,16 +12,19 @@ Cette école est **ouverte à tous.** Elle propose une expérience éducative de
 
 🌍 **À propos de nous**
 
-L’École Française Internationale Auckland fait partie d'un **réseau prestigieux de 580 écoles françaises dans 139 pays**, reconnu pour offrir une éducation de classe mondiale.
+L’École Française Internationale Auckland fait partie d'un **réseau prestigieux de 580 écoles françaises dans 140 pays**, reconnu pour offrir une éducation de classe mondiale.
 
 🔑 **Informations clés**
 
 - **Ouverture**&nbsp;: Année scolaire 2025
 - **Emplacement**&nbsp;: 131 Remuera Road, Remuera
+- **Pas de zones d'inscription**: Les élèves peuvent habiter n'importe où
 - **Classes**&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3)
 - **Programme**&nbsp;: Programme français enseigné en français pendant 3 jours et demi, et en anglais pendant 1 jour et demi par semaine
 - **Effectifs**: Maximum 15 élèves par classe
-- **Eligibilité**: Si votre enfant est né entre le **1er juillet 2017 et le 30 septembre 2020**, il est éligible&nbsp;!
+- **Eligibilité**: Si votre enfant est né entre le **1er juillet 2017 et le 31 décembre 2020**, il est éligible.
+- **Langue**: Tous les enfants sont les bienvenus, quel que soit leur niveau de français.
+- **Coût**: La scolarité est gratuite pour tous les élèves!
 
 📢 **Inscrivez-vous maintenant !**
 

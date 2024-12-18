@@ -1,5 +1,7 @@
 +++
 title = 'AEFE'
+hero = "/images/aefe-banner.png"
+bannerHeight = "500px"
 +++
 
 The school aims to achieve accreditation from the Agency for French Education Abroad (AEFE) within two years.

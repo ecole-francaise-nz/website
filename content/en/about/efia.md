@@ -1,9 +1,15 @@
 +++
 title = 'EFIA'
 date = 2024-05-09T09:47:42+12:00
+hero = "/images/efia-banner.png"
+bannerHeight = "500px"
 +++
 
 **Auckland French International School** (École Française Internationale Auckland) is a new international school offering the French curriculum, enhanced with key competencies from the New Zealand curriculum, and taught in both French & English.
+
+**Download the flyer**
+
+[![EFIA Flyer](/images/efia-flyer.png "EFIA Flyer")](/efia-flyer.pdf)
 
 This is a unique educational opportunity in New Zealand, allowing students to seamlessly transition between the French and New Zealand mainstream curriculums at any point.
 

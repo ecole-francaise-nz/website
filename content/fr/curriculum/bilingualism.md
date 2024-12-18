@@ -1,5 +1,7 @@
 +++
 title = 'Bilinguisme'
+hero = "/images/bilinguism-banner.png"
+bannerHeight = "500px"
 +++
 
 L'un des principaux avantages d'une éducation bilingue est le boost cognitif qu'elle apporte aux enfants.

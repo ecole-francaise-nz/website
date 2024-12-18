@@ -46,7 +46,7 @@ parent = 'Curriculum'
 weight = 22
 
 [[main]]
-name = "L'accréditation AEFE"
+name = "Homologation AEFE"
 identifier = 'AEFE Accreditation'
 pageRef = '/curriculum/aefe'
 parent = 'Curriculum'
