@@ -22,15 +22,16 @@ L’École Française Internationale Auckland fait partie d'un **réseau prestig
 - **Classes**&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3)
 - **Programme**&nbsp;: Programme français enseigné en français pendant 3 jours et demi, et en anglais pendant 1 jour et demi par semaine
 - **Effectifs**: Maximum 15 élèves par classe
-- **Eligibilité**: Si votre enfant est né entre le **1er juillet 2017 et le 31 décembre 2020**, il est éligible.
+- **Eligibilité**: Si votre enfant est né entre le **1er janvier 2017 et le 31 décembre 2020**, il est éligible.
 - **Langue**: Tous les enfants sont les bienvenus, quel que soit leur niveau de français.
 - **Coût**: La scolarité est gratuite pour tous les élèves!
 
 📢 **Inscrivez-vous maintenant !**
 
-Les inscriptions pour 2025 sont désormais ouvertes. Réservez la place de votre enfant dès aujourd'hui :
+Les inscriptions sont désormais ouvertes. Réservez la place de votre enfant dès aujourd'hui :
 
-👉 [Formulaire d'inscription pour 2025](https://ecole-francaise.nz/efia_application_form.pdf)
+- 👉 [Formulaire d'inscription pour 2025](https://ecole-francaise.nz/efia_application_form.pdf)
+- 👉 [Formulaire d'inscription pour 2026 ou au-delà](https://ecole-francaise.nz/efia_application_form_2026_plus.pdf)
 
 **Pourquoi inscrire votre enfant chez nous ?**
 

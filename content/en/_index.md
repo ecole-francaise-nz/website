@@ -23,17 +23,16 @@ This is an exciting opportunity for children to grow academically and personally
 - **Classes**: Grande Section (Years 0 & 1), CP (Year 2), CE1 (Year 3)
 - **Curriculum**: French program taught in French (3½ days per week) and in English (1½ days per week)
 - **Limited Spots**: Maximum of 15 students per class
-- **Eligibility**: Children born between **1 July 2017 and 31 December 2020**.
+- **Eligibility**: Children born between **1 January 2017 and 31 December 2020**.
 - **Language**: We welcome all children, whether they already speak French or are new to the language.
 - **Cost**: Tuition is free for all students!
 
 📢 **Enrol Now!**
 
-Enrolments for 2025 are now open. Secure your child’s spot today:
+Enrolments are now open. Secure your child’s spot today:
 
-👉 [Enrolment form for 2025](https://ecole-francaise.nz/efia_application_form.pdf)
-
-⚠️ Enrolments for 2026 will open during 2025. Stay tuned for updates!
+- 👉 [Enrolment form for 2025](https://ecole-francaise.nz/efia_application_form.pdf)
+- 👉 [Enrolment form for 2026 or later](https://ecole-francaise.nz/efia_application_form_2026_plus.pdf)
 
 **Why enrol your children with us?**
 
