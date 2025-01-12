@@ -7,19 +7,19 @@ date = 2025-01-11T12:24:00+12:00
 
 # 2025
 
-### Term 1 – 03/02/2025 to 11/04/2025
+### Premier trimestre – 03/02/2025 au 11/04/2025
 
-- Public holiday: 06/02/2025 (Waitangi)
-- Extra holiday: 07/02/2025
+- Jour férié: 06/02/2025 (Waitangi)
+- Journée de vacances supplémentaire: 07/02/2025
 
-### Term 2 – 28/04/2025 to 27/06/2025
+### Second trimestre – 28/04/2025 au 27/06/2025
 
-- Public holidays:
-  - 02/06/2025 (King's Official Birthday)
+- Jours fériés:
+  - 02/06/2025 (anniversaire officiel du Roi)
   - 20/06/2025 (Matariki)
 
-### Term 3 - 14/07/2025 to 19/09/2025
+### Troisième trimestre - 14/07/2025 au 19/09/2025
 
-### Term 4 – 06/10/2025 to 17/12/2025
+### Quatrième trimestre – 06/10/2025 au 17/12/2025
 
-- Public holiday: 27/10/2025 (Labour day)
+- Jour férié: 27/10/2025 (Fête du travail)

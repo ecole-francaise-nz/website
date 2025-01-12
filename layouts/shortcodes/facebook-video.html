@@ -1,0 +1,18 @@
+<div id="fb-root"></div>
+<script
+  async
+  defer
+  crossorigin="anonymous"
+  src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v15.0"
+></script>
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+    <div
+    class="fb-video"
+    data-href="{{ .Get "url" }}"
+    data-width="{{ .Get "width" | default 560 }}"
+    data-height="{{ .Get "height" | default 420 }}"
+    data-show-text="{{ .Get "show_text" | default "false" }}"
+    data-start-at="{{ .Get "start" | default 0 }}"
+    ></div>
+</div>

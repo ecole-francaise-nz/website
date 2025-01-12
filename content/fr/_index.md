@@ -10,6 +10,10 @@ bannerHeight = "500px"
 
 Cette école est **ouverte à tous.** Elle propose une expérience éducative de qualité pour les familles **de toutes nationalités**, offrant un environnement bilingue et multiculturel où les enfants pourront s’épanouir à la fois académiquement et personnellement, tout en bénéficiant de **frais de scolarité gratuits** pour tous les élèves.
 
+{{< facebook-video url="https://www.facebook.com/61568980597632/videos/597829356521755/" >}}
+
+---
+
 🌍 **À propos de nous**
 
 L’École Française Internationale Auckland fait partie d'un **réseau prestigieux de 580 écoles françaises dans 140 pays**, reconnu pour offrir une éducation de classe mondiale.

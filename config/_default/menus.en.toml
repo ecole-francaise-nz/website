@@ -78,19 +78,39 @@ parent = 'School Life'
 weight = 32
 
 [[main]]
+name = "Children Holiday Program"
+identifier = 'Children Holiday Program'
+pageRef = '/school-life/children-holiday-program'
+parent = 'School Life'
+weight = 33
+
+[[main]]
+name = "Alliance Française Membership"
+identifier = 'Alliance Française Auckland Membership'
+pageRef = '/school-life/afa-membership'
+parent = 'School Life'
+weight = 34
+
+[[main]]
 name = 'Policies and Procedures'
 identifier = 'Policies and Procedures'
 pageRef = '/school-life/policies-and-procedures'
 parent = 'School Life'
-weight = 33
+weight = 35
 
 [[main]]
 name = "Donations"
 identifier = 'Donations'
 pageRef = '/school-life/donations'
 parent = 'School Life'
-weight = 34
+weight = 36
 
+[[main]]
+name = "Additional Resources"
+identifier = 'Additional Resources'
+pageRef = '/school-life/additional-resources'
+parent = 'School Life'
+weight = 37
 
 ############################################
 [[main]]
