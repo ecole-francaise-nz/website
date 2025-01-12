@@ -1,4 +1,5 @@
 *.lock
+/.bak
 .DS_Store
 /public
 /resources

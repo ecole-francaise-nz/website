@@ -1,3 +1,4 @@
+############################################
 [[main]]
 name = 'À propos'
 identifier = 'About us'
@@ -25,41 +26,83 @@ pageRef = '/about/premises'
 parent = 'About us'
 weight = 13
 
+
+############################################
 [[main]]
 name = 'Programme'
-identifier = 'Curriculum'
-pageRef = '/curriculum'
+identifier = 'Learning'
+pageRef = '/learning'
 weight = 20
 
 [[main]]
 name = 'Le programme français'
 identifier = 'The French Curriculum'
-pageRef = '/curriculum/french-curriculum'
-parent = 'Curriculum'
+pageRef = '/learning/french-curriculum'
+parent = 'Learning'
 weight = 21
 
 [[main]]
 name = 'Les atoux du bilinguisme'
 identifier = 'The Advantages of Bilingualism'
-pageRef = '/curriculum/bilingualism'
-parent = 'Curriculum'
+pageRef = '/learning/bilingualism'
+parent = 'Learning'
 weight = 22
 
 [[main]]
 name = "Homologation AEFE"
 identifier = 'AEFE Accreditation'
-pageRef = '/curriculum/aefe'
-parent = 'Curriculum'
+pageRef = '/learning/aefe'
+parent = 'Learning'
 weight = 23
 
+
+############################################
+[[main]]
+name = 'Vie des élèves'
+identifier = 'School Life'
+pageRef = '/school-life'
+weight = 30
+
+[[main]]
+name = 'Calendrier scolaire et horaires'
+identifier = 'Term Dates & School Times'
+pageRef = '/school-life/term-dates-and-school-times'
+parent = 'School Life'
+weight = 31
+
+[[main]]
+name = "Activités périscolaires"
+identifier = 'After-School Activities'
+pageRef = '/school-life/after-school'
+parent = 'School Life'
+weight = 32
+
+[[main]]
+name = 'Politiques et procédures'
+identifier = 'Policies and Procedures'
+pageRef = '/school-life/policies-and-procedures'
+parent = 'School Life'
+weight = 33
+
+[[main]]
+name = "Dons"
+identifier = 'Donations'
+pageRef = '/school-life/donations'
+parent = 'School Life'
+weight = 34
+
+
+############################################
 [[main]]
 name = 'Inscription'
 identifier = 'Enrolment'
 pageRef = '/enrolment'
-weight = 30
+weight = 40
 
+
+############################################
 [[main]]
 name = 'Contact'
 identifier = 'Contact us'
 pageRef = '/contact'
-weight = 40
+weight = 50
