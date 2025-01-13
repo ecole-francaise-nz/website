@@ -7,7 +7,7 @@ date = 2025-01-11T12:24:00+12:00
 
 # Horaires
 
-De 8h30 à 15h30 du lundi au vendredi.
+De 8h30 à 15h du lundi au vendredi.
 
 # Calendrier 2025
 

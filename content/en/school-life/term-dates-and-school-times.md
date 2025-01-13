@@ -7,7 +7,7 @@ date = 2025-01-11T12:24:00+12:00
 
 # School Times
 
-8:30am to 3:30pm, Monday to Friday.
+8:30am to 3pm, Monday to Friday.
 
 # 2025 Calendar
 
