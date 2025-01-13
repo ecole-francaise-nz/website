@@ -1,7 +1,7 @@
 +++
 title = "EFIA"
 date = 2024-05-09T09:47:42+12:00
-hero = "/images/efia-banner.png"
+hero = "/images/efia-banner.jpg"
 bannerHeight = "500px"
 +++
 
@@ -21,4 +21,4 @@ Vous trouverez ci-dessous une présentation comparative des correspondances entr
 
 **Téléchargez notre flyer**
 
-[![EFIA Flyer](/images/efia-flyer.png "EFIA Flyer")](/efia-flyer.pdf)
+[![EFIA Flyer](/images/efia-flyer.jpg "EFIA Flyer")](/efia-flyer.pdf)

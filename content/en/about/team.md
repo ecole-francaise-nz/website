@@ -1,7 +1,7 @@
 +++
 title = 'Team'
 hero = "/images/efia-teacher.jpg"
-bannerHeight = "400px"
+bannerHeight = "500px"
 date = 2024-05-09T09:47:33+12:00
 +++
 
@@ -36,7 +36,7 @@ Some of our teachers not only have experience teaching in France but have also l
 
 **Paul Barrier: Teacher**
 
-![Paul Barrier](/images/Paul-Barrier.png "Paul Barrier")
+![Paul Barrier](/images/Paul-Barrier.jpg "Paul Barrier")
 
 > I'm Paul, a young teacher **passionate about knowledge transmission and sciences**.
 > At 28 years old, I dedicate myself enthusiastically to educating young minds as a school teacher. My goal is to create a dynamic and interactive learning environment where each student can flourish and discover the richness of the French language and culture.

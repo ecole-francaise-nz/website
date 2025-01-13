@@ -1,7 +1,7 @@
 +++
 title = 'Policies and Procedures'
-hero = "/images/efia-teacher.jpg"
-bannerHeight = "400px"
+hero = "/images/policies-banner.jpg"
+bannerHeight = "500px"
 date = 2025-01-11T12:24:00+12:00
 +++
 

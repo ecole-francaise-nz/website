@@ -1,11 +1,15 @@
 +++
 title = 'Term Dates and School Times'
-hero = "/images/efia-teacher.jpg"
-bannerHeight = "400px"
+hero = "/images/term-dates-banner.jpg"
+bannerHeight = "500px"
 date = 2025-01-11T12:24:00+12:00
 +++
 
-# 2025
+# School Times
+
+8:30am to 3:30pm, Monday to Friday.
+
+# 2025 Calendar
 
 ### Term 1 – 03/02/2025 to 11/04/2025
 

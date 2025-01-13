@@ -1,6 +1,6 @@
 +++
 title = 'Bilingualism'
-hero = "/images/bilinguism-banner.png"
+hero = "/images/bilinguism-banner.jpg"
 bannerHeight = "500px"
 +++
 

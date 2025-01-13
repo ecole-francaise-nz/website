@@ -1,7 +1,7 @@
 +++
 title = 'EFIA'
 date = 2024-05-09T09:47:42+12:00
-hero = "/images/efia-banner.png"
+hero = "/images/efia-banner.jpg"
 bannerHeight = "500px"
 +++
 
@@ -21,4 +21,4 @@ Below is a comparative presentation of the French and New Zealand class level co
 
 **Download the flyer**
 
-[![EFIA Flyer](/images/efia-flyer.png "EFIA Flyer")](/efia-flyer.pdf)
+[![EFIA Flyer](/images/efia-flyer.jpg "EFIA Flyer")](/efia-flyer.pdf)

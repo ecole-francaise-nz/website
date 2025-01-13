@@ -1,7 +1,7 @@
 +++
 title = 'Programme de vacances pour enfants'
-hero = "/images/efia-teacher.jpg"
-bannerHeight = "400px"
+hero = "/images/chp2-banner.jpg"
+bannerHeight = "500px"
 date = 2025-01-11T12:24:00+12:00
 +++
 

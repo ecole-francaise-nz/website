@@ -1,7 +1,7 @@
 +++
 title = "L'équipe"
 hero = "/images/efia-teacher.jpg"
-bannerHeight = "400px"
+bannerHeight = "500px"
 date = 2024-05-09T09:47:33+12:00
 +++
 
@@ -36,7 +36,7 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 
 **Paul Barrier : Professeur**
 
-![Paul Barrier](/images/Paul-Barrier.png "Paul Barrier")
+![Paul Barrier](/images/Paul-Barrier.jpg "Paul Barrier")
 
 > Je suis Paul, un **jeune enseignant passionné par la transmission du savoir et par les sciences**.
 > À 28 ans, je me consacre avec enthousiasme à l’éducation des jeunes esprits en tant que professeur des écoles. Mon objectif est de créer un environnement d’apprentissage dynamique et interactif où chaque élève peut s’épanouir et découvrir la richesse de la langue et de la culture françaises.

@@ -1,11 +1,15 @@
 +++
 title = 'Calendrier scolaire et horaires'
-hero = "/images/efia-teacher.jpg"
-bannerHeight = "400px"
+hero = "/images/term-dates-banner.jpg"
+bannerHeight = "500px"
 date = 2025-01-11T12:24:00+12:00
 +++
 
-# 2025
+# Horaires
+
+De 8h30 à 15h30 du lundi au vendredi.
+
+# Calendrier 2025
 
 ### Premier trimestre – 03/02/2025 au 11/04/2025
 

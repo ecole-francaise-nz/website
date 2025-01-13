@@ -1,7 +1,7 @@
 ---
 title: ""
 url: "/pre-enrol"
-hero: "/images/efia-en-pre-enrol-wide.png"
+hero: "/images/efia-en-pre-enrol-wide.jpg"
 layout: "pre-enrol"
 bannerHeight: "730px"
 ---

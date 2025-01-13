@@ -1,6 +1,6 @@
 +++
 title = 'AEFE'
-hero = "/images/aefe-banner.png"
+hero = "/images/aefe-banner.jpg"
 bannerHeight = "500px"
 +++
 

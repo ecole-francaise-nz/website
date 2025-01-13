@@ -1,6 +1,6 @@
 +++
 title = 'The French Curriculum'
-hero = "/images/french-curriculum-banner.png"
+hero = "/images/french-curriculum-banner.jpg"
 bannerHeight = "450px"
 +++
 
