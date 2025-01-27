@@ -6,9 +6,9 @@ pageRef = '/about'
 weight = 10
 
 [[main]]
-name = 'EFIA'
-identifier = 'EFIA'
-pageRef = '/about/efia'
+name = 'Vision & valeurs'
+identifier = 'Vision & Values'
+pageRef = '/about/vision-and-values'
 parent = 'About us'
 weight = 11
 

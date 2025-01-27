@@ -6,6 +6,10 @@ bannerHeight = "450px"
 
 L'EFIA est une école internationale bilingue offrant un programme français de haute qualité, enrichi par le programme et les approches pédagogiques de la Nouvelle-Zélande.
 
+Vous trouverez ci-dessous une présentation comparative des correspondances entre les niveaux de classe français et néo-zélandais, afin de mieux comprendre le programme français que nous prévoyons de proposer :
+
+![Comparaison des programmes](/images/french-nz-curriculums.png "Comparaison entre les programmes français et néo-zélandais")
+
 Dans le programme français, l'enseignement est organisé en cinq domaines d'apprentissage pendant le 1er cycle (Grande section = Année 0/1) :
 
 1. Mobiliser le langage dans toutes ses dimensions

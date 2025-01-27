@@ -4,7 +4,11 @@ hero = "/images/french-curriculum-banner.jpg"
 bannerHeight = "450px"
 +++
 
-A bilingual international school offering a high-quality French curriculum, enriched by New Zealand's curriculum and pedagogical approaches.
+EFIA is a bilingual international school offering a high-quality French curriculum, enriched by New Zealand's curriculum and pedagogical approaches.
+
+Below is a comparative presentation of the French and New Zealand class level correspondences to help clarify the French curriculum we plan to offer:
+
+![Curriculum Comparison](/images/french-nz-curriculums.png "Comparison Between the French and New Zealand Curriculums")
 
 In the French curriculum, the education is organized into five learning areas during the 1st Cycle (Grande section / Year 0/1):
 
