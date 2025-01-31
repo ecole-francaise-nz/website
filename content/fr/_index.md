@@ -44,4 +44,4 @@ Les inscriptions sont désormais ouvertes. Réservez la place de votre enfant d�
 - **Petites classes** : Attention individualisée avec un maximum de 15 élèves par classe.
 - **Réseau mondial** : Faites partie d’un système éducatif international prestigieux.
 
-Pour toute question, n'hésitez-pas à nous contacter à l'adresse suivante&nbsp;: contact@ecole-francaise.nz
+_Pour toute question, n'hésitez-pas à [nous contacter](/fr/contact/)._
