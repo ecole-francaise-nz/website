@@ -13,7 +13,7 @@ Chaque contribution, quelle qu’en soit la taille, a un impact direct sur la vi
 
 Le don annuel a été fixé à 550$ par élève cette année.
 
-Virement bancaire direct au compte de l'EFIA: `06-0323-0901946-00`. Veuillez svp indiquer votre nom dans le champ _Particulars_, et "Donation" comme référence du virement.
+Virement bancaire direct au compte de `ECOLE FRANCAISE INTERNATIONALE AUCKLAND`, compte numéro `06-0323-0901946-00`. Veuillez svp indiquer votre nom dans le champ _Particulars_, et "Donation" comme référence du virement.
 
 Un reçu sera fourni à réception de la donation, ce qui permet de déposer une demande de crédit d'impôt auprès de l'IRD puisque l'école est enregistrée comme "charitable trust".
 

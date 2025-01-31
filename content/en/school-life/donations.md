@@ -13,7 +13,7 @@ Every contribution, no matter the size, directly impacts the lives of our studen
 
 This year’s donation has been set at $550 per student.
 
-Direct Credit to EFIA bank account `06-0323-0901946-00`. Please state your name in the _Particulars_ field, and "Donation" as the reference.
+Direct Credit to `ECOLE FRANCAISE INTERNATIONALE AUCKLAND`, bank account `06-0323-0901946-00`. Please state your name in the _Particulars_ field, and "Donation" as the reference.
 
 A receipt will be provided upon receiving the donation, allowing you to apply for a tax credit with the IRD since the school is registered as a charitable trust.
 

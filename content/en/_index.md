@@ -45,4 +45,4 @@ Enrolments are now open. Secure your child’s spot today:
 - **Small Class Sizes**: Individual attention with a maximum of 15 students per class.
 - **Global Network**: Be part of a prestigious international education system.
 
-_For any questions, feel free to contact us at contact@ecole-francaise.nz._
+_For any questions, feel free to contact us at contact@ecole-francaise.nz or call 09 24 24 442 during opening hours._
