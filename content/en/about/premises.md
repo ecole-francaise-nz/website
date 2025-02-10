@@ -9,6 +9,6 @@ The school is located in the Remuera neighborhood ([map](https://maps.app.goo.gl
 
 Access is very easy and there are plenty of parking spaces in the area.
 
-We will have small classes of maximum 15 students.
+We have small classes of maximum 15 students.
 
 ![EFIA Premises](../premises.jpg "EFIA Premises")

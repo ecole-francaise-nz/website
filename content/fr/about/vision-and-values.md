@@ -28,7 +28,7 @@ C'est une offre éducative unique en Nouvelle-Zélande, permettant aux élèves 
 
 De nouveaux niveaux seront ajoutés chaque année jusqu'au Baccalauréat français. À terme, l'école proposera le programme bilingue du baccalauréat international (IB) en français et en anglais pour les années 12 et 13.
 
-L'école vise à obtenir l'homologation de l'Agence pour l'enseignement français à l'étranger (AEFE) dans un délai de deux ans.
+L'école vise à obtenir l'homologation de l'[Agence pour l'enseignement français à l'étranger (AEFE)](../learning/aefe/) dans un délai de deux ans.
 
 **Téléchargez notre flyer**
 

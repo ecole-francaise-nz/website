@@ -11,7 +11,7 @@ Les inscriptions sont désormais ouvertes, alors réservez dès aujourd'hui la p
 
 🔑 **Informations clés**&nbsp;:
 
-- **Ouverture**&nbsp;: Année scolaire 2025
+- **Ouverture**&nbsp;: 3 février 2025
 - **Emplacement**&nbsp;: 131 Remuera Road, Remuera
 - **Pas de zones d'inscription**: Les élèves peuvent habiter n'importe où
 - **Classes**&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3)

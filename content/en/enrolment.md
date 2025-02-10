@@ -11,7 +11,7 @@ Enrolments are open now, so secure your child’s spot today! 👇
 
 🔑 **Key Info**:
 
-- **Opening date**: 2025 school year
+- **Opening date**: 3 February 2025
 - **Location**: 131 Remuera Road, Remuera
 - **No zoning**: Students can live anywhere
 - **Classes**: Grande Section (Years 0 & 1), CP (Year 2), CE1 (Year 3)

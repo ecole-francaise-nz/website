@@ -6,7 +6,7 @@ bannerHeight = "500px"
 
 **Bienvenue à l’École Française Internationale Auckland ! ✨**
 
-**La première école française** de Nouvelle-Zélande ouvrira ses portes en **février 2025 !**
+**La première école française** de Nouvelle-Zélande a ouvert ses portes le **3 février 2025 !**
 
 Cette école est **ouverte à tous.** Elle propose une expérience éducative de qualité pour les familles **de toutes nationalités**, offrant un environnement bilingue et multiculturel où les enfants pourront s’épanouir à la fois académiquement et personnellement, tout en bénéficiant de **frais de scolarité gratuits** pour tous les élèves.
 
@@ -20,7 +20,7 @@ L’École Française Internationale Auckland fait partie d'un **réseau prestig
 
 🔑 **Informations clés**
 
-- **Ouverture**&nbsp;: Année scolaire 2025
+- **Ouverture**&nbsp;: 3 février 2025
 - **Emplacement**&nbsp;: 131 Remuera Road, Remuera
 - **Pas de zones d'inscription**: Les élèves peuvent habiter n'importe où
 - **Classes**&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3)
