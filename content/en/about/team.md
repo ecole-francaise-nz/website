@@ -42,4 +42,4 @@ Some of our teachers not only have experience teaching in France but have also l
 > At 28 years old, I dedicate myself enthusiastically to educating young minds as a school teacher. My goal is to create a dynamic and interactive learning environment where each student can flourish and discover the richness of the French language and culture.
 > I have been **in charge of FLAM** (French as a Mother Tongue) **and FLE** (French as a Foreign Language) **classes at the Alliance Française** for the past two years. I am thrilled to be joining the French school and teaching the French curriculum at the primary level starting in 2025.
 
-👉**[AEFE](/curriculum/aefe) accreditation** (from the Overseas French Schools Agency) includes a review process to ensure the teaching staff have the necessary qualifications and experience to teach the French curriculum, providing parents with a guarantee of quality.
+👉**[AEFE](/learning/aefe) accreditation** (from the Overseas French Schools Agency) includes a review process to ensure the teaching staff have the necessary qualifications and experience to teach the French curriculum, providing parents with a guarantee of quality.
