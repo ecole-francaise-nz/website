@@ -6,8 +6,8 @@ bannerHeight = "500px"
 
 Enrolments are open now, so secure your child’s spot today! 👇
 
-- 👉 Complete the [enrolment form for 2025](https://ecole-francaise.nz/efia_application_form.pdf)
-- 👉 Complete the [enrolment form for 2026 or later](https://ecole-francaise.nz/efia_application_form_2026_plus.pdf)
+- 👉 Complete the [enrolment form for 2025](/efia_application_form.pdf)
+- 👉 Complete the [enrolment form for 2026 or later](/efia_application_form_2026_plus.pdf)
 
 🔑 **Key Info**:
 

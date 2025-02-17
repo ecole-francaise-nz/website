@@ -35,8 +35,8 @@ This is an exciting opportunity for children to grow academically and personally
 
 Enrolments are now open. Secure your child’s spot today:
 
-- 👉 [Enrolment form for 2025](https://ecole-francaise.nz/efia_application_form.pdf)
-- 👉 [Enrolment form for 2026 or later](https://ecole-francaise.nz/efia_application_form_2026_plus.pdf)
+- 👉 [Enrolment form for 2025](/efia_application_form.pdf)
+- 👉 [Enrolment form for 2026 or later](/efia_application_form_2026_plus.pdf)
 
 **Why enrol your children with us?**
 
@@ -45,4 +45,4 @@ Enrolments are now open. Secure your child’s spot today:
 - **Small Class Sizes**: Individual attention with a maximum of 15 students per class.
 - **Global Network**: Be part of a prestigious international education system.
 
-_For any questions, please feel free to [contact us](/en/contact/)._
+_For any questions, please feel free to [contact us](/contact/)._

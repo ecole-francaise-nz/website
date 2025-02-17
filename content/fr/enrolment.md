@@ -6,8 +6,8 @@ bannerHeight = "500px"
 
 Les inscriptions sont désormais ouvertes, alors réservez dès aujourd'hui la place de votre enfant&nbsp;! 👇
 
-- 👉 [Formulaire d'inscription pour 2025](https://ecole-francaise.nz/efia_application_form.pdf)
-- 👉 [Formulaire d'inscription pour 2026 ou au-delà](https://ecole-francaise.nz/efia_application_form_2026_plus.pdf)
+- 👉 [Formulaire d'inscription pour 2025](/efia_application_form.pdf)
+- 👉 [Formulaire d'inscription pour 2026 ou au-delà](/efia_application_form_2026_plus.pdf)
 
 🔑 **Informations clés**&nbsp;:
 
