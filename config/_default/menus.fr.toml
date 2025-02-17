@@ -79,8 +79,8 @@ weight = 32
 
 [[main]]
 name = "Programme de vacances pour enfants"
-identifier = 'Children Holiday Program'
-pageRef = '/school-life/children-holiday-program'
+identifier = 'Children Holiday Programme'
+pageRef = '/school-life/children-holiday-programme'
 parent = 'School Life'
 weight = 33
 
@@ -119,12 +119,21 @@ url = 'https://drive.google.com/drive/folders/1daNYgJ0yImvKDEhpijC5OKdHMRpQVFrL'
 parent = 'School Life'
 weight = 38
 
+
+############################################
+[[main]]
+name = 'Sport'
+identifier = 'Sports'
+pageRef = '/sports'
+weight = 40
+
+
 ############################################
 [[main]]
 name = 'Inscription'
 identifier = 'Enrolment'
 pageRef = '/enrolment'
-weight = 40
+weight = 50
 
 
 ############################################
@@ -132,4 +141,4 @@ weight = 40
 name = 'Contact'
 identifier = 'Contact us'
 pageRef = '/contact'
-weight = 50
+weight = 60

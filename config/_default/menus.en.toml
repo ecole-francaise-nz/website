@@ -78,9 +78,9 @@ parent = 'School Life'
 weight = 32
 
 [[main]]
-name = "Children Holiday Program"
-identifier = 'Children Holiday Program'
-pageRef = '/school-life/children-holiday-program'
+name = "Children Holiday Programme"
+identifier = 'Children Holiday Programme'
+pageRef = '/school-life/children-holiday-programme'
 parent = 'School Life'
 weight = 33
 
@@ -121,10 +121,18 @@ weight = 38
 
 ############################################
 [[main]]
+name = 'Sports'
+identifier = 'Sports'
+pageRef = '/sports'
+weight = 40
+
+
+############################################
+[[main]]
 name = 'Enrolment'
 identifier = 'Enrolment'
 pageRef = '/enrolment'
-weight = 40
+weight = 50
 
 
 ############################################
@@ -132,4 +140,4 @@ weight = 40
 name = 'Contact us'
 identifier = 'Contact us'
 pageRef = '/contact'
-weight = 50
+weight = 60
