@@ -4,8 +4,6 @@ hero = "/images/chp2-banner.jpg"
 bannerHeight = "450px"
 +++
 
-### Sports Facilities and Partnerships
-
 At our school, we prioritise the physical well-being and development of our students by providing access to top-notch sports facilities and programmes.
 
 ----

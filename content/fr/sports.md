@@ -4,8 +4,6 @@ hero = "/images/chp2-banner.jpg"
 bannerHeight = "450px"
 +++
 
-### Installations sportives et partenariats
-
 Dans notre école, nous accordons une grande importance au bien-être physique et au développement de nos élèves en leur donnant accès à des infrastructures sportives et des programmes de premier ordre.
 
 ----

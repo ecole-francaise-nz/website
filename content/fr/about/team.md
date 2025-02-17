@@ -29,10 +29,9 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 
 ![Élodie Rodriguez](/images/Elodie-Rodriguez.jpg "Élodie Rodriguez")
 
-> Diplômée d’un master en éducation, j'ai décidé en 2018 de voyager à l'autre bout du monde. La Nouvelle-Zélande par sa culture et ses paysages m’a toujours attirée, aujourd'hui, je suis fière d’appeler ce pays “home”.
-> Professeur qualifiée et inscrite dotée d’un certificat de pratique néo-zélandais, j'ai acquis des années d'expérience en tant que professeur ainsi qu’en tant que professeur principal. Passionnée par le sport, je suis également instructeur LesMills depuis 15 ans où je continue d'enseigner dans différents clubs, mais essentiellement à LesMills Auckland city.
-> Récemment, je me suis lancée dans l'aventure de combiner ma créativité avec ma profession d’enseignante en écrivant un livre d’éducation français/anglais et divers contenus d’apprentissage au travers d'histoires et de musiques.
-> J'ai hâte de commencer mon nouveau rôle de directrice adjointe dès février 2025 et de tous vous rencontrer.
+> Titulaire d’une maîtrise en éducation, j’ai commencé ma carrière en tant que professeur d’Education Physique et Sportive dans un collège en France. En 2018, j’ai choisi de me lancer dans un voyage passionnant en Nouvelle-Zélande, un pays qui m’a longtemps inspiré par sa culture dynamique et sa beauté naturelle époustouflante. Aujourd’hui, je suis fière d’appeler la Nouvelle-Zélande "home".
+> Enseignante qualifiée, j’ai acquis une vaste expérience dans le secteur de l’éducation Néo-Zélandais, travaillant à la fois comme enseignante en classe et comme professeur principal. En plus d’enseigner, je suis profondément passionnée par le fitness. Depuis 15 ans, je suis instructrice Les Mills, donnant des cours dans divers clubs, principalement à Les Mills Auckland City. Récemment, je me suis lancée dans l’aventure de combiner ma créativité avec ma profession d’enseignante en écrivant un livre d’éducation français/anglais et divers contenus d’apprentissage au travers d’histoires et de musiques.
+> Je suis vraiment honorée de rejoindre l’École Française Internationale Auckland. Il s’agit d’une merveilleuse occasion de promouvoir le biculturalisme tout en offrant aux enfants la chance de découvrir et d’apprendre une nouvelle langue.
 
 **Paul Barrier : Professeur**
 
