@@ -16,12 +16,12 @@ flag = "🇳🇿"
 description = "Auckland French International School"
 
 [languages.fr]
-title = "École Française Internationale d'Auckland"
+title = "École Française Internationale Auckland"
 weight = 2
 contentDir = "content/fr"
 [languages.fr.params]
 flag = "🇫🇷"
-description = "École Française Internationale d'Auckland"
+description = "École Française Internationale Auckland"
 
 
 [sitemap]

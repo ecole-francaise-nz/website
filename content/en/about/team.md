@@ -29,10 +29,10 @@ Some of our teachers not only have experience teaching in France but have also l
 
 ![Élodie Rodriguez](/images/Elodie-Rodriguez.jpg "Élodie Rodriguez")
 
-> I graduated with a Master of Education and, in 2018, decided to travel to the other side of the world. New Zealand, with its rich culture and stunning landscapes, has always attracted me, and today, I am proud to call this country my home.
-> As a registered and qualified teacher in New Zealand, I have gained years of experience, both as a classroom teacher and as a head teacher (team leader). A passionate sports enthusiast, I have also been a Les Mills instructor for 15 years. I continue to teach classes at various clubs, primarily at Les Mills Auckland City.
-> Recently, I embarked on a new adventure that combines my creativity with my teaching practice. I am writing an educational book for children and developing different learning materials through stories and music.
-> I look forward to starting my new role as a deputy principal in February 2025 and to meeting all of you!
+> I hold a Master of Education and began my career as a Physical Education teacher in high school in France. In 2018, I chose to embark on an exciting journey to New Zealand, a country that had long inspired me with its vibrant culture and stunning natural beauty. Today, I am proud to call New Zealand my home.
+> As a registered and qualified teacher, I have gained extensive experience in New Zealand’s education sector, working as both a classroom teacher and a head teacher (team leader). In addition to teaching, I am deeply passionate about fitness. 
+> For the past 15 years, I have been a Les Mills instructor, teaching classes at various clubs, primarily at Les Mills Auckland City. I recently embarked on a new adventure combining my creativity with my teaching practice. I am writing an educational book for children and developing different learning materials through stories and music.
+> I am truly honored to join École Française Internationale Auckland. This is a wonderful opportunity to promote biculturalism while providing children with the chance to discover and learn a new language.
 
 **Paul Barrier: Teacher**
 

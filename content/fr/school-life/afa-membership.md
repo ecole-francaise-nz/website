@@ -7,7 +7,7 @@ date = 2025-01-11T12:24:00+12:00
 
 Les élèves de l'école ainsi que leur famille bénéficient gratuitement d'une adhésion à l'Alliance Française Auckland (AFA) qui permet de profiter des services offerts par l'AFA à prix réduits:
 
-- 5% de réduction sur le [programme de vacances pour enfants](https://www.alliance-francaise.co.nz/learn-french/kids-and-teenagers/children-holiday-program/) (Children Holiday Program, CHP)
+- 5% de réduction sur le [programme de vacances pour enfants](https://www.alliance-francaise.co.nz/learn-french/kids-and-teenagers/children-holiday-programme/) (Children Holiday Programme, CHP)
 - Jusqu'à 10% de remise chez les [partenaires de l'AFA](https://www.alliance-francaise.co.nz/about-us/our-sponsors-and-partners/)
 - Accès gratuit aux [bibliothèques pour enfants et pour adultes](https://www.alliance-francaise.co.nz/resources-and-services/library/)
 - Accès gratuit à la plus grande médiathèque française au monde : [Culturetheque](https://www.alliance-francaise.co.nz/resources-and-services/culturetheque/). Elle donne accès à des milliers de livres, magazines, journaux, vidéos, musique, et ressources pédagogiques, ce qui en fait une plateforme majeure pour la diffusion de la culture et de la langue françaises à l'international.

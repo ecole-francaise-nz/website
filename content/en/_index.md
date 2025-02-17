@@ -25,7 +25,7 @@ This is an exciting opportunity for children to grow academically and personally
 - **Location**: 131 Remuera Road, Remuera
 - **No zoning**: Students can live anywhere
 - **Classes**: Grande Section (Years 0 & 1), CP (Year 2), CE1 (Year 3)
-- **Curriculum**: French program taught in French (3½ days per week) and in English (1½ days per week)
+- **Curriculum**: French programme taught in French (3½ days per week) and in English (1½ days per week)
 - **Limited Spots**: Maximum of 15 students per class
 - **Eligibility**: Children born between **1 January 2017 and 31 December 2020**.
 - **Language**: We welcome all children, whether they already speak French or are new to the language.

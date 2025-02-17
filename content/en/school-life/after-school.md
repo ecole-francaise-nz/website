@@ -5,14 +5,14 @@ bannerHeight = "500px"
 date = 2025-01-11T12:24:00+12:00
 +++
 
-### The school offers an after-school program from 3 PM to 5:30 PM
+### The school offers an after-school programme from 3 PM to 5:30 PM
 
-The program is structured as follows:
+The programme is structured as follows:
 
 - 3pm to 4pm: Students are supervised by school teachers who assist them with their homework and help strengthen their language skills in English or French.
 - 4pm to 5:30pm: The educational team from the Alliance Française takes over, providing fun and engaging activities such as crafts, hands-on workshops, cooking sessions, and sports.
 
-This program ensures a balance between academic support and recreational activities, enriching the students’ after-school experience.
+This programme ensures a balance between academic support and recreational activities, enriching the students’ after-school experience.
 
 The fees are:
 
