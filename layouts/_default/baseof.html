@@ -1,5 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{.Site.Language.Lang }}">
+
+    <div class="modal fade" id="eventModal" tabindex="-1" aria-labelledby="eventModalLabel" aria-hidden="true" data-bs-backdrop="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <button type="button" class="btn-close position-absolute top-0 end-0 m-2 z-3" data-bs-dismiss="modal" aria-label="Close"></button>
+                <div class="modal-body p-0">
+                    <a href="https://shorturl.at/QHsCq" class="d-block">
+                        <img src="/images/open-day-2025-03-08.jpeg" class="img-fluid w-100" alt="Open-day at EFIA on 8 March 2025">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <meta charset="utf-8">
     {{- partial "seo_schema" . -}}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
@@ -12,4 +26,14 @@
         {{- partial "footer.html" . -}}
         {{- partial "js.html" . -}}
     </body>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            if (!localStorage.getItem('eventModal001Shown')) {
+                var eventModal = new bootstrap.Modal(document.getElementById('eventModal'));
+                eventModal.show();
+                localStorage.setItem('eventModal001Shown', 'true');
+            }
+        });
+    </script>
 </html>
