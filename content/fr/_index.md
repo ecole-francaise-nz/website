@@ -6,7 +6,9 @@ bannerHeight = "500px"
 
 **Bienvenue à l’École Française Internationale Auckland ! ✨**
 
-**La première école française** de Nouvelle-Zélande a ouvert ses portes le **3 février 2025 !**
+**La première école française** de Nouvelle-Zélande a ouvert ses portes!
+
+[![EFIA Open Day](/images/open-day-2025-03-08-small.jpeg "EFIA Open Day")](https://shorturl.at/QHsCq)
 
 Cette école est **ouverte à tous.** Elle propose une expérience éducative de qualité pour les familles **de toutes nationalités**, offrant un environnement bilingue et multiculturel où les enfants pourront s’épanouir à la fois académiquement et personnellement, tout en bénéficiant de **frais de scolarité gratuits** pour tous les élèves.
 
