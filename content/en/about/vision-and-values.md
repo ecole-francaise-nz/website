@@ -29,7 +29,3 @@ This is a unique educational opportunity in New Zealand, allowing students to se
 New year levels will be added annually, up to the French Baccalaureate. Eventually, the school will offer the International Baccalaureate (IB) Bilingual Programme in French and English for Years 12 and 13.
 
 The school aims to achieve accreditation from the [Agency for French Education Abroad (AEFE)](../learning/aefe/) within two years.
-
-**Download the flyer**
-
-[![EFIA Flyer](/images/efia-flyer.jpg "EFIA Flyer")](/efia-flyer.pdf)
