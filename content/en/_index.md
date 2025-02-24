@@ -13,7 +13,7 @@ The first **French Charter School** in New Zealand is now open!
 This school welcomes **everyone**, regardless of your child’s nationality, fostering a vibrant and diverse community. We are thrilled to bring a **world-class education** to Auckland, offering the prestigious French curriculum in a bilingual and multicultural environment.
 This is an exciting opportunity for children to grow academically and personally while benefiting from **free tuition** for all students.
 
-{{< facebook-video url="https://www.facebook.com/61568980597632/videos/597829356521755/" >}}
+{{< facebook-video url="https://www.facebook.com/61573133858943/videos/2644060549126717/" >}}
 
 ---
 
