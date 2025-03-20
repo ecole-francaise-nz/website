@@ -6,14 +6,21 @@ bannerHeight = "500px"
 
 **Welcome to Auckland French International School! ✨**
 
-The first **French Charter School** in New Zealand is now open!
-
-[![EFIA Open Day](/images/open-day-2025-03-08-small.jpeg "EFIA Open Day")](https://shorturl.at/QHsCq)
-
-This school welcomes **everyone**, regardless of your child’s nationality, fostering a vibrant and diverse community. We are thrilled to bring a **world-class education** to Auckland, offering the prestigious French curriculum in a bilingual and multicultural environment.
-This is an exciting opportunity for children to grow academically and personally while benefiting from **free tuition** for all students.
+This school welcomes **everyone**, regardless of your child’s nationality, fostering a vibrant and diverse community. We are thrilled to bring a **world-class education** to Auckland, offering the prestigious French curriculum in a bilingual and multicultural environment. This is an exciting opportunity for children to grow academically and personally while benefiting from **free tuition** for all students.
 
 {{< facebook-video url="https://www.facebook.com/61573133858943/videos/2644060549126717/" >}}
+
+---
+
+**⭐⭐⭐ Parent Testimonials**
+
+*Before coming to Ecole Française Internationale, our son did not speak a word of French. Despite living in an Anglophone household, we were attracted to the school and curriculum as we see great value in learning a foreign language and being exposed to other cultures. After only one week, he was teaching us colours and animal names in French. After two weeks, he was confidently recalling a large number of nouns and numbers. And now, after only 1 month at Ecole Française Internationale, he can sing songs in French, he knows the names of emotions, animals, days of the week, months and many more French words and phrases. The feedback, updates and materials provided by the teachers give us a very clear understanding of the areas our son is progressing in.*
+
+*Outside of the outstanding language teaching, we have been impressed with other aspects of the School. Our son is exposed to a range of stimulating activities and subjects including maths, sports and English. We were initially unsure how learning French alongside English would affect his reading and writing, but we have been amazed by his sudden progression in his English reading ability and confidence. He is exposed to a number of books, and the method of teaching phonics and reading is working very well for him. Every night, he enjoys reading books to us provided by the School and he is confidently sounding out and sight-reading words (including Māori words). The care and attention the staff have paid to him has given us the confidence that they are tracking his progress and providing him with suitable books and resources that match his ability.*
+
+*All of the staff have been incredibly welcoming, friendly and professional. We could not be happier with our son's progress overall and he is settling in very well.*
+
+Discover [more testimonials](/testimonials).
 
 ---
 
@@ -28,7 +35,6 @@ This is an exciting opportunity for children to grow academically and personally
 - **No zoning**: Students can live anywhere
 - **Classes**: Grande Section (Years 0 & 1), CP (Year 2), CE1 (Year 3)
 - **Curriculum**: French programme taught in French (3½ days per week) and in English (1½ days per week)
-- **Limited Spots**: Maximum of 15 students per class
 - **Eligibility**: Children born between **1 January 2017 and 31 December 2020**.
 - **Language**: We welcome all children, whether they already speak French or are new to the language.
 - **Cost**: Tuition is free for all students!
@@ -40,11 +46,6 @@ Enrolments are now open. Secure your child’s spot today:
 - 👉 [Enrolment form for 2025](/efia_application_form.pdf)
 - 👉 [Enrolment form for 2026 or later](/efia_application_form_2026_plus.pdf)
 
-**Why enrol your children with us?**
-
-- **Free Tuition**: Access high-quality education without tuition fees.
-- **Bilingual Excellence**: Master French and English in a multicultural setting.
-- **Small Class Sizes**: Individual attention with a maximum of 15 students per class.
-- **Global Network**: Be part of a prestigious international education system.
-
 _For any questions, please feel free to [contact us](/contact/)._
+
+Follow us on [Facebook](https://www.facebook.com/profile.php?id=61573552256605), [Instagram](https://www.instagram.com/ecolefrancaiseauckland/), [LinkedIn](https://www.linkedin.com/company/%C3%A9cole-fran%C3%A7aise-internationale-auckland/posts/?feedView=all), and [RedNote](https://www.xiaohongshu.com/user/profile/675f409c000000001801caf1).

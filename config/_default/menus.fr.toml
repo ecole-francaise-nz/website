@@ -33,6 +33,13 @@ pageRef = '/about/premises'
 parent = 'About us'
 weight = 14
 
+[[main]]
+name = "FAQ"
+identifier = 'FAQ'
+pageRef = '/about/faq'
+parent = 'About us'
+weight = 15
+
 
 ############################################
 [[main]]
@@ -145,7 +152,15 @@ weight = 50
 
 ############################################
 [[main]]
+name = 'Témoignages'
+identifier = 'Testimonials'
+pageRef = '/testimonials'
+weight = 60
+
+
+############################################
+[[main]]
 name = 'Contact'
 identifier = 'Contact us'
 pageRef = '/contact'
-weight = 60
+weight = 70
