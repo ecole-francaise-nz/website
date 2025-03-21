@@ -12,7 +12,7 @@ Cette école est **ouverte à tous.** Elle propose une expérience éducative de
 
 ---
 
-**⭐⭐⭐ Témoignages de parents d'élèves**
+**⭐⭐⭐⭐⭐ Témoignages de parents d'élèves**
 
 "*Our 7-year-old son started at EFIA recently, and we couldn’t be happier with how well he’s doing. From the very first day, he felt welcome and comfortable. The small classes and caring teachers make learning fun and easy for him.*
 

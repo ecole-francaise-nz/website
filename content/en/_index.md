@@ -12,7 +12,7 @@ This school welcomes **everyone**, regardless of your child’s nationality, fos
 
 ---
 
-**⭐⭐⭐ Parent Testimonials**
+**⭐⭐⭐⭐⭐ Parent Testimonials**
 
 *Before coming to Ecole Française Internationale, our son did not speak a word of French. Despite living in an Anglophone household, we were attracted to the school and curriculum as we see great value in learning a foreign language and being exposed to other cultures. After only one week, he was teaching us colours and animal names in French. After two weeks, he was confidently recalling a large number of nouns and numbers. And now, after only 1 month at Ecole Française Internationale, he can sing songs in French, he knows the names of emotions, animals, days of the week, months and many more French words and phrases. The feedback, updates and materials provided by the teachers give us a very clear understanding of the areas our son is progressing in.*
 
