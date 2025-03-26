@@ -2,3 +2,11 @@ div.container p img {
     display: block;
     margin: 1rem auto;
 }
+
+.navbar-nav .nav-link {
+    font-size: 20px;
+}
+
+.dropdown-menu .dropdown-item {
+    font-size: 18px;
+}

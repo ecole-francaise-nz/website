@@ -30,7 +30,7 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
-logo = "/images/efia-logo4.png"
+logo = "/images/efia-logo5.png"
 copyrightYears = 2024
 themeColor = "blue"
 bannerHeight = "200px"
