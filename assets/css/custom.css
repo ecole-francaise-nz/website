@@ -41,3 +41,13 @@ div.container p img {
     font-size: 0.8em;
     font-weight: normal;
 }
+
+p {
+    text-align: left;
+}
+
+@media (min-width: 768px) {
+    p {
+        text-align: justify;
+    }
+}
