@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{.Site.Language.Lang }}">
-    <meta charset="utf-8">
-    {{- partial "seo_schema" . -}}
-    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-    {{- partial "head.html" . -}}
+    <head>
+        <meta charset="utf-8">
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16951735311"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'AW-16951735311');
+        </script>
+        {{- partial "seo_schema" . -}}
+        <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+        {{- partial "head.html" . -}}
+    </head>
     <body>
         {{- partial "header.html" . -}}
         <main role="main">
