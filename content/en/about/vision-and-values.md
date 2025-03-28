@@ -2,7 +2,7 @@
 title = 'Vision & Values'
 date = 2024-05-09T09:47:42+12:00
 hero = "/images/efia-banner.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 +++
 
 **Auckland French International School** (École Française Internationale Auckland) is a new international school offering the French curriculum, enhanced with key competencies from the New Zealand curriculum, and taught in both French & English.

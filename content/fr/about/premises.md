@@ -2,7 +2,7 @@
 title = 'Nos installations'
 date = 2024-05-09T09:48:20+12:00
 hero = "../premises-hero.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 +++
 
 L'école est située dans le quartier de Remuera ([carte](https://maps.app.goo.gl/iRTgtRV3pyQCjkkE7)), à deux pas de la gare de Newmarket.

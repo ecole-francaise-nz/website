@@ -1,7 +1,7 @@
 +++
 title = 'Frequently Asked Questions'
 hero = "/images/efia-teacher.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 date = 2024-05-09T09:47:33+12:00
 +++
 

@@ -1,12 +1,12 @@
 +++
 title = 'École Française Internationale Auckland'
 hero = "/images/efia-maison1.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 +++
 
-**Bienvenue à l’École Française Internationale Auckland ! ✨**
+{{< flashy-button url="/fr/enrolment" text="Inscrivez votre enfant pour 2025 !">}}
 
-Cette école est **ouverte à tous.** Elle propose une expérience éducative de qualité pour les familles **de toutes nationalités**, offrant un environnement bilingue et multiculturel où les enfants pourront s’épanouir à la fois académiquement et personnellement, tout en bénéficiant de **frais de scolarité gratuits** pour tous les élèves.
+**L'École Française Internationale Auckland** est une **école primaire bilingue** qui accueille toutes les familles, quelles que soient leur nationalité, favorisant ainsi une communauté dynamique et inclusive. Les élèves suivent le programme français intégré au programme néo-zélandais, avec un enseignement en français et en anglais dispensé par des **enseignants natifs**. Cette opportunité unique permet aux enfants de s’épanouir tant sur le plan académique que personnel, tout en bénéficiant d’une **scolarité gratuite** pour tous.
 
 {{< facebook-video url="https://www.facebook.com/61573133858943/videos/2644060549126717/" >}}
 

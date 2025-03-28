@@ -2,7 +2,7 @@
 title = "Vision & valeurs"
 date = 2024-05-09T09:47:42+12:00
 hero = "/images/efia-banner.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 +++
 
 **L'École Française Internationale Auckland** est une nouvelle école internationale offrant le programme français, enrichi des compétences clés du programme néo-zélandais, enseigné en français et en anglais.

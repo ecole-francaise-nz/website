@@ -1,7 +1,7 @@
 +++
 title = 'Bilingualism'
 hero = "/images/bilinguism-banner.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 +++
 
 One of the primary advantages of a bilingual education is the cognitive boost it provides to children.

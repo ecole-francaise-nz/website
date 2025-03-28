@@ -1,7 +1,7 @@
 +++
 title = 'AEFE'
 hero = "/images/aefe-banner.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 +++
 
 L'école vise à obtenir l'accréditation de l'Agence pour l'enseignement français à l'étranger (AEFE) dans un délai de deux ans.

@@ -1,7 +1,7 @@
 +++
 title = 'Politiques et procédures'
 hero = "/images/policies-banner.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 date = 2025-01-11T12:24:00+12:00
 +++
 

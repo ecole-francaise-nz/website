@@ -1,7 +1,7 @@
 +++
 title = 'Inscription'
 hero = "/images/efia-maison1.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 +++
 
 Les inscriptions sont désormais ouvertes, alors réservez dès aujourd'hui la place de votre enfant&nbsp;! 👇

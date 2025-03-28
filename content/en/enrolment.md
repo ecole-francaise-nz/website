@@ -1,7 +1,7 @@
 +++
 title = 'Enrolment'
 hero = "/images/efia-maison1.jpg"
-bannerHeight = "500px"
+bannerHeight = "450px"
 +++
 
 Enrolments are open now, so secure your child’s spot today! 👇

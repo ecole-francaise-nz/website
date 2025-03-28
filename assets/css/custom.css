@@ -10,3 +10,34 @@ div.container p img {
 .dropdown-menu .dropdown-item {
     font-size: 18px;
 }
+
+.flashy-container {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.flashy-button {
+    display: inline-block;
+    background-color: #0055a4; /* French blue */
+    color: white;
+    padding: 1em 1.5em;
+    font-size: 1.2em;
+    font-weight: bold;
+    border-radius: 12px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    font-family: 'Segoe UI', sans-serif;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.flashy-button:hover {
+    background-color: #003f7d;
+}
+
+.flashy-button .small {
+    display: block;
+    font-size: 0.8em;
+    font-weight: normal;
+}
