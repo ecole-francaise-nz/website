@@ -65,7 +65,7 @@ weight = 21
 [[main]]
 name = 'Les professeurs présentent notre programme'
 identifier = 'Teachers Present Our Program'
-pageRef = '/learning/teachers-present-our-program'
+pageRef = '/learning/teachers-present-our-programme'
 parent = 'Learning'
 weight = 22
 
