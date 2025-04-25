@@ -23,11 +23,34 @@
         {{- partial "head.html" . -}}
     </head>
     <body>
+        <div class="modal fade" id="eventModal" tabindex="-1" aria-labelledby="eventModalLabel" aria-hidden="true" data-bs-backdrop="true">
+            <div class="modal-dialog modal-dialog-centered modal-xl">
+                <div class="modal-content">
+                    <button type="button" class="btn-close position-absolute top-0 end-0 m-2 z-3" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <div class="modal-body p-0">
+                        <a href="https://www.eventbrite.co.nz/e/open-day-efia-tickets-1324727197709?aff=oddtdtcreator" target="_blank" rel="noopener noreferrer" class="d-block">
+                            <img src="/images/open-day-2025-06-07-small.jpg" class="img-fluid w-100" alt="Open-day at EFIA on 7 June 2025">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
         {{- partial "header.html" . -}}
         <main role="main">
         {{- block "main" . }}{{- end }}
         </main>
         {{- partial "footer.html" . -}}
         {{- partial "js.html" . -}}
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                if (!localStorage.getItem('eventModalOD2Shown')) {
+                    var eventModal = new bootstrap.Modal(document.getElementById('eventModal'));
+                    eventModal.show();
+                    localStorage.setItem('eventModalOD2Shown', 'true');
+                }
+            });
+        </script>
     </body>
 </html>
