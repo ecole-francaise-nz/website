@@ -8,6 +8,9 @@ At our school, we prioritise the physical well-being and development of our stud
 
 ----
 
+{{< youtube-video url="https://www.youtube.com/embed/qfQJThfb7Is?si=-dW0nP6F-wAdIxxA" >}}
+
+
 ![Remuera Rackets Club](/images/remuera-rackets-club-logo.png "Remuera Rackets Club")
 
 We are proud to use the facilities of Remuera Rackets Club, Auckland’s largest rackets club, located just 5 minutes from our school. The club offers:
