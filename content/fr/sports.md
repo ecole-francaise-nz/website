@@ -1,5 +1,5 @@
 +++
-title = 'Sports'
+title = 'Sport'
 hero = "/images/chp2-banner.jpg"
 bannerHeight = "450px"
 +++
@@ -10,7 +10,7 @@ Dans notre école, nous accordons une grande importance au bien-être physique e
 
 ![Remuera Rackets Club](/images/remuera-rackets-club-logo.png "Remuera Rackets Club")
 
-Nous sommes fiers d'utiliser les installations du Remuera Rackets Club, le plus grand club de sports de raquette d’Auckland, situé à seulement 5 minutes de notre école. Le club offre :
+Nous sommes fiers d'utiliser les installations du Remuera Rackets Club, le plus grand club de sports de raquette d’Auckland, situé à seulement 5 minutes de notre école. Le club offre&nbsp;:
 
 * Neuf courts de tennis éclairés
 * Six courts de squash avec parois en verre
@@ -28,9 +28,9 @@ Nous collaborons avec Les Mills pour proposer à nos élèves le programme BORN 
 
 **Inspirer les jeunes à aimer l'activité physique**
 
-Ce programme est conçu pour cultiver une passion durable pour le mouvement et le fitness. Il permet aux enfants de découvrir la joie et l'énergie de * bouger en musique, tout en renforçant leur confiance, leur vitalité et leur santé globale.
+Ce programme est conçu pour cultiver une passion durable pour le mouvement et le fitness. Il permet aux enfants de découvrir la joie et l'énergie de bouger en musique, tout en renforçant leur confiance, leur vitalité et leur santé globale.
 
-Les points forts du programme :
+Les points forts du programme&nbsp;:
 
 * Adapté aux étapes clés du développement, avec des cours pour les enfants de 2 à 5 ans et de 6 à 16 ans
 * Des sessions interactives et amusantes qui répondent au besoin naturel des enfants pour l’action, le mouvement et le jeu

@@ -4,7 +4,7 @@ hero = "/images/chp2-banner.jpg"
 bannerHeight = "450px"
 +++
 
-Voici quelques témoignages de parents d'élèves:
+Voici quelques témoignages de parents d'élèves&nbsp;:
 
 ---
 

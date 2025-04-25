@@ -34,11 +34,18 @@ parent = 'About us'
 weight = 14
 
 [[main]]
+name = "ERO Inspection 2025"
+identifier = 'ERO Inspection 2025'
+pageRef = '/about/ero-inspection-2025'
+parent = 'About us'
+weight = 15
+
+[[main]]
 name = "FAQ"
 identifier = 'FAQ'
 pageRef = '/about/faq'
 parent = 'About us'
-weight = 15
+weight = 16
 
 
 ############################################
@@ -56,18 +63,25 @@ parent = 'Learning'
 weight = 21
 
 [[main]]
+name = 'Teachers Present Our Program'
+identifier = 'Teachers Present Our Program'
+pageRef = '/learning/teachers-present-our-programme'
+parent = 'Learning'
+weight = 22
+
+[[main]]
 name = 'The Advantages of Bilingualism'
 identifier = 'The Advantages of Bilingualism'
 pageRef = '/learning/bilingualism'
 parent = 'Learning'
-weight = 22
+weight = 23
 
 [[main]]
 name = 'AEFE Accreditation'
 identifier = 'AEFE Accreditation'
 pageRef = '/learning/aefe'
 parent = 'Learning'
-weight = 23
+weight = 24
 
 
 ############################################
@@ -156,10 +170,17 @@ identifier = 'Testimonials'
 pageRef = '/testimonials'
 weight = 60
 
+############################################
+#[[main]]
+#name = 'International Students'
+#identifier = 'International Students'
+#pageRef = '/international-students'
+#weight = 70
+
 
 ############################################
 [[main]]
 name = 'Contact us'
 identifier = 'Contact us'
 pageRef = '/contact'
-weight = 70
+weight = 80

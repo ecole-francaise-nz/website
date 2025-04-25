@@ -1,5 +1,5 @@
 +++
-title = 'Bilinguisme'
+title = 'Les atouts du bilinguisme'
 hero = "/images/bilinguism-banner.jpg"
 bannerHeight = "450px"
 +++

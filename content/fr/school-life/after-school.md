@@ -9,8 +9,8 @@ date = 2025-01-11T12:24:00+12:00
 
 Le programme est structuré comme suit :
 
-- De 15h à 16h : Les élèves sont encadrés par des enseignants de l'école qui les aident à faire leurs devoirs et à renforcer leurs compétences linguistiques en anglais ou en français.
-- De 16h à 17h30 : L'équipe pédagogique de l'Alliance Française prend le relais, offrant des activités ludiques et captivantes telles que des travaux manuels, des ateliers pratiques, des sessions de cuisine et des sports.
+- De 15h à 16h : Activités de détente, goûter et aide aux devoirs.
+- De 16h à 17h30 : Activités ludiques et captivantes telles que des travaux manuels, des ateliers pratiques, des sessions de cuisine et des sports.
 
 Ce programme garantit un équilibre entre le soutien scolaire et les activités récréatives, enrichissant l'expérience des élèves après l'école.
 
