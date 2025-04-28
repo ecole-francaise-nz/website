@@ -19,7 +19,7 @@ The fees are:
 - from 3pm to 4pm: $15
 - from 3pm to 5:30pm: $29
 
-These rates must be payed in advance by purchasing bundles of 20 credits:
+These rates must be paid in advance by purchasing bundles of 20 credits:
 
 - Bundle 1, 20 credits from 3pm to 4pm: $300
 - Bundle 2, 20 credits from 3pm to 5:30pm: $580
