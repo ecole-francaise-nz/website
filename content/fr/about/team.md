@@ -22,8 +22,8 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 ![Stéphanie Layec](/images/Stephanie-Layec.jpg "Stéphanie Layec")
 
 > Bercée par **le bilinguisme depuis toujours**, avec un père français et une mère anglaise, **j’enseigne depuis de nombreuses années**, en France tout d’abord et en Nouvelle-Zélande depuis 2016.
-> Diplômée en commerce international, BBA ESSEC, j’ai occupé des fonctions en vente et logistique dans des groupes internationaux avant de me tourner vers l’éducation et devenir Professeur des Ecoles. **L’enseignement est devenu une passion** qui me fait vibrer et nourrit ma créativité.
-> Je crois fondamentalement **au pouvoir de l’Education pour transformer des vies** et ouvrir des chemins de liberté. Je suis donc emballée de faire partie de l’aventure EFIA. Notre but est d’offrir aux familles qui nous feront confiance le meilleur de deux mondes, avec **les programmes très rigoureux de l’Education Nationale Française, enrichis d’un parfum typiquement kiwi.**
+> Diplômée en commerce international, BBA ESSEC, j’ai occupé des fonctions en vente et logistique dans des groupes internationaux avant de me tourner vers l’éducation et devenir Professeur des Écoles. J’ai une vaste expérience de travail avec des élèves internationaux dans de grands établissements scolaires néo-zélandais, en tant que responsable du programme ESOL et des élèves internationaux.
+> **L’enseignement est devenu une passion** qui me fait vibrer et nourrit ma créativité. Je crois fondamentalement **au pouvoir de l’Education pour transformer des vies** et ouvrir des chemins de liberté. Je suis donc emballée de faire partie de l’aventure EFIA. Notre but est d’offrir aux familles qui nous feront confiance le meilleur de deux mondes, avec **les programmes très rigoureux de l’Education Nationale Française, enrichis d’un parfum typiquement kiwi.**
 
 **Elodie Rodriguez : Directrice adjointe & enseignante**
 

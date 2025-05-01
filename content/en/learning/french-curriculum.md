@@ -4,9 +4,9 @@ hero = "/images/french-curriculum-banner.jpg"
 bannerHeight = "450px"
 +++
 
-EFIA is a bilingual international school offering a high-quality French curriculum, enriched by New Zealand's curriculum and pedagogical approaches.
+EFIA is a bilingual international school offering a high-quality French curriculum, enriched by New Zealand's curriculum and pedagogical approaches. It is a primary school (i.e., years 1 to 6).
 
-Below is a comparative presentation of the French and New Zealand class level correspondences to help clarify the French curriculum we plan to offer:
+Below is a comparative presentation of the French and New Zealand class level correspondences:
 
 ![Curriculum Comparison](/images/french-nz-curriculums.png "Comparison Between the French and New Zealand Curriculums")
 

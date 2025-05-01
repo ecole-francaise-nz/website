@@ -4,9 +4,9 @@ hero = "/images/french-curriculum-banner.jpg"
 bannerHeight = "450px"
 +++
 
-L'EFIA est une école internationale bilingue offrant un programme français de haute qualité, enrichi par le programme et les approches pédagogiques de la Nouvelle-Zélande.
+L'EFIA est une école internationale bilingue offrant un programme français de haute qualité, enrichi par le programme et les approches pédagogiques de la Nouvelle-Zélande. Il s'agit d'une école primaire (de la grande section au CM2).
 
-Vous trouverez ci-dessous une présentation comparative des correspondances entre les niveaux de classe français et néo-zélandais, afin de mieux comprendre le programme français que nous prévoyons de proposer :
+Vous trouverez ci-dessous une présentation comparative des correspondances entre les niveaux de classe français et néo-zélandais :
 
 ![Comparaison des programmes](/images/french-nz-curriculums.png "Comparaison entre les programmes français et néo-zélandais")
 

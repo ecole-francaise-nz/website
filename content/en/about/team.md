@@ -22,7 +22,7 @@ Some of our teachers not only have experience teaching in France but have also l
 ![Stéphanie Layec](/images/Stephanie-Layec.jpg "Stéphanie Layec")
 
 > **Born into biculturalism** with an English mother and a French father, I have been a teacher for many years, initially in France and now in New-Zealand since 2016.
-> In addition to a French master’s in education, I hold a bachelor’s degree in international business administration from a top French business school. I worked in the corporate sector in sales and logistics before turning to teaching.
+> In addition to a French master’s in education, I hold a bachelor’s degree in international business administration from a top French business school. I worked in the corporate sector in sales and logistics before turning to teaching. I have extensive experience working with international students in large NZ schools, as Head of ESOL and Dean of International Students.
 > Education is what lights my fire. **I believe in the power of education to transform lives** and open pathways to freedom. I am ecstatic to be part of the EFIA adventure where we will strive to offer the best of two worlds, delivering the highly academic and rigorous French curriculum with a distinctive Kiwi flavour.
 
 **Elodie Rodriguez: Deputy Principal & teacher**
