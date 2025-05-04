@@ -7,6 +7,8 @@ bannerHeight = "450px"
 
 **Auckland French International School** (École Française Internationale Auckland) is a new international school offering the French curriculum, enhanced with key competencies from the New Zealand curriculum, and taught in both French & English.
 
+The school was selected as one of the first seven Charter schools in New Zealand, following a rigorous selection process. Compliance with the Charter School Agency’s requirements is monitored through the [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_v1.pdf). Please consult the [Charter School Agency website](https://www.charterschools.govt.nz/) for more information.
+
 ### Vision
 
 To offer every student educational excellence as well as cultural openness via a multilingual learning environment that fosters knowledge, reflection, creativity, independence, social commitment, community spirit and a strong sense of citizenship.
@@ -25,7 +27,5 @@ Our school's ethos is grounded in key principles that reflect our values and pra
 - **Ethical leadership**: EFIA is built on a foundation of transparency, accountability, and ethical conduct, values that have been upheld by the Alliance Française dʼAuckland since its founding in 1896.
 
 This is a unique educational opportunity in New Zealand, allowing students to seamlessly transition between the French and New Zealand mainstream curriculums at any point.
-
-New year levels will be added annually, up to the French Baccalaureate. Eventually, the school will offer the International Baccalaureate (IB) Bilingual Programme in French and English for Years 12 and 13.
 
 The school aims to achieve accreditation from the [Agency for French Education Abroad (AEFE)](../learning/aefe/) within two years.

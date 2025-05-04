@@ -7,6 +7,8 @@ bannerHeight = "450px"
 
 **L'École Française Internationale Auckland** est une nouvelle école internationale offrant le programme français, enrichi des compétences clés du programme néo-zélandais, enseigné en français et en anglais.
 
+L’école a été sélectionnée parmi les sept premières écoles publiques à charte de Nouvelle-Zélande, à l’issue d’un processus de sélection rigoureux. Le respect des exigences de la Charter School Agency est contrôlé dans le cadre du [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_v1.pdf). Veuillez consulter le site internet de la [Charter School Agency](https://www.charterschools.govt.nz/) pour plus d’informations.
+
 ### Vision
 
 Offrir à chaque élève l’excellence éducative ainsi qu’une ouverture culturelle grâce à un environnement d’apprentissage multilingue qui encourage le savoir, la réflexion, la créativité, l’indépendance, l’esprit communautaire et l'engagement social et citoyen.
@@ -25,7 +27,5 @@ L’éthique de notre école repose sur des principes clés qui reflètent nos v
 - **Leadership éthique** : EFIA est construite sur des valeurs de transparence, de responsabilité et de conduite éthique, des valeurs portées par l’Alliance Française d’Auckland depuis sa fondation en 1896.
 
 C'est une offre éducative unique en Nouvelle-Zélande, permettant aux élèves de passer du programme français au programme néo-zélandais à tout moment.
-
-De nouveaux niveaux seront ajoutés chaque année jusqu'au Baccalauréat français. À terme, l'école proposera le programme bilingue du baccalauréat international (IB) en français et en anglais pour les années 12 et 13.
 
 L'école vise à obtenir l'homologation de l'[Agence pour l'enseignement français à l'étranger (AEFE)](../learning/aefe/) dans un délai de deux ans.

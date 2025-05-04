@@ -99,53 +99,60 @@ parent = 'School Life'
 weight = 31
 
 [[main]]
-name = "After-School Activities"
-identifier = 'After-School Activities'
-pageRef = '/school-life/after-school'
+name = 'Behaviour Management Plan'
+identifier = 'Behaviour Management Plan'
+url = '/behaviour_management_procedure_v1_23-01-2025.pdf'
 parent = 'School Life'
 weight = 32
-
-[[main]]
-name = "Children Holiday Programme"
-identifier = 'Children Holiday Programme'
-pageRef = '/school-life/children-holiday-programme'
-parent = 'School Life'
-weight = 33
-
-[[main]]
-name = "Alliance Française Membership"
-identifier = 'Alliance Française Auckland Membership'
-pageRef = '/school-life/afa-membership'
-parent = 'School Life'
-weight = 34
 
 [[main]]
 name = 'Policies and Procedures'
 identifier = 'Policies and Procedures'
 pageRef = '/school-life/policies-and-procedures'
 parent = 'School Life'
-weight = 35
+weight = 33
 
 [[main]]
 name = "Donations"
 identifier = 'Donations'
 pageRef = '/school-life/donations'
 parent = 'School Life'
+weight = 34
+
+[[main]]
+name = "After-School Activities"
+identifier = 'After-School Activities'
+pageRef = '/school-life/after-school'
+parent = 'School Life'
+weight = 35
+
+[[main]]
+name = "Children Holiday Programme"
+identifier = 'Children Holiday Programme'
+pageRef = '/school-life/children-holiday-programme'
+parent = 'School Life'
 weight = 36
+
+[[main]]
+name = "Alliance Française Membership"
+identifier = 'Alliance Française Auckland Membership'
+pageRef = '/school-life/afa-membership'
+parent = 'School Life'
+weight = 37
 
 [[main]]
 name = "Additional Resources"
 identifier = 'Additional Resources'
 pageRef = '/school-life/additional-resources'
 parent = 'School Life'
-weight = 37
+weight = 38
 
 [[main]]
 name = "Newsletter"
 identifier = 'Newsletter'
 url = 'https://drive.google.com/drive/folders/1daNYgJ0yImvKDEhpijC5OKdHMRpQVFrL'
 parent = 'School Life'
-weight = 38
+weight = 39
 
 ############################################
 [[main]]

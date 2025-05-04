@@ -99,46 +99,53 @@ parent = 'School Life'
 weight = 31
 
 [[main]]
-name = "Activités périscolaires"
-identifier = 'After-School Activities'
-pageRef = '/school-life/after-school'
+name = 'Règlement intérieur'
+identifier = 'Behaviour Management Plan'
+url = '/reglement_interieur_mai_2025.pdf'
 parent = 'School Life'
 weight = 32
-
-[[main]]
-name = "Programme de vacances pour enfants"
-identifier = 'Children Holiday Programme'
-pageRef = '/school-life/children-holiday-programme'
-parent = 'School Life'
-weight = 33
-
-[[main]]
-name = "Adhésion Alliance Française"
-identifier = 'Alliance Française Auckland Membership'
-pageRef = '/school-life/afa-membership'
-parent = 'School Life'
-weight = 34
 
 [[main]]
 name = 'Politiques et procédures'
 identifier = 'Policies and Procedures'
 pageRef = '/school-life/policies-and-procedures'
 parent = 'School Life'
-weight = 35
+weight = 33
 
 [[main]]
 name = "Dons"
 identifier = 'Donations'
 pageRef = '/school-life/donations'
 parent = 'School Life'
+weight = 34
+
+[[main]]
+name = "Activités périscolaires"
+identifier = 'After-School Activities'
+pageRef = '/school-life/after-school'
+parent = 'School Life'
+weight = 35
+
+[[main]]
+name = "Programme de vacances pour enfants"
+identifier = 'Children Holiday Programme'
+pageRef = '/school-life/children-holiday-programme'
+parent = 'School Life'
 weight = 36
+
+[[main]]
+name = "Adhésion Alliance Française"
+identifier = 'Alliance Française Auckland Membership'
+pageRef = '/school-life/afa-membership'
+parent = 'School Life'
+weight = 37
 
 [[main]]
 name = "Ressources supplémentaires"
 identifier = 'Additional Resources'
 pageRef = '/school-life/additional-resources'
 parent = 'School Life'
-weight = 37
+weight = 38
 
 [[main]]
 name = "Newsletter"
