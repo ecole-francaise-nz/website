@@ -32,7 +32,7 @@ See [International Student Enrolment Contract – May 2025](/efia_international_
 
 ### Refund conditions
 
-Please consult Refund Policy (Schedule Three) of the [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_april_2025.pdf).
+Please consult Refund Policy (Schedule Three) of the [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf).
 
 
 ### Rights and Obligations information
@@ -40,7 +40,7 @@ Please consult Refund Policy (Schedule Three) of the [International Student Enro
 * Please refer to the [Code](https://www2.nzqa.govt.nz/assets/Tertiary/The-Code/Guidelines-for-Code-Signatory-Schools.pdf).
 * The right to instruction from a suitably qualified tutor/teacher/instructor: all our teachers are certified either by the French Ministry of Education or the NZ Ministry of Education.
 * Information and advice about relevant school policies: please consult our [Policies and Procedures](/school-life/policies-and-procedures).
-* Our Code of conduct is available in the [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf) and the [Behaviour management plan – May 2025](/behaviour_management_procedure_v1_23-01-2025.pdf).
+* Our Code of conduct is available in the [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf) and the [Behaviour management plan](/behaviour_management_procedure_v1_23-01-2025.pdf).
 
 ### School life at EFIA for an international student
 

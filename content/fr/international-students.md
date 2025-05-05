@@ -30,7 +30,7 @@ Voir [International Student Enrolment Contract – May 2025](/efia_international
 
 ### Conditions pour les remboursements
 
-Veuillez consulter la section "Refund Policy (schedule three)" du contrat: [International Student Enrolment Contract – May 2025](/efia_international_student_policy_may_2025.pdf).
+Veuillez consulter la section "Refund Policy (schedule three)" du contrat: [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf).
 
 ### Informations sur les droits et obligations
 
