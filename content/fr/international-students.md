@@ -32,10 +32,21 @@ Voir [International Student Enrolment Contract – May 2025](/efia_international
 
 Veuillez consulter la section "Refund Policy (schedule three)" du contrat: [International Student Enrolment Contract – May 2025](/efia_international_student_policy_may_2025.pdf).
 
+### Informations sur les droits et obligations
+
+* Veuillez vous référer au [Code](https://www2.nzqa.govt.nz/assets/Tertiary/The-Code/Guidelines-for-Code-Signatory-Schools.pdf).
+* Droit à un enseignement dispensé par un professeur/instructeur dûment qualifié : tous nos enseignants sont certifiés soit par le Ministère de l’Éducation nationale français, soit par le Ministère de l’Éducation néo-zélandais.
+* Informations et conseils sur les règlements applicables de l’école : veuillez consulter nos [Politiques et procédures](/fr/school-life/policies-and-procedures).
+* Notre code de conduite est disponible dans le [contrat d’inscription](/efia_international_student_enrolment_contract_may_2025.pdf) et dans le [règlement intérieur](/reglement_interieur_mai_2025.pdf).
 
 ### La vie scolaire à l’EFIA pour un élève international
 
 Veuillez consulter le guide d'orientation ainsi que le document: [International Learner Policy – May 2025](/efia_international_student_policy_may_2025.pdf).
+
+
+### Agents
+
+EFIA recrute des agents pour faciliter l'inscription des étudiants internationaux. Veuillez consulter le document [EFIA Guidelines for Recruitment Agents](/efia_guidelines_for_recruitment_agents.pdf).
 
 ### Informations pratiques
 
