@@ -41,7 +41,7 @@ Veuillez consulter la section "Refund Policy (schedule three)" du contrat: [Inte
 
 ### La vie scolaire à l’EFIA pour un élève international
 
-Veuillez consulter le guide d'orientation ainsi que le document: [International Learner Policy – May 2025](/efia_international_student_policy_may_2025.pdf).
+Veuillez consulter le [guide d'orientation](/efia_orientation_handbook_may_2025.pdf) ainsi que le document: [International Learner Policy – May 2025](/efia_international_student_policy_may_2025.pdf).
 
 
 ### Agents
