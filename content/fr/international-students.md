@@ -4,6 +4,14 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
+Nous sommes ravis d'accueillir les étudiants internationaux pour enrichir notre communauté.
+
+### Code of conduite
+
+Notre école a accepté de respecter et d'appliquer le Code de conduite pour le bien-être des étudiants internationaux. Des copies du Code sont disponibles sur le [site du ministère de l'Éducation de Nouvelle-Zélande](https://www2.nzqa.govt.nz/tertiary/the-code/).
+
+Voici notre [certificat](/efia_cop_certificate.pdf) confirmant que nous sommes un signataire agréé.
+
 ### Notre équipe
 
 La directrice des élèves internationaux est la principale de l’établissement. Elle possède une vaste expérience auprès des élèves internationaux dans de grands établissements néo-zélandais, en tant que responsable du programme ESOL et doyenne des élèves internationaux.

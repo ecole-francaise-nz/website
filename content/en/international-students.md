@@ -4,6 +4,14 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
+We are delighted to welcome international students to enrich our community
+
+### Code of Practice
+
+Our School has agreed to observe and be bound by the Code of Practice for the Pastoral Care of International Students. Copies of the Code are available from the [New Zealand Ministry of Education](https://www2.nzqa.govt.nz/tertiary/the-code/). 
+
+Here is our [CoP Certificate](/efia_cop_certificate.pdf) confirming we are an approved signatory.
+
 ### Our team
 
 The International Learner Director is the Principal. She has extensive experience working with international students in large NZ schools as Head of ESOL and Dean of International Students. 

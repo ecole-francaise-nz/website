@@ -15,6 +15,11 @@ Offrir à chaque élève l’excellence éducative ainsi qu’une ouverture cult
 
 L’école prend également en compte la Déclaration des Priorités Nationales d’Éducation et d’Apprentissage de la Nouvelle-Zélande (NELP) : les élèves au centre, un accès sans barrières, un enseignement et un leadership de qualité, l’avenir de l’apprentissage et du travail, ainsi qu’une éducation publique inclusive de classe mondiale. Ces priorités s’intègrent également parfaitement à l’idéal éducatif français et sont au cœur de notre vision, de nos politiques et de nos stratégies éducatives.
 
+### Notre devise
+> Une école, deux langues, un monde à explorer
+
+Nous aspirons à offrir à chaque élève une excellence éducative ainsi qu'une ouverture culturelle, grâce à un environnement d'apprentissage multilingue qui encourage le savoir, la réflexion, la créativité, l’autonomie, l’engagement social, l’esprit de communauté et un fort sens de la citoyenneté.
+
 ### Valeurs
 
 L’éthique de notre école repose sur des principes clés qui reflètent nos valeurs et nos pratiques. Ces principes forment la base de l’éducation de nos élèves et les préparent à devenir des citoyens du monde :

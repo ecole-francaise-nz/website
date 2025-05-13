@@ -15,6 +15,12 @@ To offer every student educational excellence as well as cultural openness via a
 
 The school also takes into account the New Zealand Statement of National Education and Learning Priorities (NELP): learners at the center, barrier free access, quality teaching and leadership, future of learning and work and world class inclusive public education. These priorities are also an integral part of the French education ideal and at the center of our vision, policies and educational strategies.
 
+### Our Motto
+
+> "One school, two languages, a world to explore"
+
+We aspire to offer every student educational excellence as well as cultural openness via a multilingual learning environment that fosters knowledge, reflection, creativity, independence, social commitment, community spirit and a strong sense of citizenship.
+
 ### Values
 
 Our school's ethos is grounded in key principles that reflect our values and practices. These principles form the foundation of our students' education and prepare them to become global citizens:

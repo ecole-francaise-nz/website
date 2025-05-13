@@ -179,11 +179,11 @@ pageRef = '/testimonials'
 weight = 60
 
 ############################################
-#[[main]]
-#name = 'Étudiants internationaux'
-#identifier = 'International Students'
-#pageRef = '/international-students'
-#weight = 70
+[[main]]
+name = 'Étudiants internationaux'
+identifier = 'International Students'
+pageRef = '/international-students'
+weight = 70
 
 ############################################
 [[main]]
