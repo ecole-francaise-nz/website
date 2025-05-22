@@ -8,6 +8,14 @@ bannerHeight = "450px"
 
 **Auckland French International School** is a **bilingual primary school** that welcomes all families, regardless of nationality, fostering a dynamic and inclusive community. Students follow the French curriculum integrated with the New Zealand curriculum, learning in both French and English with **native-speaking teachers**. This unique opportunity enables children to excel academically and personally—all while benefiting from **free tuition** for every student.
 
+In 2025, we offer 4 levels:
+* Grande section / Year 1
+* CP / Year 2
+* CE1 / Year 3
+* CE2 / Year 4
+
+We will add CM1 / Year 5 in 2026 and CM2 / Year 6 in 2027.
+
 {{< facebook-video url="https://www.facebook.com/61573133858943/videos/2644060549126717/" >}}
 
 ---

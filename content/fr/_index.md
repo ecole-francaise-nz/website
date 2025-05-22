@@ -8,6 +8,14 @@ bannerHeight = "450px"
 
 **L'École Française Internationale Auckland** est une **école primaire bilingue** qui accueille toutes les familles, quelles que soient leur nationalité, favorisant ainsi une communauté dynamique et inclusive. Les élèves suivent le programme français intégré au programme néo-zélandais, avec un enseignement en français et en anglais dispensé par des **enseignants natifs**. Cette opportunité unique permet aux enfants de s’épanouir tant sur le plan académique que personnel, tout en bénéficiant d’une **scolarité gratuite** pour tous.
 
+En 2025, nous proposons 4 niveaux :
+* Grande Section / Year 1
+* CP / Year 2
+* CE1 / Year 3
+* CE2 / Year 4
+
+Nous ajouterons le CM1 / Year 5 en 2026 et le CM2 / Year 6 en 2027.
+
 {{< facebook-video url="https://www.facebook.com/61573133858943/videos/2644060549126717/" >}}
 
 ---
