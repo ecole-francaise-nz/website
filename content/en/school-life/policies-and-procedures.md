@@ -12,3 +12,5 @@ Visit [SchoolDocs](https://ecolefrancais.schooldocs.co.nz/) to access the polici
 
 - Username: `ecolefrancais`
 - Password: _provided by the school when the student starts_
+
+We also follow the [guidelines of the ministry of education](/final_star_30_jan_2025.pdf) regarding families not attending school regularly.

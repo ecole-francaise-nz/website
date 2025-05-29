@@ -13,3 +13,5 @@ Visitez [SchoolDocs](https://ecolefrancais.schooldocs.co.nz/) pour accéder à c
 
 - Nom d'utilisateur : `ecolefrancais`
 - Mot de passe : _fourni par l'école lors de l'inscription de l'élève_.
+
+Nous suivons également les [directives du Ministère de l'Éducation (MoE)](/final_star_30_jan_2025.pdf) concernant les familles dont les enfants ne fréquentent pas l'école régulièrement.
