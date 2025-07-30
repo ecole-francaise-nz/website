@@ -53,8 +53,7 @@ L’École Française Internationale Auckland fait partie d'un **réseau prestig
 
 Les inscriptions sont désormais ouvertes. Réservez la place de votre enfant dès aujourd'hui&nbsp;:
 
-- 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form.pdf" text="Formulaire d'inscription pour 2025">}}
-- 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form_2026_plus.pdf" text="Formulaire d'inscription pour 2026 ou au-delà">}}
+- 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form.pdf?v=30-07-2025" text="Formulaire d'inscription">}}
 
 _Pour toute question, n'hésitez-pas à [nous contacter](/fr/contact/)._
 

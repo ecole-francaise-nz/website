@@ -51,8 +51,7 @@ Discover [more testimonials](/testimonials).
 
 Enrolments are now open. Secure your child’s spot today:
 
-- 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form.pdf" text="Enrolment form for 2025">}}
-- 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form_2026_plus.pdf" text="Enrolment form for 2026 or later">}}
+- 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form.pdf?v=30-07-2025" text="Enrolment form">}}
 
 _For any questions, please feel free to [contact us](/contact/)._
 
