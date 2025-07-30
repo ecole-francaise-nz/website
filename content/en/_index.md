@@ -4,7 +4,7 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
-{{< flashy-button url="/enrolment" text="Enrol Now for 2025!">}}
+{{< flashy-button url="/enrolment" text="Enrol Now!">}}
 
 **Auckland French International School** is a **bilingual primary school** that welcomes all families, regardless of nationality, fostering a dynamic and inclusive community. Students follow the French curriculum integrated with the New Zealand curriculum, learning in both French and English with **native-speaking teachers**. This unique opportunity enables children to excel academically and personally—all while benefiting from **free tuition** for every student.
 

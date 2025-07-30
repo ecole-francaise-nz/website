@@ -4,7 +4,7 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
-{{< flashy-button url="/fr/enrolment" text="Inscrivez votre enfant pour 2025 !">}}
+{{< flashy-button url="/fr/enrolment" text="Inscrivez votre enfant !">}}
 
 **L'École Française Internationale Auckland** est une **école primaire bilingue** qui accueille toutes les familles, quelles que soient leur nationalité, favorisant ainsi une communauté dynamique et inclusive. Les élèves suivent le programme français intégré au programme néo-zélandais, avec un enseignement en français et en anglais dispensé par des **enseignants natifs**. Cette opportunité unique permet aux enfants de s’épanouir tant sur le plan académique que personnel, tout en bénéficiant d’une **scolarité gratuite** pour tous.
 
@@ -45,7 +45,6 @@ L’École Française Internationale Auckland fait partie d'un **réseau prestig
 - **Classes**&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3), CE2 (année 4)
 - **Programme**&nbsp;: Programme français enseigné en français pendant 3 jours et demi, et en anglais pendant 1 jour et demi par semaine
 - **Évaluation**&nbsp;: Nos étudiants passent les évaluations des programmes français et néo-zélandais
-- **Eligibilité**&nbsp;: Si votre enfant est né entre le **1er janvier 2016 et le 31 décembre 2020**, il/elle est éligible.
 - **Langue**&nbsp;: Tous les enfants sont les bienvenus, quel que soit leur niveau de français.
 - **Coût**&nbsp;: La scolarité est gratuite pour tous les élèves&nbsp;!
 
