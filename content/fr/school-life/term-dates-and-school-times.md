@@ -27,3 +27,19 @@ De 8h30 à 15h du lundi au vendredi.
 ### Quatrième trimestre – 06/10/2025 au 17/12/2025
 
 - Jour férié: 27/10/2025 (Fête du travail)
+
+# Calendrier 2026
+
+### Premier trimestre – 27/01/2026 au 02/04/2026
+
+- Jour férié: 06/02/2026 (Waitangi)
+
+### Second trimestre – 28/04/2026 au 26/06/2026
+
+- Jour férié: 01/06/2026 (anniversaire officiel du Roi)
+
+### Troisième trimestre - 20/07/2026 au 20/09/2026
+
+### Quatrième trimestre – 12/10/2026 au 18/12/2026
+
+- Jour férié: 26/10/2026 (Fête du travail)
