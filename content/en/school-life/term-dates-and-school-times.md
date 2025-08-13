@@ -34,11 +34,13 @@ date = 2025-01-11T12:24:00+12:00
 
 - Public holiday: 06/02/2026 (Waitangi)
 
-### Term 2 – 28/04/2026 to 26/06/2026
+### Term 2 – 20/04/2026 to 26/06/2026
 
-- Public holiday: 01/06/2026 (King’s Official Birthday)
+Public holidays:
+- 27/04/2026 (Anzac Day)
+- 01/06/2026 (King’s Official Birthday)
 
-### Term 3 - 20/07/2026 to 20/09/2026
+### Term 3 - 20/07/2026 to 25/09/2026
 
 ### Term 4 – 12/10/2026 to 18/12/2026
 

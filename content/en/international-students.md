@@ -18,7 +18,7 @@ The International Learner Director is the Principal. She has extensive experienc
 
 ### Our school in brief for an International student
 
-See [EFIA International Student Prospectus – May 2025](/efia_international_prospectus_may_2025.pdf)
+See [EFIA International Student Prospectus – August 2025](/efia_international_prospectus_august_2025.pdf)
 
 ### Potential learning outcomes
 

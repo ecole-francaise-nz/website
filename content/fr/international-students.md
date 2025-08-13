@@ -18,7 +18,7 @@ La directrice des élèves internationaux est la principale de l’établissemen
 
 ### Notre école en bref pour un élève international
 
-Voir [EFIA International Student Prospectus – May 2025](/efia_international_prospectus_may_2025.pdf).
+Voir [EFIA International Student Prospectus – August 2025](/efia_international_prospectus_august_2025.pdf).
 
 ### Objectifs d'apprentissage 
 
