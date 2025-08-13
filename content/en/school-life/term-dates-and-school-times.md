@@ -42,6 +42,6 @@ Public holidays:
 
 ### Term 3 - 20/07/2026 to 25/09/2026
 
-### Term 4 – 12/10/2026 to 18/12/2026
+### Term 4 – 12/10/2026 to 15/12/2026
 
 - Public holiday: 26/10/2026 (Labour day)

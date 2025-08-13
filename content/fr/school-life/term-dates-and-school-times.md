@@ -42,6 +42,6 @@ Jours fériés :
 
 ### Troisième trimestre - 20/07/2026 au 25/09/2026
 
-### Quatrième trimestre – 12/10/2026 au 18/12/2026
+### Quatrième trimestre – 12/10/2026 au 15/12/2026
 
 - Jour férié : 26/10/2026 (Fête du travail)
