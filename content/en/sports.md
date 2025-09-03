@@ -43,4 +43,4 @@ Key highlights of the programme:
 
 By combining these exceptional facilities and programmes, we are committed to fostering a healthy and active lifestyle for our students, setting them on the path to a bright and healthy future.
 
-
+{{< youtube-video url="https://www.youtube.com/embed/CnvJQukIJgw" >}}

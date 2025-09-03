@@ -40,4 +40,4 @@ Les points forts du programme&nbsp;:
 
 En combinant ces infrastructures et programmes d’exception, nous sommes déterminés à encourager un mode de vie sain et actif pour nos élèves, en les accompagnant sur le chemin d’un avenir épanoui et en bonne santé.
 
-
+{{< youtube-video url="https://www.youtube.com/embed/CnvJQukIJgw" >}}
