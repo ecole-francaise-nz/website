@@ -24,7 +24,7 @@ Ces infrastructures exceptionnelles permettent à nos élèves de participer à 
 
 ![Les Mills](/images/les-mills-logo.png "Les Mills")
 
-Nous collaborons avec Les Mills pour proposer à nos élèves le programme BORN TO MOVE™.
+Nous collaborons avec [Les Mills](https://www.lesmills.co.nz/) pour proposer à nos élèves le [programme BORN TO MOVE™](https://www.lesmills.com/borntomove/).
 
 **Inspirer les jeunes à aimer l'activité physique**
 
@@ -41,3 +41,5 @@ Les points forts du programme&nbsp;:
 En combinant ces infrastructures et programmes d’exception, nous sommes déterminés à encourager un mode de vie sain et actif pour nos élèves, en les accompagnant sur le chemin d’un avenir épanoui et en bonne santé.
 
 {{< youtube-video url="https://www.youtube.com/embed/CnvJQukIJgw" >}}
+
+{{< youtube-video url="https://www.youtube.com/embed/gLmkiSewPJo" >}}

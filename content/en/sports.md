@@ -27,7 +27,7 @@ These exceptional facilities allow our students to participate in engaging and v
 
 ![Les Mills](/images/les-mills-logo.png "Les Mills")
 
-We have a collaboration with Les Mills to bring the BORN TO MOVE™ programme to our students.
+We have a collaboration with [Les Mills](https://www.lesmills.co.nz/) to bring the [BORN TO MOVE™ programme](https://www.lesmills.com/borntomove/) to our students.
 
 **Inspiring young people to fall in love with physical activity**
 
@@ -44,3 +44,5 @@ Key highlights of the programme:
 By combining these exceptional facilities and programmes, we are committed to fostering a healthy and active lifestyle for our students, setting them on the path to a bright and healthy future.
 
 {{< youtube-video url="https://www.youtube.com/embed/CnvJQukIJgw" >}}
+
+{{< youtube-video url="https://www.youtube.com/embed/gLmkiSewPJo" >}}
