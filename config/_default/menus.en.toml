@@ -3,49 +3,56 @@
 name = 'About us'
 identifier = 'About us'
 pageRef = '/about'
-weight = 10
+weight = 100
 
 [[main]]
 name = 'Vision & Values'
 identifier = 'Vision & Values'
 pageRef = '/about/vision-and-values'
 parent = 'About us'
-weight = 11
+weight = 110
 
 [[main]]
 name = 'Strategic Plan 2025-2027'
 identifier = 'Strategic Plan 2025-2027'
 url = '/efia-strategic-plan-2025-2027.pdf'
 parent = 'About us'
-weight = 12
+weight = 120
 
 [[main]]
 name = "Our team"
 identifier = 'Our team'
 pageRef = '/about/team'
 parent = 'About us'
-weight = 13
+weight = 130
 
 [[main]]
 name = "Premises"
 identifier = 'Premises'
 pageRef = '/about/premises'
 parent = 'About us'
-weight = 14
+weight = 140
 
 [[main]]
 name = "ERO Inspection 2025"
 identifier = 'ERO Inspection 2025'
 pageRef = '/about/ero-inspection-2025'
 parent = 'About us'
-weight = 15
+weight = 150
+
+[[main]]
+name = 'Testimonials'
+identifier = 'Testimonials'
+pageRef = '/about/testimonials'
+parent = 'About us'
+weight = 160
 
 [[main]]
 name = "FAQ"
 identifier = 'FAQ'
 pageRef = '/about/faq'
 parent = 'About us'
-weight = 16
+weight = 170
 
 
 ############################################
@@ -53,35 +60,35 @@ weight = 16
 name = 'Learning'
 identifier = 'Learning'
 pageRef = '/learning'
-weight = 20
+weight = 200
 
 [[main]]
 name = 'The French Curriculum'
 identifier = 'The French Curriculum'
 pageRef = '/learning/french-curriculum'
 parent = 'Learning'
-weight = 21
+weight = 210
 
 [[main]]
 name = 'Teachers Present Our Program'
 identifier = 'Teachers Present Our Program'
 pageRef = '/learning/teachers-present-our-programme'
 parent = 'Learning'
-weight = 22
+weight = 220
 
 [[main]]
 name = 'The Advantages of Bilingualism'
 identifier = 'The Advantages of Bilingualism'
 pageRef = '/learning/bilingualism'
 parent = 'Learning'
-weight = 23
+weight = 230
 
 [[main]]
 name = 'AEFE Accreditation'
 identifier = 'AEFE Accreditation'
 pageRef = '/learning/aefe'
 parent = 'Learning'
-weight = 24
+weight = 240
 
 
 ############################################
@@ -89,77 +96,98 @@ weight = 24
 name = 'School Life'
 identifier = 'School Life'
 pageRef = '/school-life'
-weight = 30
+weight = 300
 
 [[main]]
 name = 'Term Dates & School Times'
 identifier = 'Term Dates & School Times'
 pageRef = '/school-life/term-dates-and-school-times'
 parent = 'School Life'
-weight = 31
+weight = 310
+
+[[main]]
+name = 'School Uniform'
+identifier = 'School Uniform'
+pageRef = '/school-life/school-uniform'
+parent = 'School Life'
+weight = 320
 
 [[main]]
 name = 'Behaviour Management Plan'
 identifier = 'Behaviour Management Plan'
 url = '/behaviour_management_procedure_v1_23-01-2025.pdf'
 parent = 'School Life'
-weight = 32
+weight = 330
 
 [[main]]
 name = 'Policies and Procedures'
 identifier = 'Policies and Procedures'
 pageRef = '/school-life/policies-and-procedures'
 parent = 'School Life'
-weight = 33
+weight = 340
 
 [[main]]
 name = "Donations"
 identifier = 'Donations'
 pageRef = '/school-life/donations'
 parent = 'School Life'
-weight = 34
+weight = 350
 
 [[main]]
 name = "After-School Activities"
 identifier = 'After-School Activities'
 pageRef = '/school-life/after-school'
 parent = 'School Life'
-weight = 35
+weight = 360
 
 [[main]]
 name = "Children Holiday Programme"
 identifier = 'Children Holiday Programme'
 pageRef = '/school-life/children-holiday-programme'
 parent = 'School Life'
-weight = 36
+weight = 370
 
 [[main]]
 name = "Alliance Française Membership"
 identifier = 'Alliance Française Auckland Membership'
 pageRef = '/school-life/afa-membership'
 parent = 'School Life'
-weight = 37
+weight = 380
 
 [[main]]
 name = "Additional Resources"
 identifier = 'Additional Resources'
 pageRef = '/school-life/additional-resources'
 parent = 'School Life'
-weight = 38
+weight = 390
 
 [[main]]
 name = "Newsletter"
 identifier = 'Newsletter'
 url = 'https://drive.google.com/drive/folders/1daNYgJ0yImvKDEhpijC5OKdHMRpQVFrL'
 parent = 'School Life'
-weight = 39
+weight = 395
 
 ############################################
 [[main]]
 name = 'Sports'
 identifier = 'Sports'
 pageRef = '/sports'
-weight = 40
+weight = 400
+
+[[main]]
+name = 'Remuera Rackets Club'
+identifier = 'Remuera Rackets Club'
+pageRef = '/sports/remuera-rackets-club'
+parent = 'Sports'
+weight = 410
+
+[[main]]
+name = 'Les Mills – Born to Move'
+identifier = 'Les Mills – Born to Move'
+pageRef = '/sports/les-mills-born-to-move'
+parent = 'Sports'
+weight = 420
 
 
 ############################################
@@ -167,22 +195,15 @@ weight = 40
 name = 'Enrolment'
 identifier = 'Enrolment'
 pageRef = '/enrolment'
-weight = 50
+weight = 500
 
-
-############################################
-[[main]]
-name = 'Testimonials'
-identifier = 'Testimonials'
-pageRef = '/testimonials'
-weight = 60
 
 ############################################
 [[main]]
 name = 'International Students'
 identifier = 'International Students'
 pageRef = '/international-students'
-weight = 70
+weight = 600
 
 
 ############################################
@@ -190,4 +211,4 @@ weight = 70
 name = 'Contact us'
 identifier = 'Contact us'
 pageRef = '/contact'
-weight = 80
+weight = 700

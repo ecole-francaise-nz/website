@@ -22,13 +22,15 @@ We will add CM1 / Year 5 in 2026 and CM2 / Year 6 in 2027.
 
 **⭐⭐⭐⭐⭐ Parent Testimonials**
 
-*Before coming to Ecole Française Internationale, our son did not speak a word of French. Despite living in an Anglophone household, we were attracted to the school and curriculum as we see great value in learning a foreign language and being exposed to other cultures. After only one week, he was teaching us colours and animal names in French. After two weeks, he was confidently recalling a large number of nouns and numbers. And now, after only 1 month at Ecole Française Internationale, he can sing songs in French, he knows the names of emotions, animals, days of the week, months and many more French words and phrases. The feedback, updates and materials provided by the teachers give us a very clear understanding of the areas our son is progressing in.*
+*Our 8-year-old son joined EFIA in 2025 after several years in a local public school. During a stay in France, we realized there was a gap between his achievements and the expected level for his age. This encouraged us to look for a school environment where he could both progress academically and thrive personally.*
 
-*Outside of the outstanding language teaching, we have been impressed with other aspects of the School. Our son is exposed to a range of stimulating activities and subjects including maths, sports and English. We were initially unsure how learning French alongside English would affect his reading and writing, but we have been amazed by his sudden progression in his English reading ability and confidence. He is exposed to a number of books, and the method of teaching phonics and reading is working very well for him. Every night, he enjoys reading books to us provided by the School and he is confidently sounding out and sight-reading words (including Māori words). The care and attention the staff have paid to him has given us the confidence that they are tracking his progress and providing him with suitable books and resources that match his ability.*
+*Since starting at EFIA, his progress has been remarkable: within just a few weeks he strengthened his mathematical skills significantly and is developing his French every day. He has gained confidence, enjoys learning, and now surprises us with his ability to concentrate and to engage in thoughtful conversations.*
 
-*All of the staff have been incredibly welcoming, friendly and professional. We could not be happier with our son's progress overall and he is settling in very well.*
+*We especially value the small class sizes, the individual attention provided by teachers, and the balance between active, playful learning and solid acquisition of core skills. The absence of screens in class and the emphasis on traditional written work also foster better discipline and a calmer mindset.*
 
-Discover [more testimonials](/testimonials).
+*We are deeply grateful to the teachers and leadership team for their dedication and the excellence of the education they provide. EFIA truly combines the best of French and Kiwi approaches, and we feel fortunate to have this opportunity for our child here in Auckland.*
+
+Discover [more testimonials](/about/testimonials).
 
 ---
 

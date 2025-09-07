@@ -7,7 +7,7 @@ date = 2025-01-11T12:24:00+12:00
 
 School families receive a free membership to the Alliance Française Auckland (AFA), giving them access to all the services offered by the AFA at discounted rates:
 
-- 5% discount on the [Children Holiday Programme](https://www.alliance-francaise.co.nz/learn-french/kids-and-teenagers/children-holiday-programme/)
+- 5% discount on the [Children Holiday Programme](https://www.alliance-francaise.co.nz/learn-french/kids-and-teenagers/children-holiday-program/)
 - Up to 10% discount with [AFA's partners](https://www.alliance-francaise.co.nz/about-us/our-sponsors-and-partners/)
 - Free access to the [library for both children & adults](https://www.alliance-francaise.co.nz/resources-and-services/library/)
 - Free access to the largest French media library in the world: [Culturetheque](https://www.alliance-francaise.co.nz/resources-and-services/culturetheque/). It offers access to thousands of books, magazines, newspapers, videos, music, and educational resources, making it a major platform for promoting French culture and language internationally.

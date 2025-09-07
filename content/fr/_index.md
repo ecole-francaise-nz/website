@@ -22,15 +22,17 @@ Nous ajouterons le CM1 / Year 5 en 2026 et le CM2 / Year 6 en 2027.
 
 **⭐⭐⭐⭐⭐ Témoignages de parents d'élèves**
 
-"*Our 7-year-old son started at EFIA recently, and we couldn’t be happier with how well he’s doing. From the very first day, he felt welcome and comfortable. The small classes and caring teachers make learning fun and easy for him.*
+*Notre fils de 8 ans a commencé sa scolarité à l'EFIA en 2025, après plusieurs années dans une école publique de notre quartier. Lors d’un séjour en France, nous avons découvert l’écart qui existait entre ses acquis et le niveau attendu dans sa classe d’âge. Cela nous a amenés à rechercher un environnement scolaire où il pourrait progresser dans ses apprentissages fondamentaux tout en s’épanouissant.*
 
-*One of the biggest surprises is how fast he’s learning French. He didn’t know any before, but now he picks up new words every day and enjoys using them at home. He’s always excited to share what he learned at school, whether it’s a new word, a fun fact, or something interesting from class.*
+*Depuis son arrivée à l'EFIA, les progrès sont impressionnants : en quelques semaines, il a considérablement renforcé ses compétences en mathématiques et développe chaque jour davantage sa maîtrise du français. Il retrouve confiance en lui, prend plaisir à apprendre et nous surprend désormais par ses conversations et sa capacité à se concentrer.*
 
-*He also loves the weekly tennis and racquet classes at the racquet club. It’s a great way for him to stay active, have fun, and try something new.*
+*Nous apprécions particulièrement la taille des classes, l’attention individualisée des enseignants et l’équilibre trouvé entre pédagogie active et acquisition solide des fondamentaux. L’absence d’écrans en classe et l’importance accordée au travail écrit contribuent aussi à une meilleure discipline et à une plus grande sérénité.*
 
-*What we love most is the warm and supportive community. Everyone knows each other, and the teachers really care. Seeing our son happy, learning, and excited to go to school every day makes us sure we made the right choice.*"
+*Nous sommes profondément reconnaissants à l’équipe enseignante et à la direction pour la qualité de l’accompagnement et l’excellence de l’éducation offerte à notre enfant. L'EFIA combine le meilleur des approches françaises et néo-zélandaises, et nous sommes heureux que notre enfant puisse en bénéficier ici à Auckland.*
 
-Découvrez [d'autres témoignages](/fr/testimonials).
+[Traduit de l'anglais par l'EFIA.]
+
+Découvrez [d'autres témoignages](/fr/about/testimonials).
 
 ---
 

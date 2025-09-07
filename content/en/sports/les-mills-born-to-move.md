@@ -1,29 +1,8 @@
 +++
-title = 'Sports'
+title = 'Remuera Rackets Club'
 hero = "/images/chp2-banner.jpg"
 bannerHeight = "450px"
 +++
-
-At our school, we prioritise the physical well-being and development of our students by providing access to top-notch sports facilities and programmes.
-
-----
-
-{{< youtube-video url="https://www.youtube.com/embed/qfQJThfb7Is?si=-dW0nP6F-wAdIxxA" >}}
-
-
-![Remuera Rackets Club](/images/remuera-rackets-club-logo.png "Remuera Rackets Club")
-
-We are proud to use the facilities of Remuera Rackets Club, Auckland’s largest rackets club, located just 5 minutes from our school. The club offers:
-
-* Nine floodlit tennis courts
-* Six glass-back squash courts
-* One padel court
-* A large fitness center
-* A swimming-pool
-
-These exceptional facilities allow our students to participate in engaging and varied sports lessons, fostering their athletic skills and enthusiasm for physical activity.
-
-----
 
 ![Les Mills](/images/les-mills-logo.png "Les Mills")
 

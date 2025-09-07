@@ -24,12 +24,12 @@ Nous aspirons à offrir à chaque élève une excellence éducative ainsi qu'une
 
 L’éthique de notre école repose sur des principes clés qui reflètent nos valeurs et nos pratiques. Ces principes forment la base de l’éducation de nos élèves et les préparent à devenir des citoyens du monde :
 
-- **Excellence éducative** : EFIA propose une éducation internationale bilingue français-anglais, alliant la rigueur académique du programme français à l’approche pratique et centrée sur l’élève du programme et de la pédagogie néo-zélandaise.
-- **Inclusivité et diversité** : EFIA accueille des élèves de tous horizons, promouvant un environnement multiculturel et inclusif qui célèbre les différences et favorise la compréhension interculturelle.
-- **Développement global** : EFIA vise à offrir une expérience éducative équilibrée, combinant les atouts des systèmes éducatifs français et néo-zélandais. Notre programme favorise la réussite académique des élèves tout en développant des compétences de vie telles que la communication, le travail en équipe et la résolution de problèmes.
+- **Excellence éducative** : l'EFIA propose une éducation internationale bilingue français-anglais, alliant la rigueur académique du programme français à l’approche pratique et centrée sur l’élève du programme et de la pédagogie néo-zélandaise.
+- **Inclusivité et diversité** : l'EFIA accueille des élèves de tous horizons, promouvant un environnement multiculturel et inclusif qui célèbre les différences et favorise la compréhension interculturelle.
+- **Développement global** : l'EFIA vise à offrir une expérience éducative équilibrée, combinant les atouts des systèmes éducatifs français et néo-zélandais. Notre programme favorise la réussite académique des élèves tout en développant des compétences de vie telles que la communication, le travail en équipe et la résolution de problèmes.
 - **Engagement communautaire** : Située au 131 Remuera Road, l’école est ancrée dans la dynamique communauté française, soutenue par l’Alliance Française d’Auckland. Les élèves bénéficieront d’un environnement culturel riche en participant à des événements tels que le marché français et diverses activités communautaires.
 - **Amélioration continue** : L’accréditation AEFE et les comparaisons régulières avec d’autres écoles françaises à l’étranger garantissent qu’EFIA reste engagée dans l’excellence et l’amélioration.
-- **Leadership éthique** : EFIA est construite sur des valeurs de transparence, de responsabilité et de conduite éthique, des valeurs portées par l’Alliance Française d’Auckland depuis sa fondation en 1896.
+- **Leadership éthique** : l'EFIA est construite sur des valeurs de transparence, de responsabilité et de conduite éthique, des valeurs portées par l’Alliance Française d’Auckland depuis sa fondation en 1896.
 
 C'est une offre éducative unique en Nouvelle-Zélande, permettant aux élèves de passer du programme français au programme néo-zélandais à tout moment.
 
