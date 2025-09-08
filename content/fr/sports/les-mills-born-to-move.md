@@ -1,6 +1,6 @@
 +++
-title = 'Remuera Rackets Club'
-hero = "/images/chp2-banner.jpg"
+title = 'Les Mills – BORN TO MOVE™'
+hero = "/images/sports-banner.jpg"
 bannerHeight = "450px"
 +++
 
