@@ -8,7 +8,7 @@ bannerHeight = "450px"
 
 {{< youtube-video url="https://www.youtube.com/embed/qfQJThfb7Is?si=-dW0nP6F-wAdIxxA" >}}
 
-We are proud to use the facilities of Remuera Rackets Club, Auckland’s largest rackets club, located just 5 minutes from our school. The club offers:
+We are proud to use the facilities of [Remuera Rackets Club](https://remuerarackets.co.nz/), Auckland’s largest rackets club, located just 5 minutes from our school. The club offers:
 
 * Nine floodlit tennis courts
 * Six glass-back squash courts

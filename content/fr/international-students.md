@@ -45,7 +45,7 @@ Veuillez consulter la section "Refund Policy (schedule three)" du contrat: [Inte
 * Veuillez vous référer au [Code](https://www2.nzqa.govt.nz/assets/Tertiary/The-Code/Guidelines-for-Code-Signatory-Schools.pdf).
 * Droit à un enseignement dispensé par un professeur/instructeur dûment qualifié : tous nos enseignants sont certifiés soit par le Ministère de l’Éducation nationale français, soit par le Ministère de l’Éducation néo-zélandais.
 * Informations et conseils sur les règlements applicables de l’école : veuillez consulter nos [Politiques et procédures](/fr/school-life/policies-and-procedures).
-* Notre code de conduite est disponible dans le [contrat d’inscription](/efia_international_student_enrolment_contract_may_2025.pdf) et dans le [règlement intérieur](/reglement_interieur_mai_2025.pdf).
+* Notre code de conduite est disponible dans le [contrat d’inscription](/efia_international_student_enrolment_contract_may_2025.pdf) et dans le [règlement intérieur](/reglement_interieur_octobre_2025.pdf).
 
 ### La vie scolaire à l’EFIA pour un élève international
 

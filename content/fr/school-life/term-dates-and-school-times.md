@@ -24,7 +24,7 @@ De 8h30 à 15h du lundi au vendredi.
 
 ### Troisième trimestre - 14/07/2025 au 19/09/2025
 
-### Quatrième trimestre – 06/10/2025 au 17/12/2025
+### Quatrième trimestre – 06/10/2025 au 12/12/2025
 
 - Jour férié : 27/10/2025 (Fête du travail)
 

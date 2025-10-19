@@ -15,9 +15,16 @@ weight = 110
 [[main]]
 name = 'Stratégie 2025-2027'
 identifier = 'Strategic Plan 2025-2027'
-url = '/efia-strategic-plan-2025-2027.pdf'
+url = '/efia-plan-strategique-2025-2027.pdf'
 parent = 'About us'
 weight = 120
+
+[[main]]
+name = "Project d'école"
+identifier = 'School Project'
+url = '/efia-projet-ecole-2025-2028.pdf'
+parent = 'About us'
+weight = 125
 
 [[main]]
 name = "L'équipe"
@@ -115,7 +122,7 @@ weight = 320
 [[main]]
 name = 'Règlement intérieur'
 identifier = 'Behaviour Management Plan'
-url = '/reglement_interieur_mai_2025.pdf'
+url = '/reglement_interieur_octobre_2025.pdf'
 parent = 'School Life'
 weight = 330
 

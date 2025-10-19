@@ -20,6 +20,13 @@ parent = 'About us'
 weight = 120
 
 [[main]]
+name = 'School Project'
+identifier = 'School Project'
+url = '/efia-school-project-2025-2028.pdf'
+parent = 'About us'
+weight = 125
+
+[[main]]
 name = "Our team"
 identifier = 'Our team'
 pageRef = '/about/team'
