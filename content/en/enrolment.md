@@ -12,7 +12,6 @@ Enrolments are open now, so secure your child’s spot today! 👇
 
 - **Location**: 131 Remuera Road, Remuera
 - **No zoning**: Students can live anywhere
-- **Classes**: Grande Section (Years 0 & 1), CP (Year 2), CE1 (Year 3), CE2 (Year 4)
 - **Classes**: Grande Section (Years 0 & 1), CP (Year 2), CE1 (Year 3), CE2 (Year 4) in 2025; CM1 (Year 5) in 2026 and CM2 (Year 6) in 2027
 - **Curriculum**: French programme taught in French (3½ days per week) and in English (1½ days per week)
 - **Assessment**: Students sit exams for both the French and New Zealand curriculums
