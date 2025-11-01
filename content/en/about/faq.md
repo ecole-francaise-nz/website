@@ -90,5 +90,6 @@ EFIA is currently undergoing the AEFE accreditation process, which typically tak
 **Are there additional costs beyond free tuition?**
 
 Yes, families should be aware of:
-* A school uniform.
+* A [school uniform](/school-life/school-uniform/).
+* [School supplies](https://www.myschool.co.nz/ECOLE).
 * A voluntary school donation to support outdoor activities and sports partnerships.

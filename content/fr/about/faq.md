@@ -91,5 +91,6 @@ L’EFIA est actuellement en cours d’accréditation, un processus qui dure env
 
 Oui, les familles doivent prendre en compte :
 
-* L’achat d’un uniforme scolaire (actuellement en cours de finalisation).
+* L’achat d’un [uniforme scolaire](/fr/school-life/school-uniform/) (actuellement en cours de finalisation).
+* L'achat des [fournitures scolaires](https://www.myschool.co.nz/ECOLE).
 * Une contribution volontaire pour financer les sorties et activités sportives de l’école.

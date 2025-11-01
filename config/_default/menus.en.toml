@@ -120,6 +120,13 @@ parent = 'School Life'
 weight = 320
 
 [[main]]
+name = 'School Supplies'
+identifier = 'School Supplies'
+url = 'https://www.myschool.co.nz/ECOLE'
+parent = 'School Life'
+weight = 325
+
+[[main]]
 name = 'Behaviour Management Plan'
 identifier = 'Behaviour Management Plan'
 url = '/behaviour_management_procedure_v1_23-01-2025.pdf'

@@ -120,6 +120,13 @@ parent = 'School Life'
 weight = 320
 
 [[main]]
+name = 'Fournitures scolaires'
+identifier = 'School Supplies'
+url = 'https://www.myschool.co.nz/ECOLE'
+parent = 'School Life'
+weight = 325
+
+[[main]]
 name = 'Règlement intérieur'
 identifier = 'Behaviour Management Plan'
 url = '/reglement_interieur_octobre_2025.pdf'
