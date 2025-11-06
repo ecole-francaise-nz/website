@@ -127,6 +127,13 @@ parent = 'School Life'
 weight = 325
 
 [[main]]
+name = 'Bring Your Own Device'
+identifier = 'Bring Your Own Device'
+pageRef = '/school-life/byod'
+parent = 'School Life'
+weight = 327
+
+[[main]]
 name = 'Behaviour Management Plan'
 identifier = 'Behaviour Management Plan'
 url = '/behaviour_management_procedure_v1_23-01-2025.pdf'

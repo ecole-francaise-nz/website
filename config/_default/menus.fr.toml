@@ -127,6 +127,13 @@ parent = 'School Life'
 weight = 325
 
 [[main]]
+name = 'Appareil BYOD'
+identifier = 'Bring Your Own Device'
+pageRef = '/school-life/byod'
+parent = 'School Life'
+weight = 327
+
+[[main]]
 name = 'Règlement intérieur'
 identifier = 'Behaviour Management Plan'
 url = '/reglement_interieur_octobre_2025.pdf'
