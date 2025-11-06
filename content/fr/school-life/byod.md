@@ -5,7 +5,7 @@ bannerHeight = "450px"
 date = 2025-09-06T12:24:00+12:00
 +++
 
-# Apportez Votre Propre Appareil (BYOD)
+# Apportez Votre Propre Appareil (BYOD) — À partir du CM1 / Year 5
 
 Le programme BYOD est une excellente occasion pour votre enfant de développer ses compétences numériques et d'apprendre à utiliser la technologie avec responsabilité.
 

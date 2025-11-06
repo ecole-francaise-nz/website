@@ -5,7 +5,7 @@ bannerHeight = "450px"
 date = 2025-09-06T12:24:00+12:00
 +++
 
-# Bring Your Own Device (BYOD)
+# Bring Your Own Device (BYOD) – Starting in CM1 / Year 5
 
 BYOD is a great opportunity for your child to develop their digital literacy skills and learn about the care and responsibility associated with technology.
 
