@@ -1,13 +1,13 @@
 +++
-title = 'Appareil BYOD'
+title = 'Ordinateur portable (AVEC)'
 hero = "/images/term-dates-banner.jpg"
 bannerHeight = "450px"
 date = 2025-09-06T12:24:00+12:00
 +++
 
-# Apportez Votre Propre Appareil (BYOD) — À partir du CM1 / Year 5
+# Apportez Votre Équipement personnel de Communication (AVEC) — À partir du CM1 / Year 5
 
-Le programme BYOD est une excellente occasion pour votre enfant de développer ses compétences numériques et d'apprendre à utiliser la technologie avec responsabilité.
+Le programme AVEC (ou BYOD en anglais) est une excellente occasion pour votre enfant de développer ses compétences numériques et d'apprendre à utiliser la technologie avec responsabilité.
 
 ---
 

@@ -127,7 +127,7 @@ parent = 'School Life'
 weight = 325
 
 [[main]]
-name = 'Appareil BYOD'
+name = 'Ordinateur portable (AVEC)'
 identifier = 'Bring Your Own Device'
 pageRef = '/school-life/byod'
 parent = 'School Life'
