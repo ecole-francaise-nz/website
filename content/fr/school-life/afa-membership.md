@@ -14,3 +14,23 @@ Les élèves de l'école ainsi que leur famille bénéficient gratuitement d'une
 - Accès gratuit ou à prix réduit aux nombreux [événements organisés par l'AFA](https://www.alliance-francaise.co.nz/events/all-events/)
 - Accès aux [cours de français adultes](https://www.alliance-francaise.co.nz/learn-french/adults/) ou [enfants](https://www.alliance-francaise.co.nz/learn-french/kids-and-teenagers/), collectifs ou [privés](https://www.alliance-francaise.co.nz/learn-french/private-tuition/)
 - Accès à la préparation des [examens DELF scolaire](https://www.alliance-francaise.co.nz/diplomas/adults/delf-dalf-tout-public/)
+
+#  ⭐️⭐️⭐️ Nouveau en 2026 ⭐️⭐️⭐️
+
+**Offre exclusive**
+
+En tant que membre de l’Alliance Française et de notre communauté francophone, vous avez désormais accès, à tarif réduit, à notre nouveau cours de français destiné aux parents. Conçu pour les débutants souhaitant accompagner et soutenir leur enfant dans son apprentissage du français, ce cours vous apportera toutes les bases nécessaires pour aider aux devoirs et tenir de simples conversations en français.
+
+Voici le [formulaire d’inscription](https://forms.gle/eTgBSJjwR9bbuP1q7).
+
+**Pour les plus jeunes**
+
+À l’Alliance Française, nos cours collectifs pour enfants commencent dès 2 ans ! Alors n’hésitez pas à inscrire les petits frères et sœurs à nos cours collectifs avant leur entrée à l’école afin de leur offrir une première immersion ludique dans la langue française.
+
+Voir notre site pour plus d’informations sur les [cours pour enfants](https://www.alliance-francaise.co.nz/learn-french/kids-and-teenagers/french-as-foreign-language/).
+
+**Événements**
+
+À l’Alliance Française, nous organisons de nombreux événements pour partager un aperçu de la culture française&nbsp;: petits-déjeuners le samedi matin, soirées cinéma français, et bien sûr notre célèbre French Market, pour n’en citer que quelques-uns.
+
+Suivez-nous sur [Instagram](http://www.instagram.com/af_auckland/?hl=fr) ou consultez [notre site](https://www.alliance-francaise.co.nz/events/all-events/) pour ne manquer aucune occasion de savourer un délicieux croissant ou découvrir ou redécouvrir des nouvelles anecdotes culturelles et historiques !

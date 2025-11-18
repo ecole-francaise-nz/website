@@ -69,6 +69,10 @@ Veuillez également consulter le document [EFIA - Immigration matters](/efia_imm
 * Voici le site officiel du gouvernement pour obtenir des informations sur [les études et la vie en Nouvelle-Zélande](https://www.naumainz.studywithnewzealand.govt.nz/).
 * Les services disponibles et le soutien offert sont listés ici : [Market place](https://sieba.nz/marketplace/).
 
+**Vivre à Auckland**
+
+* [Guide d'accueil à Auckland](https://ourauckland.aucklandcouncil.govt.nz/welcome-to-auckland/)
+
 **Assurance**
 
 *Assurance médicale et de voyage*

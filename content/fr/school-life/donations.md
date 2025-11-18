@@ -11,7 +11,7 @@ Notre Conseil d’Administration accorde une grande importance à votre génére
 
 Chaque contribution, quelle qu’en soit la taille, a un impact direct sur la vie de nos élèves et sur la qualité de leur éducation. Merci d’être une partie intégrante du succès de notre école et de nous aider à façonner un avenir prometteur pour tous nos élèves.
 
-Le don annuel a été fixé à 550$ par élève cette année.
+La contribution volontaire pour 2026 a été fixée à 550$ par élève, comme en 2025. Vous pouvez la régler en un seul versement ou en plusieurs versements au cours de l’année, selon votre préférence.
 
 Virement bancaire direct au compte de `ECOLE FRANCAISE INTERNATIONALE AUCKLAND`, compte numéro `06-0323-0901946-00`. Veuillez svp indiquer votre nom dans le champ _Particulars_, et "Donation" comme référence du virement.
 

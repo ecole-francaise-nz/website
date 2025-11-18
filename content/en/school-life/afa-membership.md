@@ -14,3 +14,23 @@ School families receive a free membership to the Alliance Française Auckland (A
 - Free or discounted access to the many [events organized by the AFA](https://www.alliance-francaise.co.nz/events/all-events/).
 - Access to [private French lessons](https://www.alliance-francaise.co.nz/learn-french/private-tuition/), or [group French lessons for adults](https://www.alliance-francaise.co.nz/learn-french/adults/) and [for children](https://www.alliance-francaise.co.nz/learn-french/kids-and-teenagers/)
 - Access to preparation for the [DELF scolaire exams](https://www.alliance-francaise.co.nz/diplomas/adults/delf-dalf-tout-public/)
+
+# ⭐️⭐️⭐️ NEWS 2026! ⭐️⭐️⭐️
+
+**Exclusive Offer**
+
+As a member of the Alliance Française and part of our French community, you now have access to our new French course for parents at a discounted price. Designed for beginners who wish to follow and support their child on their French-learning journey, this course will give you the essential tools you need to help with homework and hold simple conversations in French.
+
+To register, please complete the [registration form](https://forms.gle/eTgBSJjwR9bbuP1q7).
+
+**For the Young Ones**
+
+At the Alliance Française, our children group classes start as early as 2 years old—yes, that early! Don’t hesitate to enroll younger siblings in our group lessons before their first day of school and let them start discovering the French language in a fun and engaging environment.
+
+Check out the [Kids Course Schedule](https://www.alliance-francaise.co.nz/learn-french/kids-and-teenagers/french-as-foreign-language/)
+
+**Events**
+
+At the Alliance Française, we organise a wide range of events to share a taste of French culture: Saturday morning breakfasts, French movie nights, and our famous French Market, just to name a few.
+
+Follow us on [Instagram](http://www.instagram.com/af_auckland/?hl=en) or visit [our website](https://www.alliance-francaise.co.nz/events/all-events/) so you never miss an opportunity to enjoy a delicious croissant or learn new cultural and historical facts!

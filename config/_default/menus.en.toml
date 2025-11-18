@@ -27,6 +27,20 @@ parent = 'About us'
 weight = 125
 
 [[main]]
+name = 'Organisational Chart'
+identifier = 'Organisational Chart'
+url = '/efia_organisational_chart_2026.pdf'
+parent = 'About us'
+weight = 127
+
+[[main]]
+name = 'Board of Trustees'
+identifier = 'Board of Trustees'
+pageRef = '/about/board-of-trustees'
+parent = 'About us'
+weight = 128
+
+[[main]]
 name = "Our team"
 identifier = 'Our team'
 pageRef = '/about/team'
@@ -134,13 +148,6 @@ parent = 'School Life'
 weight = 327
 
 [[main]]
-name = 'Behaviour Management Plan'
-identifier = 'Behaviour Management Plan'
-url = '/behaviour_management_procedure_v1_23-01-2025.pdf'
-parent = 'School Life'
-weight = 330
-
-[[main]]
 name = 'Policies and Procedures'
 identifier = 'Policies and Procedures'
 pageRef = '/school-life/policies-and-procedures'
@@ -153,6 +160,13 @@ identifier = 'Donations'
 pageRef = '/school-life/donations'
 parent = 'School Life'
 weight = 350
+
+# [[main]]
+# name = "Goodies"
+# identifier = 'Goodies'
+# pageRef = '/school-life/goodies'
+# parent = 'School Life'
+# weight = 355
 
 [[main]]
 name = "After-School Activities"
@@ -226,10 +240,16 @@ identifier = 'International Students'
 pageRef = '/international-students'
 weight = 600
 
+############################################
+[[main]]
+name = 'Recruitment'
+identifier = 'Recruitment'
+pageRef = '/recruitment'
+weight = 700
 
 ############################################
 [[main]]
 name = 'Contact us'
 identifier = 'Contact us'
 pageRef = '/contact'
-weight = 700
+weight = 800

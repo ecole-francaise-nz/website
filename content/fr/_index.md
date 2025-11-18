@@ -8,13 +8,14 @@ bannerHeight = "450px"
 
 **L'École Française Internationale Auckland** est une **école primaire bilingue** qui accueille toutes les familles, quelles que soient leur nationalité, favorisant ainsi une communauté dynamique et inclusive. Les élèves suivent le programme français intégré au programme néo-zélandais, avec un enseignement en français et en anglais dispensé par des **enseignants natifs**. Cette opportunité unique permet aux enfants de s’épanouir tant sur le plan académique que personnel, tout en bénéficiant d’une **scolarité gratuite** pour tous.
 
-En 2025, nous proposons 4 niveaux :
+En 2026, nous proposons 5 niveaux :
 * Grande Section / Year 1
 * CP / Year 2
 * CE1 / Year 3
 * CE2 / Year 4
+* CM1 / Year 5
 
-Nous ajouterons le CM1 / Year 5 en 2026 et le CM2 / Year 6 en 2027.
+Nous ajouterons le CM2 / Year 6 en 2027.
 
 {{< facebook-video url="https://www.facebook.com/61573133858943/videos/2644060549126717/" >}}
 
@@ -42,9 +43,9 @@ L’École Française Internationale Auckland fait partie d'un **réseau prestig
 
 🔑 **Informations clés**
 
-- **Emplacement**&nbsp;: 131 Remuera Road, Remuera
+- **Emplacement**&nbsp;: 127 & 131 Remuera Road, Remuera
 - **Pas de zones d'inscription**&nbsp;: Les élèves peuvent habiter n'importe où
-- **Classes**&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3), CE2 (année 4)
+- **Classes**&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3), CE2 (année 4), CM1 (année 5) en 2026; et CM2 (année 6) en 2027.
 - **Programme**&nbsp;: Programme français enseigné en français pendant 3 jours et demi, et en anglais pendant 1 jour et demi par semaine
 - **Évaluation**&nbsp;: Nos étudiants passent les évaluations des programmes français et néo-zélandais
 - **Langue**&nbsp;: Tous les enfants sont les bienvenus, quel que soit leur niveau de français.
@@ -54,7 +55,7 @@ L’École Française Internationale Auckland fait partie d'un **réseau prestig
 
 Les inscriptions sont désormais ouvertes. Réservez la place de votre enfant dès aujourd'hui&nbsp;:
 
-- 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form.pdf?v=30-07-2025" text="Formulaire d'inscription">}}
+- 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form.pdf" text="Formulaire d'inscription">}}
 
 _Pour toute question, n'hésitez-pas à [nous contacter](/fr/contact/)._
 

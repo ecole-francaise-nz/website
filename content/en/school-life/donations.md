@@ -11,7 +11,7 @@ Our Board deeply values your generous support, which helps bring to life our vis
 
 Every contribution, no matter the size, directly impacts the lives of our students and the quality of their education. Thank you for being an integral part of our school’s journey and for helping us shape a bright future for all our learners.
 
-This year’s donation has been set at $550 per student.
+The 2026 donation has been set at $550 per student, the same amount as in 2025. You may choose to pay in one instalment or in several instalments over the course of the year.
 
 Direct Credit to `ECOLE FRANCAISE INTERNATIONALE AUCKLAND`, bank account `06-0323-0901946-00`. Please state your name in the _Particulars_ field, and "Donation" as the reference.
 
