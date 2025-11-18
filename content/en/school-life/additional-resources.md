@@ -11,5 +11,6 @@ date = 2025-01-11T12:24:00+12:00
 * [iEducat!f](https://jeux.ieducatif.fr/jeux/francais/)
 * [lasouris-web](https://www.lasouris-web.org/primaire/francais.html)
 * [TV5 Monde Edu](https://enseigner.tv5monde.com/fiches-pedagogiques-fle/tivi5monde)
+* [Epic!](https://www.getepic.com/app?section=lexile)
 * [Alliance Française Auckland Resources](https://www.alliance-francaise.co.nz/resources-and-services/additional-resources/)
 
