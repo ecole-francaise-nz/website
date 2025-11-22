@@ -49,7 +49,7 @@ Students follow the French curriculum and assessments. However, we also prepare 
 ---
 **Are the teachers registered with the NZ Teaching Council?**
 
-Currently, all three of our teachers are registered with the NZ Teaching Council and hold French teaching qualifications. In the future, we may have a mix of 75% NZ-registered teachers and 25% teachers with a Limited Authority to Teach (such as French teachers from overseas while their qualifications are assessed by NZQA).
+Most of our teachers are registered with the NZ Teaching Council and hold French teaching qualifications. Our Charter School contract allows for a mix of 75% NZ-registered teachers and 25% teachers with a Limited Authority to Teach (such as French teachers from overseas while their qualifications are assessed by NZQA).
 
 ---
 **Are there Kiwi teachers at EFIA to ensure strong English literacy?**
@@ -61,20 +61,20 @@ Yes. EFIA teaches the French curriculum with 70% instruction in French and 30% i
 
 At École Française Internationale Auckland, we blend the academically rigorous French curriculum with key aspects of the New Zealand curriculum, including English instruction, local history, culture, and well-being.
 
-Our approach is contextualized—instead of learning about French geography, students explore New Zealand landmarks like the Waikato River and Mount Ruapehu. For ANZAC Day, young students will learn about poppies, ANZAC biscuits, and draw parallels with November 11th in Europe.
+Our approach is contextualized—instead of learning about French geography, students explore New Zealand landmarks like the Waikato River and Mount Ruapehu. For ANZAC Day, young students learn about poppies, ANZAC biscuits, and draw parallels with November 11th in Europe.
 
-As a bilingual school, we teach in both languages, and our students sit the same NZ exams as other primary schools. In Term 1, they study English poems by NZ authors, and in Term 2, they will learn French poems by Francophone authors, not necessarily from France.
+As a bilingual school, we teach in both languages, and our students sit the same NZ exams as other primary schools. In Term 1, they study English poems by NZ authors, and in Term 2, they learn French poems by Francophone authors, not necessarily from France.
 
 ---
 **What kind of facilities does the school offer to support students’ sports and cultural environment?**
 
-We partner with Remuera Rackets Club, just a 5-minute walk away, for sports twice a week. Our students benefit from tennis and fitness coaching, including the Born To Move program by Les Mills. In Term 4, they will also have access to the swimming pool.
+We partner with Remuera Rackets Club, just a 5-minute walk away, for sports twice a week. Our students benefit from tennis and fitness coaching, including the Born To Move program by Les Mills. In Term 4, they have access to the swimming pool.
 
 To meet our 2.5-hour weekly physical education requirement, students engage in 30 minutes of daily physical activity at school on days they don’t visit the club. We provide equipment to help them stay active and develop new skills.
 
 We are fortunate to benefit from the Alliance Française, Auckland’s French cultural hub, giving us access to the largest French children’s library, holiday programs, and family-friendly events year-round.
 
-However, we go beyond French culture, incorporating local themes into our teaching. At the end of Term 2, we will focus on Matariki and explore its connections to other cultural festivals.
+However, we go beyond French culture, incorporating local themes into our teaching. At the end of Term 2, we focus on Matariki and explore its connections to other cultural festivals.
 
 ---
 **What guarantees does AEFE accreditation provide?**

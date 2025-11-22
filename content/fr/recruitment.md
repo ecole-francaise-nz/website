@@ -8,3 +8,5 @@ L’école se développe chaque année et recherche des enseignants francophones
 
 Les détails de la procédure sont disponibles sur les sites du [NZ Teaching Council](https://teachingcouncil.nz/getting-certificated/) et du [NZQA](https://www2.nzqa.govt.nz/), et celle‑ci peut être effectuée depuis l’étranger.
 Si vous vivez déjà en Nouvelle‑Zélande et êtes en cours d’inscription, ou si vous souhaitez entamer cette démarche, vous pouvez également nous contacter pour discuter des possibilités de collaboration à l’adresse suivante : [hr@ecole-francaise.nz](mailto:hr@ecole-francaise.nz).
+
+Toutes les informations sont disponibles sur le [site de l'Ambassade de France](https://nz.ambafrance.org/Enseigner-en-Nouvelle-Zelande).

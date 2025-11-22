@@ -55,6 +55,13 @@ parent = 'About us'
 weight = 140
 
 [[main]]
+name = "Enviroschool"
+identifier = 'Enviroschool'
+pageRef = '/about/enviroschool'
+parent = 'About us'
+weight = 145
+
+[[main]]
 name = "ERO Inspection 2025"
 identifier = 'ERO Inspection 2025'
 pageRef = '/about/ero-inspection-2025'
@@ -223,6 +230,13 @@ identifier = 'Les Mills – Born to Move'
 pageRef = '/sports/les-mills-born-to-move'
 parent = 'Sports'
 weight = 420
+
+[[main]]
+name = 'Water Safety Awareness & Survival Skills'
+identifier = 'Water Safety Awareness & Survival Skills'
+pageRef = '/sports/water-safety'
+parent = 'Sports'
+weight = 430
 
 
 ############################################

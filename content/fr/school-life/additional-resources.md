@@ -13,3 +13,5 @@ date = 2025-01-11T12:24:00+12:00
 * [TV5 Monde Edu](https://enseigner.tv5monde.com/fiches-pedagogiques-fle/tivi5monde)
 * [Epic!](https://www.getepic.com/app?section=lexile)
 * [Ressources de l'Alliance Française Auckland](https://www.alliance-francaise.co.nz/resources-and-services/additional-resources/)
+
+_Veuillez noter que certains de ces sites proposent des versions payantes qui sont optionnelles (pour utilisation à la maison)._

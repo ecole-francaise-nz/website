@@ -14,3 +14,4 @@ date = 2025-01-11T12:24:00+12:00
 * [Epic!](https://www.getepic.com/app?section=lexile)
 * [Alliance Française Auckland Resources](https://www.alliance-francaise.co.nz/resources-and-services/additional-resources/)
 
+_Please note that some of these sites offer paid versions and are therefore optional (for home use)._
