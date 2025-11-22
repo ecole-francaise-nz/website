@@ -118,6 +118,13 @@ pageRef = '/learning/aefe'
 parent = 'Learning'
 weight = 240
 
+[[main]]
+name = "Ressources supplémentaires"
+identifier = 'Additional Resources'
+pageRef = '/learning/additional-resources'
+parent = 'Learning'
+weight = 250
+
 
 ############################################
 [[main]]
@@ -195,13 +202,6 @@ identifier = 'Alliance Française Auckland Membership'
 pageRef = '/school-life/afa-membership'
 parent = 'School Life'
 weight = 380
-
-[[main]]
-name = "Ressources supplémentaires"
-identifier = 'Additional Resources'
-pageRef = '/school-life/additional-resources'
-parent = 'School Life'
-weight = 390
 
 [[main]]
 name = "Newsletter"
