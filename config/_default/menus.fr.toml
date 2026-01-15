@@ -184,8 +184,8 @@ weight = 350
 
 [[main]]
 name = "Activités périscolaires"
-identifier = 'After-School Activities'
-pageRef = '/school-life/after-school'
+identifier = 'Before- and After-School'
+pageRef = '/school-life/before-and-after-school'
 parent = 'School Life'
 weight = 360
 

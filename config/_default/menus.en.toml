@@ -183,9 +183,9 @@ weight = 350
 # weight = 355
 
 [[main]]
-name = "After-School Activities"
-identifier = 'After-School Activities'
-pageRef = '/school-life/after-school'
+name = "Before- and After-School"
+identifier = 'Before- and After-School'
+pageRef = '/school-life/before-and-after-school'
 parent = 'School Life'
 weight = 360
 
