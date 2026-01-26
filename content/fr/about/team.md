@@ -45,7 +45,7 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 
 > Je suis Paul, un **jeune enseignant passionné par la transmission du savoir et par les sciences**.
 > À 28 ans, je me consacre avec enthousiasme à l’éducation des jeunes esprits en tant que professeur des écoles. Mon objectif est de créer un environnement d’apprentissage dynamique et interactif où chaque élève peut s’épanouir et découvrir la richesse de la langue et de la culture françaises.
-> Je suis **en charge des cours de FLAM** (Français Langue Maternelle) **et de FLE** (Français Langue Étrangère) **à l'Alliance Française** depuis deux ans. Je suis ravi de rejoindre l'école française et d'enseigner le programme français de primaire à partir de 2025.
+> Je suis **en charge des cours de FLAM** (Français Langue Maternelle) **et de FLE** (Français Langue Étrangère) **à l'Alliance Française** depuis deux ans. Je suis ravi d'enseigner le programme français de primaire à l'EFIA depuis 2025.
 
 
 **Natacha Renault**

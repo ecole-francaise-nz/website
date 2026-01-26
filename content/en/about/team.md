@@ -46,7 +46,7 @@ Some of our teachers not only have experience teaching in France but have also l
 
 > I'm Paul, a young teacher **passionate about knowledge transmission and sciences**.
 > At 28 years old, I dedicate myself enthusiastically to educating young minds as a school teacher. My goal is to create a dynamic and interactive learning environment where each student can flourish and discover the richness of the French language and culture.
-> I have been **in charge of FLAM** (French as a Mother Tongue) **and FLE** (French as a Foreign Language) **classes at the Alliance Française** for the past two years. I am thrilled to be joining the French school and teaching the French curriculum at the primary level starting in 2025.
+> I have been **in charge of FLAM** (French as a Mother Tongue) **and FLE** (French as a Foreign Language) **classes at the Alliance Française** for the past two years. I am thrilled to work at the French school and teach the French curriculum at the primary level since 2025.
 
 
 **Natacha Renault**
