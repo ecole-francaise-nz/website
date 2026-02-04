@@ -14,6 +14,12 @@ Visitez [SchoolDocs](https://ecolefrancais.schooldocs.co.nz/) pour accéder à c
 - Nom d'utilisateur : `ecolefrancais`
 - Mot de passe : _fourni par l'école lors de l'inscription de l'élève_.
 
-Veuillez lire le [réglement intérieur](/reglement_interieur_octobre_2025.pdf), notre [politique de protection des enfants](/child_protection_policy_v1_27-01-2026.pdf), et notre [procédure de gestion des préoccupations et plaintes](/concerns_and_complaints_process_v1_05_02_2026.pdf).
+Veuillez lire le [réglement intérieur](/reglement_interieur_octobre_2025.pdf) et notre [politique de protection des enfants](/child_protection_policy_v1_27-01-2026.pdf).
 
 Nous suivons également les [directives du Ministère de l'Éducation (MoE)](/final_star_30_jan_2025.pdf) concernant les familles dont les enfants ne fréquentent pas l'école régulièrement.
+
+### Procédure de gestion des préoccupations et plaintes
+
+Veuillez consulter [ce document](/concerns_and_complaints_process_v1_05_02_2026.pdf), ainsi que la section «&nbsp;_Politique relative aux préoccupations et aux réclamations_&nbsp;» des documents de l'école ([SchoolDocs](https://ecolefrancais.schooldocs.co.nz/)) afin de connaître la procédure pour faire part d'une préoccupation ou déposer une plainte, ainsi que la manière dont celles-ci sont traitées.
+
+
