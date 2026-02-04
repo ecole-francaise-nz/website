@@ -24,8 +24,6 @@ Appareils recommandés :
 - Un ordinateur portable sous Windows, avec au moins 8 Go de RAM et un SSD.  
 - Un MacBook, avec au moins 8 Go de RAM et un SSD.
 
-> 💡 Astuce : Vous pouvez profiter des promotions du Black Friday (le 28 novembre 2025).
-
 À prévoir lors de l'achat :
 
 - Une housse de protection ou un sac de transport,
@@ -45,3 +43,5 @@ Les élèves n'ont pas besoin d'une adresse e-mail pour utiliser les application
 Pour que votre enfant soit prêt pour la rentrée prochaine, vous et votre enfant devrez signer la [Lettre d'engagement BYOD et le Contrat de cybersécurité](/efia_2026_byod_letter_of_understanding_and_cybersafety_contract.pdf) (en anglais).
 
 Ces documents doivent être retournés à l'école avant que votre enfant puisse utiliser son appareil en classe. Veuillez les lire attentivement avec votre enfant afin qu'il ou elle comprenne bien les engagements pris.
+
+Pour plus d'information sur nos mesures de sécurité informatique, veuillez consulter le document [Computer Security and Cybersecurity](/computer_security_and_cybersecurity_v1_05_02_2026.pdf).
