@@ -5,9 +5,11 @@ hero = "/images/efia-banner.jpg"
 bannerHeight = "450px"
 +++
 
-**L'École Française Internationale Auckland** est une nouvelle école internationale offrant le programme français, enrichi des compétences clés du programme néo-zélandais, enseigné en français et en anglais.
+**L'École Française Internationale Auckland** est une nouvelle école internationale offrant le programme français, enrichi des compétences clés du programme néo-zélandais, enseigné en français et en anglais. Les frais d'inscription sont gratuits pour les étudiants domestiques. Pour les étudiants internationaux, veuillez consulter la [page des élèves internationaux](/international-students/).
 
 L’école a été sélectionnée parmi les sept premières écoles publiques à charte de Nouvelle-Zélande, à l’issue d’un processus de sélection rigoureux. Le respect des exigences de la Charter School Agency est contrôlé dans le cadre du [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_v1.pdf). Veuillez consulter le site internet de la [Charter School Agency](https://www.charterschools.govt.nz/) pour plus d’informations.
+
+Veuillez lire notre [politique d'engagement de la communauté scolaire](/school_community_engagement_policy_v1_05_02_2026.pdf).
 
 ### Vision
 

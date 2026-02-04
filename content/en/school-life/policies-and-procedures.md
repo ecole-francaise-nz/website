@@ -13,6 +13,6 @@ Visit [SchoolDocs](https://ecolefrancais.schooldocs.co.nz/) to access the polici
 - Username: `ecolefrancais`
 - Password: _provided by the school when the student starts_
 
-Also read our [behaviour management plan](/behaviour_management_procedure_v1_23-01-2025.pdf) and our [Child Protection Policy](/child_protection_policy_v1_27-01-2026.pdf).
+Also read our [behaviour management plan](/behaviour_management_procedure_v1_23-01-2025.pdf), our [Child Protection Policy](/child_protection_policy_v1_27-01-2026.pdf), and our [Concerns and Complaints Process](/concerns_and_complaints_process_v1_05_02_2026.pdf).
 
 We also follow the [guidelines of the ministry of education](/final_star_30_jan_2025.pdf) regarding families not attending school regularly.

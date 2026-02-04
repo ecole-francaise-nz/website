@@ -14,6 +14,6 @@ Visitez [SchoolDocs](https://ecolefrancais.schooldocs.co.nz/) pour accéder à c
 - Nom d'utilisateur : `ecolefrancais`
 - Mot de passe : _fourni par l'école lors de l'inscription de l'élève_.
 
-Veuillez lire le [réglement intérieur](/reglement_interieur_octobre_2025.pdf) et notre [Politique de protection des enfants](/child_protection_policy_v1_27-01-2026.pdf).
+Veuillez lire le [réglement intérieur](/reglement_interieur_octobre_2025.pdf), notre [politique de protection des enfants](/child_protection_policy_v1_27-01-2026.pdf), et notre [procédure de gestion des préoccupations et plaintes](/concerns_and_complaints_process_v1_05_02_2026.pdf).
 
 Nous suivons également les [directives du Ministère de l'Éducation (MoE)](/final_star_30_jan_2025.pdf) concernant les familles dont les enfants ne fréquentent pas l'école régulièrement.
