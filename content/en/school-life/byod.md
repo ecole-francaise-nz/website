@@ -28,8 +28,6 @@ When purchasing, please consider the following:
 * Headphones (ideally bluetooth for safety)
 * A mouse
 
-If you purchase a Chromebook and your child wishes to use this before the beginning of the school year, please ensure that the primary account loaded onto the device is your child's school account. This will ensure they can access their device at school when we return in January.
-
 ## Cybersafety
 
 The school filters internet access to provide a secure environment, and students will use a school-managed Chrome Browser to access online resources. Students do not require email accounts to access the educational applications and programs that we use at school. Social media accounts are blocked at school.

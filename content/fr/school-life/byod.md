@@ -30,8 +30,6 @@ Appareils recommandés :
 - Des écouteurs (idéalement Bluetooth pour plus de sécurité),
 - Une souris.
 
-Si vous achetez un Chromebook et que votre enfant souhaite l'utiliser avant la rentrée scolaire, veuillez vous assurer que le compte principal configuré sur l'appareil soit le compte scolaire de votre enfant. Cela garantira qu'il ou elle puisse accéder à son appareil à l'école à la rentrée de janvier.
-
 ---
 
 ## Cybersécurité
