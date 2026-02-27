@@ -4,7 +4,7 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
-![AEFE établissement accompagné](/images/aefe_etab_accompagne.png "AEFE établissement accompagné")
+[![AEFE établissement accompagné](/images/aefe_etab_accompagne.png "AEFE établissement accompagné")](/fr/learning/aefe/)
 
 **L'École Française Internationale Auckland** est une **école primaire bilingue** qui accueille toutes les familles, quelles que soient leur nationalité, favorisant ainsi une communauté dynamique et inclusive. Les élèves suivent le programme français intégré au programme néo-zélandais, avec un enseignement en français et en anglais dispensé par des **enseignants natifs**. Cette opportunité unique permet aux enfants de s’épanouir tant sur le plan académique que personnel, tout en bénéficiant d’une **scolarité gratuite** pour tous.
 
