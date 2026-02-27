@@ -4,9 +4,11 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
-{{< flashy-button url="/enrolment" text="Enrol Now!">}}
+![AEFE établissement accompagné (partner school receiving support towards accreditation)](/images/aefe_etab_accompagne.png "AEFE établissement accompagné (partner school receiving support towards accreditation)")
 
 **Auckland French International School** is a **bilingual primary school** that welcomes all families, regardless of nationality, fostering a dynamic and inclusive community. Students follow the French curriculum integrated with the New Zealand curriculum, learning in both French and English with **native-speaking teachers**. This unique opportunity enables children to excel academically and personally—all while benefiting from **free tuition** for every student.
+
+{{< flashy-button url="/enrolment" text="Enrol Now!">}}
 
 In 2026, we offer 5 levels:
 
@@ -55,6 +57,12 @@ Discover [more testimonials](/about/testimonials).
 Enrolments are now open. Secure your child’s spot today:
 
 - 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form_2026_2030.pdf" text="Enrolment form">}}
+
+🙏 **Partners**
+
+[![Ōrākei Local Board](/images/orakei_lb_logo_small.png "Ōrākei Local Board")](https://www.aucklandcouncil.govt.nz/en/about-auckland-council/how-auckland-council-works/local-boards/all-local-boards/orakei-local-board.html)
+
+[![Alliance Française Auckland](/images/alliance_francaise_auckland_logo_small.png "Alliance Française Auckland")](https://www.alliance-francaise.co.nz/)
 
 _For any questions, please feel free to [contact us](/contact/)._
 

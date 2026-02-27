@@ -4,9 +4,11 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
-{{< flashy-button url="/fr/enrolment" text="Inscrivez votre enfant !">}}
+![AEFE établissement accompagné](/images/aefe_etab_accompagne.png "AEFE établissement accompagné")
 
 **L'École Française Internationale Auckland** est une **école primaire bilingue** qui accueille toutes les familles, quelles que soient leur nationalité, favorisant ainsi une communauté dynamique et inclusive. Les élèves suivent le programme français intégré au programme néo-zélandais, avec un enseignement en français et en anglais dispensé par des **enseignants natifs**. Cette opportunité unique permet aux enfants de s’épanouir tant sur le plan académique que personnel, tout en bénéficiant d’une **scolarité gratuite** pour tous.
+
+{{< flashy-button url="/fr/enrolment" text="Inscrivez votre enfant !">}}
 
 En 2026, nous proposons 5 niveaux :
 * Grande Section / Year 1
@@ -56,6 +58,14 @@ L’École Française Internationale Auckland fait partie d'un **réseau prestig
 Les inscriptions sont désormais ouvertes. Réservez la place de votre enfant dès aujourd'hui&nbsp;:
 
 - 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form_2026_2030.pdf" text="Formulaire d'inscription">}}
+
+
+🙏 **Partnenaires**
+
+[![Ōrākei Local Board](/images/orakei_lb_logo_small.png "Ōrākei Local Board")](https://www.aucklandcouncil.govt.nz/en/about-auckland-council/how-auckland-council-works/local-boards/all-local-boards/orakei-local-board.html)
+
+[![Alliance Française Auckland](/images/alliance_francaise_auckland_logo_small.png "Alliance Française Auckland")](https://www.alliance-francaise.co.nz/)
+
 
 _Pour toute question, n'hésitez-pas à [nous contacter](/fr/contact/)._
 
