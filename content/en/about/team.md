@@ -53,7 +53,7 @@ Some of our teachers not only have experience teaching in France but have also l
 
 ![Natacha Renault](/images/Natacha-Renault.jpg "Natacha Renault")
 
-> I am Natacha Renault, a devoted mother of three and grandmother to a little boy. A certified English teacher, I ranked 94<sup>th</sup> out of thousands in the highly selective CAPES exam and have spent many years teaching with dedication. Throughout my career, I have taken on numerous responsibilities, including serving as head of a Waka Ama club and teaching arts and Tahitian dance at school.
+> I am Natacha Renault, a devoted mother of three and grandmother to a little boy. A certified English teacher, I ranked 94th out of thousands in the highly selective CAPES exam and have spent many years teaching with dedication. Throughout my career, I have taken on numerous responsibilities, including serving as head of a Waka Ama club and teaching arts and Tahitian dance at school.
 > Passionate about learning and personal growth, I also hold several diplomas in various fields such as meditation. Creative and energetic, I once designed my own jewelry and have practiced many sports, earning a black belt in Joshimon Karate. I also played for the TWCA basketball club. Although I no longer practice, my discipline and determination remain strong.
 > Above all, I love working with children, sharing knowledge with warmth and passion, and exploring the world through travel.
 
