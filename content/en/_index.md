@@ -6,7 +6,19 @@ bannerHeight = "450px"
 
 [![AEFE établissement accompagné (partner school receiving support towards accreditation)](/images/aefe_etab_accompagne.png "AEFE établissement accompagné (partner school receiving support towards accreditation)")](/learning/aefe/)
 
-**Auckland French International School** is a **bilingual primary school** that welcomes all families, regardless of nationality, fostering a dynamic and inclusive community. Students follow the French curriculum integrated with the New Zealand curriculum, learning in both French and English with **native-speaking teachers**. This unique opportunity enables children to excel academically and personally—all while benefiting from **free tuition** for every student.
+**École Française Internationale Auckland** is a **bilingual primary school** that delivers the French national curriculum through a bilingual model (French-English). The curriculum is designed to support both beginners and native/fluent speakers, with additional language assistance provided to students who need support in either language.
+
+The school is founded on the educational philosophy of the French national curriculum, which is recognised internationally for its rigorous academic framework and its emphasis on intellectual development, cultural understanding and multilingual education. This curriculum combines a long academic tradition with a modern competency-based pedagogical approach, structured around progressive learning cycles and regularly updated national programmes.
+
+All families are welcome regardless of nationality, fostering a dynamic and inclusive community. As one of the first Charter schools opened in 2025, tuition is free for all domestic students.
+
+Parents and families are encouraged to engage with and support this different educational culture, incorporating it into their home environment. Their active involvement is a key factor in their children's success at school. Enrolling in the French school is not just about choosing a different academic curriculum, but about joining a broader cultural and educational journey, one that shapes the development of the child and influences the values and practices of the entire family.
+
+In the French education system, parents play an important role in the life and governance of schools through a formal system of elected parent representatives and participation in school committees. Each year, parents participate in a structured and regulated election process to choose parent representatives. These representatives act as official interlocutors between families and the school leadership. They ensure that the perspectives and concerns of families are communicated to the school and help maintain an open and constructive dialogue between parents and teachers.
+
+At the primary level, these elected representatives participate in the School Council (Conseil d’école), a formal consultative body that brings together the school leadership, teachers, and parent representatives. The School Council meets once per term to discuss key aspects of school life, including the school project, the organisation of teaching, student wellbeing, extracurricular activities, and the overall functioning of the school.
+
+This formal process of parent elections and active participation in governance fosters a strong sense of community, accountability, and collaboration between families and educators, which is integral to the French educational tradition.
 
 {{< flashy-button url="/enrolment" text="Enrol Now!">}}
 

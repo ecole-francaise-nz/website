@@ -5,7 +5,7 @@ hero = "/images/efia-banner.jpg"
 bannerHeight = "450px"
 +++
 
-**Auckland French International School** (École Française Internationale Auckland) is a new international school offering the French curriculum, enhanced with key competencies from the New Zealand curriculum, and taught in both French & English. The tuition fees are free for domestic students. For international students, please consult the [International students page](/international-students/).
+**École Française Internationale Auckland** is a new international school offering the French curriculum adapted to the New Zealand context, and taught in both French & English. The tuition fees are free for domestic students. For international students, please consult the [International students page](/international-students/).
 
 The school was selected as one of the first seven Charter schools in New Zealand, following a rigorous selection process. Compliance with the Charter School Agency’s requirements is monitored through the [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_v1.pdf). Please consult the [Charter School Agency website](https://www.charterschools.govt.nz/) for more information.
 
@@ -36,4 +36,8 @@ Our school's ethos is grounded in key principles that reflect our values and pra
 
 This is a unique educational opportunity in New Zealand, allowing students to seamlessly transition between the French and New Zealand mainstream curriculums at any point.
 
-The school aims to achieve accreditation from the [Agency for French Education Abroad (AEFE)](../learning/aefe/) within two years.
+The school aims to achieve accreditation from the [Agency for French Education Abroad (AEFE)](../learning/aefe/) by August 2026.
+
+The school has also already taken part in a French-language puppet theatre competition between French schools in Australia and won first prize in the junior category in December 2025.
+
+[![Festival Rideau-Rouge](/images/festival_rideau_rouge_2025.jpg "Festival Rideau-Rouge")](/learning/aefe/)

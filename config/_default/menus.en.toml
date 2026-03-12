@@ -62,9 +62,9 @@ parent = 'About us'
 weight = 145
 
 [[main]]
-name = "ERO Inspection 2025"
-identifier = 'ERO Inspection 2025'
-pageRef = '/about/ero-inspection-2025'
+name = "ERO Inspection"
+identifier = 'ERO Inspection'
+pageRef = '/about/ero-inspection'
 parent = 'About us'
 weight = 150
 

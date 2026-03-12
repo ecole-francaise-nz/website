@@ -5,7 +5,7 @@ hero = "/images/efia-banner.jpg"
 bannerHeight = "450px"
 +++
 
-**L'École Française Internationale Auckland** est une nouvelle école internationale offrant le programme français, enrichi des compétences clés du programme néo-zélandais, enseigné en français et en anglais. Les frais d'inscription sont gratuits pour les étudiants domestiques. Pour les étudiants internationaux, veuillez consulter la [page des élèves internationaux](/international-students/).
+**L’École Française Internationale d’Auckland** est une nouvelle école internationale qui propose le programme national français adapté au contexte néo-zélandais, enseigné en français et en anglais. Les frais d'inscription sont gratuits pour les étudiants domestiques. Pour les étudiants internationaux, veuillez consulter la [page des élèves internationaux](/international-students/).
 
 L’école a été sélectionnée parmi les sept premières écoles publiques à charte de Nouvelle-Zélande, à l’issue d’un processus de sélection rigoureux. Le respect des exigences de la Charter School Agency est contrôlé dans le cadre du [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_v1.pdf). Veuillez consulter le site internet de la [Charter School Agency](https://www.charterschools.govt.nz/) pour plus d’informations.
 
@@ -35,4 +35,9 @@ L’éthique de notre école repose sur des principes clés qui reflètent nos v
 
 C'est une offre éducative unique en Nouvelle-Zélande, permettant aux élèves de passer du programme français au programme néo-zélandais à tout moment.
 
-L'école vise à obtenir l'homologation de l'[Agence pour l'enseignement français à l'étranger (AEFE)](../learning/aefe/) dans un délai de deux ans.
+L'école vise à obtenir l'homologation de l'[Agence pour l'enseignement français à l'étranger (AEFE)](../learning/aefe/) d'ici août 2026.
+
+L’école a également déjà participé à un concours de théâtre de marionnettes en langue française entre écoles françaises en Australie et a remporté le premier prix dans la catégorie junior en décembre 2025.
+
+[![Festival Rideau-Rouge](/images/festival_rideau_rouge_2025.jpg "Festival Rideau-Rouge")](/learning/aefe/)
+

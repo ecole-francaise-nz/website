@@ -6,11 +6,23 @@ bannerHeight = "450px"
 
 [![AEFE établissement accompagné](/images/aefe_etab_accompagne.png "AEFE établissement accompagné")](/fr/learning/aefe/)
 
-**L'École Française Internationale Auckland** est une **école primaire bilingue** qui accueille toutes les familles, quelles que soient leur nationalité, favorisant ainsi une communauté dynamique et inclusive. Les élèves suivent le programme français intégré au programme néo-zélandais, avec un enseignement en français et en anglais dispensé par des **enseignants natifs**. Cette opportunité unique permet aux enfants de s’épanouir tant sur le plan académique que personnel, tout en bénéficiant d’une **scolarité gratuite** pour tous.
+**L’École Française Internationale d’Auckland** est une **école primaire bilingue** qui dispense le programme national français selon un modèle bilingue (français–anglais). Le curriculum est conçu pour accueillir à la fois des élèves débutants et des locuteurs natifs ou avancés, avec un accompagnement linguistique supplémentaire proposé aux élèves qui ont besoin de soutien dans l’une ou l’autre des langues.
+
+L’école s’appuie sur la philosophie éducative du programme national français, reconnu internationalement pour la rigueur de son cadre académique et pour l’importance qu’il accorde au développement intellectuel, à la compréhension des cultures et à l’éducation multilingue. Ce curriculum combine une longue tradition académique avec une approche pédagogique moderne fondée sur les compétences, structurée autour de cycles d’apprentissage progressifs et de programmes nationaux régulièrement mis à jour.
+
+Toutes les familles sont accueillies quelle que soit leur nationalité, ce qui favorise la création d’une communauté dynamique et inclusive. En tant que l’une des premières Charter schools ouvertes en 2025, la scolarité est gratuite pour tous les élèves domestiques.
+
+Les parents et les familles sont encouragés à s’approprier cette culture éducative différente et à la soutenir en l’intégrant dans l’environnement familial. Leur implication active est un facteur clé de la réussite scolaire de leurs enfants. S’inscrire à l’école française ne consiste pas seulement à choisir un programme académique différent, mais à s’engager dans une démarche culturelle et éducative plus large, qui façonne le développement de l’enfant et influence les valeurs et les pratiques de toute la famille.
+
+Dans le système éducatif français, les parents jouent un rôle important dans la vie et la gouvernance des écoles grâce à un système formel d’élection des représentants des parents et à leur participation aux instances de l’école. Chaque année, les parents participent à un processus électoral structuré et réglementé afin d’élire leurs représentants. Ces représentants agissent comme interlocuteurs officiels entre les familles et la direction de l’école. Ils veillent à ce que les points de vue et les préoccupations des familles soient transmis à l’école et contribuent à maintenir un dialogue ouvert et constructif entre les parents et les enseignants.
+
+Au niveau de l’école primaire, ces représentants élus participent au Conseil d’école, une instance consultative officielle qui réunit la direction de l’école, les enseignants et les représentants des parents. Le Conseil d’école se réunit une fois par trimestre pour discuter des principaux aspects de la vie scolaire, notamment du projet d’école, de l’organisation de l’enseignement, du bien-être des élèves, des activités périscolaires et du fonctionnement général de l’établissement.
+
+Ce processus formel d’élection des parents et leur participation active à la gouvernance contribuent à développer un fort sentiment de communauté, de responsabilité et de collaboration entre les familles et les enseignants, éléments qui font partie intégrante de la tradition éducative française.
 
 {{< flashy-button url="/fr/enrolment" text="Inscrivez votre enfant !">}}
 
-En 2026, nous proposons 5 niveaux :
+En 2026, nous proposons 5 niveaux&nbsp;:
 * Grande Section / Year 1
 * CP / Year 2
 * CE1 / Year 3
@@ -27,7 +39,7 @@ Nous ajouterons le CM2 / Year 6 en 2027.
 
 *Notre fils de 8 ans a commencé sa scolarité à l'EFIA en 2025, après plusieurs années dans une école publique de notre quartier. Lors d’un séjour en France, nous avons découvert l’écart qui existait entre ses acquis et le niveau attendu dans sa classe d’âge. Cela nous a amenés à rechercher un environnement scolaire où il pourrait progresser dans ses apprentissages fondamentaux tout en s’épanouissant.*
 
-*Depuis son arrivée à l'EFIA, les progrès sont impressionnants : en quelques semaines, il a considérablement renforcé ses compétences en mathématiques et développe chaque jour davantage sa maîtrise du français. Il retrouve confiance en lui, prend plaisir à apprendre et nous surprend désormais par ses conversations et sa capacité à se concentrer.*
+*Depuis son arrivée à l'EFIA, les progrès sont impressionnants&nbsp;: en quelques semaines, il a considérablement renforcé ses compétences en mathématiques et développe chaque jour davantage sa maîtrise du français. Il retrouve confiance en lui, prend plaisir à apprendre et nous surprend désormais par ses conversations et sa capacité à se concentrer.*
 
 *Nous apprécions particulièrement la taille des classes, l’attention individualisée des enseignants et l’équilibre trouvé entre pédagogie active et acquisition solide des fondamentaux. L’absence d’écrans en classe et l’importance accordée au travail écrit contribuent aussi à une meilleure discipline et à une plus grande sérénité.*
 
