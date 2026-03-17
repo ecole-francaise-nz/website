@@ -16,9 +16,9 @@ Here is our [CoP Certificate](/efia_cop_certificate.pdf) confirming we are an ap
 
 The International Learner Director is the Principal. She has extensive experience working with international students in large NZ schools as Head of ESOL and Dean of International Students. 
 
-### Our school in brief for an International student
+### Our school at a glance for an international student
 
-See [EFIA International Student Prospectus – August 2025](/efia_international_prospectus_august_2025.pdf)
+See [EFIA International Student Prospectus](/efia_international_prospectus_2027.pdf)
 
 ### Potential learning outcomes
 

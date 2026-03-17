@@ -5,7 +5,7 @@ hero = "../premises-hero.jpg"
 bannerHeight = "450px"
 +++
 
-L'EFIA a été inspectée avec succès par le [Bureau d'Évaluation de l'Éducation](https://ero.govt.nz/) (Education Review Office, ERO) le 11 mars 2025, concernant :
+L'EFIA a été inspectée avec succès par le [Bureau d'Évaluation de l'Éducation](https://ero.govt.nz/) (Education Review Office, ERO) le 10 février 2026, concernant :
 
 * Une politique de protection de l'enfance adéquate
 * Des politiques, des procédures et une planification suffisamment établies pour garantir la santé et la sécurité du personnel et des élèves

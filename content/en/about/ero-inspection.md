@@ -5,7 +5,7 @@ hero = "../premises-hero.jpg"
 bannerHeight = "450px"
 +++
 
-EFIA was successfully inspected by the [Education Review Office](https://ero.govt.nz/) (ERO) on 11 March 2025, regarding:
+EFIA was successfully inspected by the [Education Review Office](https://ero.govt.nz/) (ERO) on 10 February 2026, regarding:
 
 * An adequate child protection policy
 * Policies, procedures and planning that are sufficiently established to ensure the health and safety of staff and students
