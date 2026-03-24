@@ -32,7 +32,7 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 
 **Elodie Rodriguez : Directrice adjointe & enseignante**
 
-![Élodie Rodriguez](/images/Elodie-Rodriguez.jpg "Élodie Rodriguez")
+![Élodie Rodriguez](/images/Elodie-Rodriguez-2.jpg "Élodie Rodriguez")
 
 > Titulaire d’une maîtrise en éducation, j’ai commencé ma carrière en tant que professeur d’Education Physique et Sportive dans un collège en France. En 2018, j’ai choisi de me lancer dans un voyage passionnant en Nouvelle-Zélande, un pays qui m’a longtemps inspiré par sa culture dynamique et sa beauté naturelle époustouflante. Aujourd’hui, je suis fière d’appeler la Nouvelle-Zélande "home".
 > Enseignante qualifiée, j’ai acquis une vaste expérience dans le secteur de l’éducation Néo-Zélandais, travaillant à la fois comme enseignante en classe et comme professeur principal. En plus d’enseigner, je suis profondément passionnée par le fitness. Depuis 15 ans, je suis instructrice Les Mills, donnant des cours dans divers clubs, principalement à Les Mills Auckland City. Récemment, je me suis lancée dans l’aventure de combiner ma créativité avec ma profession d’enseignante en écrivant un livre d’éducation français/anglais et divers contenus d’apprentissage au travers d’histoires et de musiques.
@@ -48,16 +48,6 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 > Je suis **en charge des cours de FLAM** (Français Langue Maternelle) **et de FLE** (Français Langue Étrangère) **à l'Alliance Française** depuis deux ans. Je suis ravi d'enseigner le programme français de primaire à l'EFIA depuis 2025.
 
 
-**Natacha Renault**
-
-![Natacha Renault](/images/Natacha-Renault.jpg "Natacha Renault")
-
-> Je suis Natacha Renault, mère dévouée de trois enfants et l'heureuse grand-mère d'un petit garçon. Professeure d'anglais certifiée, je me suis classée 94ème sur des milliers de candidats au très sélectif concours du CAPES et j'enseigne avec dévouement depuis de nombreuses années.
-> Tout au long de ma carrière, j'ai assumé de nombreuses responsabilités, notamment en tant que responsable d'un club de Waka Ama et en enseignant les arts et la danse tahitienne à l'école.
-> Passionnée par l'apprentissage et le développement personnel, je possède également plusieurs diplômes dans des domaines variés tels que la méditation. Créative et dynamique, j'ai par le passé conçu ma propre ligne de bijoux et pratiqué de nombreux sports, obtenant une ceinture noire de Karaté (style Joshimon). J'ai également joué pour le club de basket TWCA. Bien que je ne pratique plus aujourd'hui, ma discipline et ma détermination restent intactes.
-> Par-dessus tout, j'aime travailler avec les enfants, transmettre mon savoir avec chaleur et passion, et explorer le monde à travers mes voyages.
-
-
 **Makbule Karagoz**
 
 ![Makbule Karagoz](/images/Makbule-Karagoz.jpg "Makbule Karagoz")
@@ -65,3 +55,13 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 >Kia Ora&nbsp;!
 >Je suis Makbule Karagoz. Je suis ravie de rejoindre l'École Française et d'apporter ma passion pour les langues et la diversité culturelle dans notre classe. Née à Chypre et ayant vécu en Turquie, en France et en Australie avant de faire de la Nouvelle-Zélande mon foyer, j'ai pu constater par moi-même à quel point les environnements d'apprentissage multilingues sont enrichissants pour nos tamarikis.
 > Les enfants sont ma passion et je suis convaincue que chacun d'eux porte en lui un potentiel incroyable qui ne demande qu'à s'épanouir. J'aime les voir progresser lorsqu'ils se sentent en confiance pour faire preuve de curiosité, commettre des erreurs et découvrir de quoi ils sont capables. Ma classe est un lieu où nous valorisons les différentes manières d'apprendre, le travail d'équipe et l'entraide.
+
+
+**Ilona Koelsch**
+
+![Ilona Koelsch](/images/Ilona-Koelsch.jpg "Ilona Koelsch")
+
+> Diplômée professeure de français langue étrangère et de russe, je suis ravie de rejoindre l’équipe de l’École Française Internationale d’Auckland.
+> Je suis également titulaire d’un master en économie et politique du tourisme international, obtenu à Toulouse. Bien que j’aie exercé plusieurs années dans ce domaine, chaque retour en milieu scolaire m’a confirmé que c’était véritablement ma place. Être au contact des élèves et participer à leur apprentissage est ce qui me motive profondément.
+> Au cours des quinze dernières années, j’ai vécu et travaillé dans plusieurs pays — en France, en Norvège, en Polynésie française et aujourd’hui en Nouvelle-Zélande — ce qui m’a permis d’accompagner des élèves issus de cultures et de langues maternelles diverses. Plus récemment, mon intérêt pour l’enseignement de premier cycle m’a conduite à préparer le CRPE en Polynésie française.
+> Maman de deux enfants, j’accorde une grande importance à la compréhension et à l’accompagnement de chaque enfant, afin qu’il se sente en confiance et puisse évoluer à son rythme.

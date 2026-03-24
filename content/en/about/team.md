@@ -49,15 +49,6 @@ Some of our teachers not only have experience teaching in France but have also l
 > I have been **in charge of FLAM** (French as a Mother Tongue) **and FLE** (French as a Foreign Language) **classes at the Alliance Française** for the past two years. I am thrilled to work at the French school and teach the French curriculum at the primary level since 2025.
 
 
-**Natacha Renault**
-
-![Natacha Renault](/images/Natacha-Renault.jpg "Natacha Renault")
-
-> I am Natacha Renault, a devoted mother of three and grandmother to a little boy. A certified English teacher, I ranked 94th out of thousands in the highly selective CAPES exam and have spent many years teaching with dedication. Throughout my career, I have taken on numerous responsibilities, including serving as head of a Waka Ama club and teaching arts and Tahitian dance at school.
-> Passionate about learning and personal growth, I also hold several diplomas in various fields such as meditation. Creative and energetic, I once designed my own jewelry and have practiced many sports, earning a black belt in Joshimon Karate. I also played for the TWCA basketball club. Although I no longer practice, my discipline and determination remain strong.
-> Above all, I love working with children, sharing knowledge with warmth and passion, and exploring the world through travel.
-
-
 **Makbule Karagoz**
 
 ![Makbule Karagoz](/images/Makbule-Karagoz.jpg "Makbule Karagoz")
@@ -65,3 +56,13 @@ Some of our teachers not only have experience teaching in France but have also l
 > Kia Ora!
 > I'm Ms Makbule Karagoz. I'm thrilled to be joining École Française and bringing my love of languages and diverse cultures into our classroom. Born in Cyprus and having lived in Turkey, France, and Australia before calling New Zealand home, I've experienced firsthand how powerful multilingual learning environments can be for our tamariki.
 > Children are my passion, and I believe every child has something amazing inside them just waiting to come out. I love seeing them thrive when they feel safe to be curious, make mistakes, and discover what they're capable of. My classroom is a place where we celebrate different ways of learning, work together, and support each other's growth.
+
+
+**Ilona Koelsch**
+
+![Ilona Koelsch](/images/Ilona-Koelsch.jpg "Ilona Koelsch")
+
+> I hold a degree as a teacher of French as a Foreign Language and Russian, and I am delighted to be joining the team at the French International School of Auckland.
+> I also hold a Master’s degree in International Tourism Economics from Toulouse. Although I worked in this field for several years, every opportunity I had to return to a school environment confirmed that this is truly where I belong. Being in contact with students and supporting their learning is what deeply motivates me.
+> Over the past fifteen years, I have lived and worked in several countries — France, Norway, French Polynesia, and now New Zealand — which has allowed me to work with students from diverse cultural and linguistic backgrounds. More recently, my growing interest in primary education led me to prepare for the CRPE (French primary teaching qualification) in French Polynesia.
+> As a mother of two, I place great importance on understanding and supporting each child, so that they feel confident and can develop at their own pace.
