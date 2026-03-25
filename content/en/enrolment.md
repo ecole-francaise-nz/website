@@ -18,4 +18,11 @@ Enrolments are now open. Secure your child’s spot today:
 - **Language**: We welcome all children, whether they already speak French or are new to the language
 - **Cost**: Tuition is free for all students!
 
+Year 0/1
+
+* Children cannot start school before their fifth birthday.
+* Those who begin in Term 1 are enrolled in Year 1 (Y1).
+* A Year 0 (Y0) class opens mid-year to welcome children who turn five during Terms 2 or 3, up until the cut-off date of 1 September.
+* Children born after 1 September will be considered for enrolment in Year 1 (Y1) the following year, unless places become available in Year 0.
+
 If you have any questions, please contact us by email at [contact@ecole-francaise.nz](mailto://contact@ecole-francaise.nz).

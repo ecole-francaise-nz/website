@@ -204,9 +204,9 @@ parent = 'School Life'
 weight = 380
 
 [[main]]
-name = "Newsletter"
-identifier = 'Newsletter'
-url = 'https://drive.google.com/drive/folders/1daNYgJ0yImvKDEhpijC5OKdHMRpQVFrL'
+name = "Actualités"
+identifier = 'News'
+pageRef = '/school-life/news'
 parent = 'School Life'
 weight = 395
 
