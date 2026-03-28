@@ -62,6 +62,7 @@ Some of our teachers not only have experience teaching in France but have also l
 
 ![Ilona Koelsch](/images/Ilona-Koelsch.jpg "Ilona Koelsch")
 
+> Kia ora, my name is Ilona Koelsch and I am happy to be joining the team at the Auckland French International School.
 > I hold a degree as a teacher of French as a Foreign Language and Russian, and I am delighted to be joining the team at the French International School of Auckland.
 > I also hold a Master’s degree in International Tourism Economics from Toulouse. Although I worked in this field for several years, every opportunity I had to return to a school environment confirmed that this is truly where I belong. Being in contact with students and supporting their learning is what deeply motivates me.
 > Over the past fifteen years, I have lived and worked in several countries — France, Norway, French Polynesia, and now New Zealand — which has allowed me to work with students from diverse cultural and linguistic backgrounds. More recently, my growing interest in primary education led me to prepare for the CRPE (French primary teaching qualification) in French Polynesia.

@@ -40,9 +40,3 @@ From Cycle 2 on, the curriculum is structured around five core domains that defi
 4. Natural and technical systems: This area is centered on the scientific and technical understanding of Earth and the Universe, aiming to develop curiosity, observation skills, and problem-solving abilities.
 
 5. Representations of the world and human activity: Students develop spatial awareness of geography and history by understanding societies within their respective environments. They learn to interpret human cultural expressions and gain a deeper understanding of the contemporary world.
-
-The New Zealand Curriculum provides eight learning areas: English, the Arts, Health and Physical Education, Learning Languages, Mathematics and Statistics, Science, Social Sciences, and Technology as well as five key competencies: Thinking; Using language, symbols, and texts; Managing self; Relating to others; Participating and contributing.
-
-These eight learning areas and five key competencies will be integrated seamlessly with the core knowledge, skills, and cultural foundation of the French curriculum.
-
-Therefore students will also be exposed to the excellent soft skills offered by the New Zealand curriculum, by developing their presentation skills while enhancing their self confidence, self awareness and social skills, notably openness, empathy and kindness towards others.

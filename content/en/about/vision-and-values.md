@@ -37,7 +37,3 @@ Our school's ethos is grounded in key principles that reflect our values and pra
 This is a unique educational opportunity in New Zealand, allowing students to seamlessly transition between the French and New Zealand mainstream curriculums at any point.
 
 The school aims to achieve accreditation from the [Agency for French Education Abroad (AEFE)](../learning/aefe/) by August 2026.
-
-The school has also already taken part in a French-language puppet theatre competition between French schools in Australia and won first prize in the junior category in December 2025.
-
-[![Festival Rideau-Rouge](/images/festival_rideau_rouge_2025.jpg "Festival Rideau-Rouge")](/learning/aefe/)

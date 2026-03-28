@@ -40,9 +40,3 @@ Dans le programme français, l'enseignement est organisé en cinq domaines d'app
 4. **Les systèmes naturels et techniques** : Ce domaine est centré sur la compréhension scientifique et technique de la Terre et de l'Univers, avec pour objectif de développer la curiosité, l'observation et la capacité à résoudre des problèmes.
 
 5. **Les représentations du monde et de l'activité humaine** : Les élèves développent une conscience spatiale en géographie et en histoire, en comprenant les sociétés dans leurs environnements respectifs. Ils apprennent à interpréter les expressions culturelles humaines et à approfondir leur compréhension du monde contemporain.
-
-Le programme néo-zélandais comprend huit domaines d'apprentissage : l'anglais, les arts, la santé et l'éducation physique, l'apprentissage des langues, les mathématiques et les statistiques, les sciences, les sciences sociales et la technologie, ainsi que cinq compétences clés : penser ; utiliser le langage, les symboles et les textes ; gérer soi-même ; interagir avec les autres ; participer et contribuer.
-
-Ces huit domaines d'apprentissage et cinq compétences clés seront intégrés harmonieusement avec les connaissances fondamentales, les compétences et la base culturelle du programme français.
-
-Ainsi, les élèves bénéficieront également des excellentes compétences sociales offertes par le programme néo-zélandais, en développant leurs capacités de présentation tout en renforçant leur confiance en eux, leur conscience de soi et leurs compétences sociales, notamment l'ouverture, l'empathie et la bienveillance envers les autres.

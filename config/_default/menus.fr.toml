@@ -119,11 +119,18 @@ parent = 'Learning'
 weight = 240
 
 [[main]]
+name = 'Compétitions'
+identifier = 'Competitions'
+pageRef = '/learning/competitions'
+parent = 'Learning'
+weight = 250
+
+[[main]]
 name = "Ressources supplémentaires"
 identifier = 'Additional Resources'
 pageRef = '/learning/additional-resources'
 parent = 'Learning'
-weight = 250
+weight = 260
 
 
 ############################################

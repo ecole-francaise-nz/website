@@ -61,6 +61,7 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 
 ![Ilona Koelsch](/images/Ilona-Koelsch.jpg "Ilona Koelsch")
 
+> Bonjour, je suis Ilona Koelsch.
 > Diplômée professeure de français langue étrangère et de russe, je suis ravie de rejoindre l’équipe de l’École Française Internationale d’Auckland.
 > Je suis également titulaire d’un master en économie et politique du tourisme international, obtenu à Toulouse. Bien que j’aie exercé plusieurs années dans ce domaine, chaque retour en milieu scolaire m’a confirmé que c’était véritablement ma place. Être au contact des élèves et participer à leur apprentissage est ce qui me motive profondément.
 > Au cours des quinze dernières années, j’ai vécu et travaillé dans plusieurs pays — en France, en Norvège, en Polynésie française et aujourd’hui en Nouvelle-Zélande — ce qui m’a permis d’accompagner des élèves issus de cultures et de langues maternelles diverses. Plus récemment, mon intérêt pour l’enseignement de premier cycle m’a conduite à préparer le CRPE en Polynésie française.

@@ -36,8 +36,3 @@ L’éthique de notre école repose sur des principes clés qui reflètent nos v
 C'est une offre éducative unique en Nouvelle-Zélande, permettant aux élèves de passer du programme français au programme néo-zélandais à tout moment.
 
 L'école vise à obtenir l'homologation de l'[Agence pour l'enseignement français à l'étranger (AEFE)](../learning/aefe/) d'ici août 2026.
-
-L’école a également déjà participé à un concours de théâtre de marionnettes en langue française entre écoles françaises en Australie et a remporté le premier prix dans la catégorie junior en décembre 2025.
-
-[![Festival Rideau-Rouge](/images/festival_rideau_rouge_2025.jpg "Festival Rideau-Rouge")](/learning/aefe/)
-
