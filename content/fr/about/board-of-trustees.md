@@ -9,7 +9,7 @@ Le Conseil d'administration du trust de l'école (organisme caritatif) est const
 
 **Emmanuelle GERON**
 
-Emmanuelle est ingénieure, spécialisée dans la gestion de projets informatiques, le contrôle des risques et le droit de la protection des données. Elle est titulaire de deux Masters en droit français de la Sorbonne ainsi que de certifications délivrées par l’IAPP. Son parcours comprend des rôles chez PwC et 15 années en tant que directrice de projets informatiques au sein des services nationaux du sang en France et au Canada. Elle a également dirigé des cabinets de conseil en informatique en France, à Singapour et en Nouvelle-Zélande. Elle possède trois nationalités : française, canadienne et néo-zélandaise.
+Ingénieure de formation, Emmanuelle est une experte en gestion de projets informatiques et en protection des données, titulaire de deux Masters en droit de l'Université Paris 1 Panthéon-Sorbonne. Forte d'un parcours chez PwC et de 15 ans à la direction de projets informatiques d'envergure pour les services nationaux du sang en France et au Canada, elle possède une expertise approfondie en contrôle des risques et en conformité. Entrepreneuse chevronnée, elle a dirigé des cabinets de conseil en informatique en France, à Singapour et en Nouvelle-Zélande. Elle possède la triple nationalité française, canadienne et néo-zélandaise. 
 
 **Nathalie BOURNEVILLE**
 

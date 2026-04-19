@@ -78,6 +78,14 @@ Les inscriptions sont désormais ouvertes. Réservez la place de votre enfant d�
 
 [![Alliance Française Auckland](/images/alliance_francaise_auckland_logo_small.png "Alliance Française Auckland")](https://www.alliance-francaise.co.nz/)
 
+[![Ambassade de France en Nouvelle-Zélande](/images/logo_french_embassy_in_nz.png "Ambassade de France en Nouvelle-Zélande")](https://www.facebook.com/france.nz/)
+
+[![Chambre de commerce et d'industrie France / Nouvelle-Zélande](/images/logo_fnzcci.jpg "Chambre de commerce et d'industrie France / Nouvelle-Zélande")](https://www.fnzcci.org.nz/)
+
+[![Association australienne des écoles bilingues anglais-français](/images/logo_aafebs.jpg "Association australienne des écoles bilingues anglais-français")](https://www.aafebs.com/)
+
+[![Agence pour l'enseignement du français à l'étranger](/images/aefe_etab_accompagne_small.png "Agence pour l'enseignement du français à l'étranger")](https://aefe.gouv.fr/)
+
 
 _Pour toute question, n'hésitez-pas à [nous contacter](/fr/contact/)._
 

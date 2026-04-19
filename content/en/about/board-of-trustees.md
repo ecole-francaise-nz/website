@@ -9,7 +9,7 @@ The school’s trust board (a charitable organisation) is made up of four foundi
 
 **Emmanuelle GERON**
 
-Emmanuelle is an engineer specializing in IT project management, risk control, and data protection law. She holds two Master’s degrees in French Law from La Sorbonne and certifications from the IAPP. Her career spans roles at PwC and 15 years as an IT project director in national blood services in France and Canada. She has also led IT consulting firms in France, Singapore, and New Zealand. She has three nationalities: French, Canadian, and New Zealand.
+Emmanuelle is an IT project management and data protection expert with an engineering background and dual Master’s degrees in Law from La Sorbonne. With a career spanning PwC and 15 years directing large-scale IT projects for national blood services in France and Canada, she offers deep expertise in risk control and compliance. A seasoned entrepreneur, she has headed IT consulting firms in France, Singapore, and New Zealand. She holds French, Canadian, and New Zealand citizenship.
 
 **Nathalie BOURNEVILLE**
 
