@@ -29,7 +29,7 @@ weight = 125
 [[main]]
 name = 'Organigramme'
 identifier = 'Organisational Chart'
-url = '/efia_organigramme_FR_term_2_2026.pdf'
+url = '/efia_org_chart_fr_term_2_2026.pdf'
 parent = 'About us'
 weight = 127
 
