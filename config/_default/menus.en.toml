@@ -13,7 +13,14 @@ parent = 'About us'
 weight = 110
 
 [[main]]
-name = 'Strategic Plan 2025-2027'
+name = 'Annual Report – 2025'
+identifier = 'Annual Report 2025'
+pageRef = '/about/annual-report-2025'
+parent = 'About us'
+weight = 115
+
+[[main]]
+name = 'Strategic Plan – 2025-2027'
 identifier = 'Strategic Plan 2025-2027'
 url = '/efia-strategic-plan-2025-2027.pdf'
 parent = 'About us'
