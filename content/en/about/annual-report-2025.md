@@ -5,7 +5,8 @@ hero = "../premises-hero.jpg"
 bannerHeight = "450px"
 +++
 
-Please find below the EFIA annual report for 2025:
+Please find below EFIA's annual report for 2025 (pdf):
 
-* [Annual Report – 2025](/efia_annual_report_2025.pdf)
-* [Audit Report – 2025](/efia_audit_report_2025.pdf)
+[![Annual Report – 2025)](/images/efia_annual_report_2025.png "Annual Report – 2025)")](/efia_annual_report_2025.pdf)
+
+You may also consult our [2025 audit report](/efia_audit_report_2025.pdf).
