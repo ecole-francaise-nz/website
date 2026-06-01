@@ -36,3 +36,11 @@ L’éthique de notre école repose sur des principes clés qui reflètent nos v
 C'est une offre éducative unique en Nouvelle-Zélande, permettant aux élèves de passer du programme français au programme néo-zélandais à tout moment.
 
 L'école vise à obtenir l'homologation de l'[Agence pour l'enseignement français à l'étranger (AEFE)](../learning/aefe/) d'ici août 2026.
+
+### Le rôle des parents
+
+Dans le système éducatif français, les parents jouent un rôle important dans la vie et la gouvernance des écoles grâce à un système formel d’élection des représentants des parents et à leur participation aux instances de l’école. Chaque année, les parents participent à un processus électoral structuré et réglementé afin d’élire leurs représentants. Ces représentants agissent comme interlocuteurs officiels entre les familles et la direction de l’école. Ils veillent à ce que les points de vue et les préoccupations des familles soient transmis à l’école et contribuent à maintenir un dialogue ouvert et constructif entre les parents et les enseignants.
+
+Au niveau de l’école primaire, ces représentants élus participent au Conseil d’école, une instance consultative officielle qui réunit la direction de l’école, les enseignants et les représentants des parents. Le Conseil d’école se réunit une fois par trimestre pour discuter des principaux aspects de la vie scolaire, notamment du projet d’école, de l’organisation de l’enseignement, du bien-être des élèves, des activités périscolaires et du fonctionnement général de l’établissement.
+
+Ce processus formel d’élection des parents et leur participation active à la gouvernance contribuent à développer un fort sentiment de communauté, de responsabilité et de collaboration entre les familles et les enseignants, éléments qui font partie intégrante de la tradition éducative française.

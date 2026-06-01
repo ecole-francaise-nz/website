@@ -37,3 +37,11 @@ Our school's ethos is grounded in key principles that reflect our values and pra
 This is a unique educational opportunity in New Zealand, allowing students to seamlessly transition between the French and New Zealand mainstream curriculums at any point.
 
 The school aims to achieve accreditation from the [Agency for French Education Abroad (AEFE)](../learning/aefe/) by August 2026.
+
+### Parents' Role
+
+In the French education system, parents play an important role in the life and governance of schools through a formal system of elected parent representatives and participation in school committees. Each year, parents participate in a structured and regulated election process to choose parent representatives. These representatives act as official interlocutors between families and the school leadership. They ensure that the perspectives and concerns of families are communicated to the school and help maintain an open and constructive dialogue between parents and teachers.
+
+At the primary level, these elected representatives participate in the School Council (Conseil d’école), a formal consultative body that brings together the school leadership, teachers, and parent representatives. The School Council meets once per term to discuss key aspects of school life, including the school project, the organisation of teaching, student wellbeing, extracurricular activities, and the overall functioning of the school.
+
+This formal process of parent elections and active participation in governance fosters a strong sense of community, accountability, and collaboration between families and educators, which is integral to the French educational tradition.
