@@ -66,6 +66,12 @@ Enrolments are now open. Secure your child’s spot today:
 
 - 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form_2026_2030.pdf" text="Enrolment form">}}
 
+📊 **Annual Report**
+
+Please find below EFIA's annual report for 2025:
+
+[![Annual Report – 2025)](/images/efia_annual_report_2025.png "Annual Report – 2025)")](/efia_annual_report_2025.pdf)
+
 🙏 **Partners**
 
 [![Ōrākei Local Board](/images/orakei_lb_logo_small.png "Ōrākei Local Board")](https://www.aucklandcouncil.govt.nz/en/about-auckland-council/how-auckland-council-works/local-boards/all-local-boards/orakei-local-board.html)

@@ -67,6 +67,11 @@ Les inscriptions sont désormais ouvertes. Réservez la place de votre enfant d�
 
 - 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form_2026_2030.pdf" text="Formulaire d'inscription">}}
 
+📊 **Rapport Annuel**
+
+Veuillez trouver ci-dessous le rapport annuel 2025 de l'EFIA&nbsp; (en anglais):
+
+[![Rapport annuel 2025)](/images/efia_annual_report_2025.png "Rapport annuel 2025)")](/efia_annual_report_2025.pdf)
 
 🙏 **Partnenaires**
 
