@@ -60,17 +60,23 @@ Discover [more testimonials](/about/testimonials).
 - **Language**: We welcome all children, whether they already speak French or are new to the language.
 - **Cost**: Tuition is free for all students!
 
+---
+
 📢 **Enrol Now!**
 
 Enrolments are now open. Secure your child’s spot today:
 
 - 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form_2026_2030.pdf" text="Enrolment form">}}
 
+---
+
 📊 **Annual Report**
 
 Please find below EFIA's annual report for 2025:
 
 [![Annual Report – 2025)](/images/efia_annual_report_2025.png "Annual Report – 2025)")](/efia_annual_report_2025.pdf)
+
+---
 
 🙏 **Partners**
 
