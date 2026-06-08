@@ -83,6 +83,13 @@ parent = 'About us'
 weight = 160
 
 [[main]]
+name = "Le modèle 'Charter School'"
+identifier = 'The Charter School Model'
+url = '/efia_and_the_charter_school_model.pdf'
+parent = 'About us'
+weight = 165
+
+[[main]]
 name = "FAQ"
 identifier = 'FAQ'
 pageRef = '/about/faq'
