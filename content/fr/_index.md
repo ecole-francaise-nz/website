@@ -75,7 +75,7 @@ Les inscriptions sont désormais ouvertes. Réservez la place de votre enfant d�
 
 Veuillez trouver ci-dessous le rapport annuel 2025 de l'EFIA&nbsp; (en anglais):
 
-[![Rapport annuel 2025)](/images/efia_annual_report_2025.png "Rapport annuel 2025)")](/efia_annual_report_2025.pdf)
+[![Rapport annuel 2025)](/images/efia_annual_report_2025.png "Rapport annuel 2025)")](/efia_annual_report_2025.pdf?t=20260610)
 
 ---
 

@@ -7,6 +7,6 @@ bannerHeight = "450px"
 
 Please find below EFIA's annual report for 2025:
 
-[![Annual Report – 2025)](/images/efia_annual_report_2025.png "Annual Report – 2025)")](/efia_annual_report_2025.pdf)
+[![Annual Report – 2025)](/images/efia_annual_report_2025.png "Annual Report – 2025)")](/efia_annual_report_2025.pdf?t=20260610)
 
 You may also consult our [2025 audit report](/efia_audit_report_2025.pdf).
