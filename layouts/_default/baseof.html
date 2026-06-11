@@ -17,12 +17,40 @@
         <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
         {{- partial "head.html" . -}}
     </head>
-    <body>        
+    <body>
+        
+        <div class="modal fade" id="eventModal" tabindex="-1" aria-labelledby="eventModalLabel" aria-hidden="true" data-bs-backdrop="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <button type="button" class="btn-close position-absolute top-0 end-0 m-2 z-3" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <div class="modal-body p-0">
+                        {{ with site.GetPage "/about/extension-project-2027" }}
+                        <a href="{{ .RelPermalink }}" class="d-block">
+                        {{ else }}
+                        <a href="{{ "/" | relLangURL }}" class="d-block">
+                        {{ end }}
+                            <img src="/images/2027_extension_project.jpg" class="img-fluid" alt="2027 Extension Project">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         {{- partial "header.html" . -}}
         <main role="main">
         {{- block "main" . }}{{- end }}
         </main>
         {{- partial "footer.html" . -}}
         {{- partial "js.html" . -}}
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                if (!localStorage.getItem('eventModal00012Shown')) {
+                    var eventModal = new bootstrap.Modal(document.getElementById('eventModal'));
+                    eventModal.show();
+                    localStorage.setItem('eventModal00012Shown', 'true');
+                }
+            });
+        </script>
     </body>
 </html>

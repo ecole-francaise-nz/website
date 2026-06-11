@@ -26,7 +26,9 @@ In 2026, we offer 5 levels:
 * CE2 / Year 4
 * CM1 / Year 5
 
-We will add CM2 / Year 6 in 2027.
+We will add CM2 / Year 6 in 2027. We are also considering an [extension up to Year 9](/about/extension-project-2027).
+
+---
 
 {{< facebook-video url="https://www.facebook.com/61573133858943/videos/2644060549126717/" >}}
 
