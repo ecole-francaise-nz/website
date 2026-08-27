@@ -20,13 +20,6 @@ parent = 'About us'
 weight = 115
 
 [[main]]
-name = 'Extension Project 2027'
-identifier = 'Extension Project 2027'
-pageRef = '/about/extension-project-2027'
-parent = 'About us'
-weight = 117
-
-[[main]]
 name = 'Strategic Plan – 2025-2027'
 identifier = 'Strategic Plan 2025-2027'
 url = '/efia-strategic-plan-2025-2027.pdf'

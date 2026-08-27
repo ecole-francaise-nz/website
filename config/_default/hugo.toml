@@ -1,7 +1,6 @@
 baseURL = 'https://ecole-francaise.nz/'
-languageCode = 'en-nz'
+locale = 'en-nz'
 title = 'Auckland French International School'
-author = 'EFIA'
 
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -34,6 +33,7 @@ logo = "/images/efia-logo5.png"
 copyrightYears = 2024
 themeColor = "blue"
 bannerHeight = "200px"
+author = ["EFIA"]
 
 [social]
 twitter = "afauckland"

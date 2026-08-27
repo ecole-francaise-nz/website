@@ -29,7 +29,8 @@
             </ul>
             <div class="language-switcher mb-1">
                 {{ $translations := .Translations }}
-                {{ range $gotoLanguage := $.Site.Languages }}
+                {{ range $site := hugo.Sites }}
+                    {{ $gotoLanguage := $site.Language }}
                     {{ $translationURL := (printf "/%s" $gotoLanguage.Lang) }}
                     {{ range $translations }}
                         {{ if (eq .Lang $gotoLanguage.Lang) }}
@@ -41,7 +42,6 @@
                     {{ else }}
                         <a href="{{ $translationURL }}">{{ $gotoLanguage.Params.flag }}</a>
                     {{ end }}                    
-
                 {{ end }}
             </div>
         </div>
