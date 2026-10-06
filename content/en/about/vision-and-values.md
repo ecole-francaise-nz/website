@@ -7,7 +7,7 @@ bannerHeight = "450px"
 
 **École Française Internationale Auckland** is a new international school offering the French curriculum adapted to the New Zealand context, and taught in both French & English. The tuition fees are free for domestic students. For international students, please consult the [International students page](/international-students/).
 
-The school was selected as one of the first seven Charter schools in New Zealand, following a rigorous selection process. Compliance with the Charter School Agency’s requirements is monitored through the [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_v1.pdf). Please consult the [Charter School Agency website](https://www.charterschools.govt.nz/) for more information.
+The school was selected as one of the first seven Charter schools in New Zealand, following a rigorous selection process. Compliance with the Charter School Agency’s requirements is monitored through the [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_17_06.pdf). Please consult the [Charter School Agency website](https://www.charterschools.govt.nz/) for more information.
 
 Please read our [School Community Engagement Policy](/school_community_engagement_policy_v1_05_02_2026.pdf).
 
