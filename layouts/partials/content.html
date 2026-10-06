@@ -4,7 +4,9 @@
 {{ else }}
 <div class="full-width-div no-hero" style="min-height: {{ or .Params.bannerHeight .Site.Params.bannerHeight }};">
 {{ end }}
+    {{ if not .Params.hideBannerTitle }}
     <div class="page-title avenir">{{ .Title }}</div>
+    {{ end }}
 </div>
 <div class="container mt-5 mb-5">
     {{- .Content -}}

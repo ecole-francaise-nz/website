@@ -84,7 +84,8 @@ AEFE (The Agency for French Education Abroad) accredits international schools th
 * Exclusive international programs such as the Young Ambassadors initiative, Worldwide French School Orchestra, Olympiades, and International Youth Games.
 * Educational, cultural, and sports projects that connect students worldwide.
 
-EFIA is currently undergoing the AEFE accreditation process, which typically takes about two years.
+Ecole Française Internationale Auckland officially became an AEFE partner school in September 2026. [Learn more](../learning/aefe/).
+
 
 ---
 **Are there additional costs beyond free tuition?**

@@ -35,7 +35,7 @@ L’éthique de notre école repose sur des principes clés qui reflètent nos v
 
 C'est une offre éducative unique en Nouvelle-Zélande, permettant aux élèves de passer du programme français au programme néo-zélandais à tout moment.
 
-L'école vise à obtenir l'homologation de l'[Agence pour l'enseignement français à l'étranger (AEFE)](../learning/aefe/) d'ici août 2026.
+L’École Française Internationale Auckland est devenue officiellement partenaire de l’AEFE en septembre 2026. [En savoir plus](/learning/aefe/).
 
 ### Le rôle des parents
 

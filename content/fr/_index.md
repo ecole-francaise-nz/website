@@ -4,7 +4,7 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
-[![AEFE établissement accompagné](/images/aefe_etab_accompagne.png "AEFE établissement accompagné")](/fr/learning/aefe/)
+[![Établissement partenaire AEFE](/images/aefe_medium.png "AEFE")](/fr/learning/aefe/)
 
 ---
 
@@ -94,7 +94,7 @@ Veuillez trouver ci-dessous le rapport annuel 2025 de l'EFIA&nbsp; (en anglais):
 
 [![Association australienne des écoles bilingues anglais-français](/images/logo_aafebs.jpg "Association australienne des écoles bilingues anglais-français")](https://www.aafebs.com/)
 
-[![Agence pour l'enseignement du français à l'étranger](/images/aefe_etab_accompagne_small.png "Agence pour l'enseignement du français à l'étranger")](https://aefe.gouv.fr/)
+[![Agence pour l'enseignement du français à l'étranger](/images/aefe_small.png "Agence pour l'enseignement du français à l'étranger")](https://aefe.gouv.fr/)
 
 
 _Pour toute question, n'hésitez-pas à [nous contacter](/fr/contact/)._

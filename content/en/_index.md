@@ -4,7 +4,7 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
-[![AEFE établissement accompagné (partner school receiving support towards accreditation)](/images/aefe_etab_accompagne.png "AEFE établissement accompagné (partner school receiving support towards accreditation)")](/learning/aefe/)
+[![AEFE partner school](/images/aefe_medium.png "AEFE partner school")](/learning/aefe/)
 
 ---
 
@@ -92,10 +92,9 @@ Please find below EFIA's annual report for 2025:
 
 [![Australian Association of French-English Bilingual Schools](/images/logo_aafebs.jpg "Australian Association of French-English Bilingual Schools")](https://www.aafebs.com/)
 
-[![Agency for French Education Abroad](/images/aefe_etab_accompagne_small.png "Agency for French Education Abroad")](https://aefe.gouv.fr/)
+[![Agency for French Education Abroad](/images/aefe_small.png "Agency for French Education Abroad")](https://aefe.gouv.fr/)
 
 
 _For any questions, please feel free to [contact us](/contact/)._
 
 Follow us on [Facebook](https://www.facebook.com/profile.php?id=61573552256605), [Instagram](https://www.instagram.com/ecolefrancaiseauckland/), [LinkedIn](https://www.linkedin.com/company/%C3%A9cole-fran%C3%A7aise-internationale-auckland/posts/?feedView=all), [RedNote](https://www.xiaohongshu.com/user/profile/675f409c000000001801caf1), and [YouTube](https://www.youtube.com/playlist?list=PLe6nvxISfBOmAkX1Pmd_LnbkJWE3yhDQZ).
-

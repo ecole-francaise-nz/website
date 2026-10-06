@@ -31,12 +31,10 @@ Our school's ethos is grounded in key principles that reflect our values and pra
 - **Inclusivity and diversity**: EFIA welcomes students from all backgrounds, promoting a multicultural and inclusive environment that celebrates differences and fosters intercultural understanding.
 - **Holistic development**: EFIA aims to provide a balanced educational experience, combining the strengths of both the French and New Zealand educational systems. Our programme nurtures studentsʼ academic growth while also developing life skills such as communication, teamwork, and problem-solving.
 - **Community engagement**: Located at 127 & 131 Remuera Road, the school is embedded in the vibrant French community, supported by the Alliance Française dʼAuckland. Students will benefit from a rich cultural environment, participating in events like the French market and various community activities.
-- **Continuous improvement**: AEFE accreditation and regular comparison with other French schools abroad ensure that EFIA remains committed to excellence and improvement.
+- **Continuous improvement**: [AEFE accreditation](/learning/aefe/) and regular comparison with other French schools abroad ensure that EFIA remains committed to excellence and improvement.
 - **Ethical leadership**: EFIA is built on a foundation of transparency, accountability, and ethical conduct, values that have been upheld by the Alliance Française dʼAuckland since its founding in 1896.
 
 This is a unique educational opportunity in New Zealand, allowing students to seamlessly transition between the French and New Zealand mainstream curriculums at any point.
-
-The school aims to achieve accreditation from the [Agency for French Education Abroad (AEFE)](../learning/aefe/) by August 2026.
 
 ### Parents' Role
 

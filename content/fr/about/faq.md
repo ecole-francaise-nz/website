@@ -84,7 +84,7 @@ L’AEFE (Agence pour l’Enseignement Français à l’Étranger) accrédite le
 * De participer à des programmes internationaux tels que Jeunes Ambassadeurs, Orchestre des Écoles Françaises du Monde, Olympiades, Nuit des Idées, Jeux Internationaux de la Jeunesse, etc.
 * D’accéder à des ressources pédagogiques partagées entre toutes les écoles du réseau.
 
-L’EFIA est actuellement en cours d’accréditation, un processus qui dure environ deux ans.
+L’École Française Internationale Auckland est devenue officiellement partenaire de l’AEFE en septembre 2026. [En savoir plus](/learning/aefe/).
 
 ---
 **L’enseignement est gratuit, mais y a-t-il d’autres frais à prévoir ?**
