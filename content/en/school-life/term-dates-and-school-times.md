@@ -38,7 +38,7 @@ Public holiday:
 
 * Monday, 26 October 2026 (Labour Day)
 
-Summer holidays: from Saturday, 12 December 2026 to Monday, 2 February 2027.
+Summer holidays: from Saturday, 12 December 2026 to Tuesday, 2 February 2027.
 
 # 2027 Calendar
 

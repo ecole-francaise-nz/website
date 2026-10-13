@@ -4,17 +4,17 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
-Nous sommes ravis d'accueillir les étudiants internationaux pour enrichir notre communauté.
+Nous sommes ravis d'accueillir les élèves internationaux pour enrichir notre communauté.
 
-### Code of conduite
+### Code de conduite
 
-Notre école a accepté de respecter et d'appliquer le Code de conduite pour le bien-être des étudiants internationaux. Des copies du Code sont disponibles sur le [site du ministère de l'Éducation de Nouvelle-Zélande](https://www2.nzqa.govt.nz/tertiary/the-code/).
+Notre école a accepté de respecter et d'appliquer le Code de conduite pour le bien-être des élèves internationaux. Des copies du Code sont disponibles sur le [site du ministère de l'Éducation de Nouvelle-Zélande](https://www2.nzqa.govt.nz/tertiary/the-code/).
 
 Voici notre [certificat](/efia_cop_certificate.pdf) confirmant que nous sommes un signataire agréé.
 
 ### Notre équipe
 
-La directrice des élèves internationaux est la principale de l’établissement. Elle possède une vaste expérience auprès des élèves internationaux dans de grands établissements néo-zélandais, en tant que responsable du programme ESOL et doyenne des élèves internationaux.
+La directrice des élèves internationaux est la directrice de l’établissement. Elle possède une vaste expérience auprès des élèves internationaux dans de grands établissements néo-zélandais, en tant que responsable du programme ESOL et doyenne des élèves internationaux.
 
 ### Notre école en bref pour un élève international
 
@@ -38,7 +38,7 @@ Voir [International Student Enrolment Contract – May 2025](/efia_international
 
 ### Conditions pour les remboursements
 
-Veuillez consulter la section "Refund Policy (schedule three)" du contrat: [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf).
+Veuillez consulter la section "Refund Policy (schedule three)" du contrat&nbsp;: [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf).
 
 ### Informations sur les droits et obligations
 
@@ -49,12 +49,12 @@ Veuillez consulter la section "Refund Policy (schedule three)" du contrat: [Inte
 
 ### La vie scolaire à l’EFIA pour un élève international
 
-Veuillez consulter le [guide d'orientation](/efia_orientation_handbook_may_2025.pdf) ainsi que le document: [International Learner Policy – May 2025](/efia_international_student_policy_may_2025.pdf).
+Veuillez consulter le [guide d'orientation](/efia_orientation_handbook_may_2025.pdf) ainsi que le document&nbsp;: [International Learner Policy – May 2025](/efia_international_student_policy_may_2025.pdf).
 
 
 ### Agents
 
-EFIA recrute des agents pour faciliter l'inscription des étudiants internationaux. Veuillez consulter le document [EFIA Guidelines for Recruitment Agents](/efia_guidelines_for_recruitment_agents.pdf).
+EFIA recrute des agents pour faciliter l'inscription des élèves internationaux. Veuillez consulter le document [EFIA Guidelines for Recruitment Agents](/efia_guidelines_for_recruitment_agents.pdf).
 
 ### Informations pratiques
 
@@ -67,7 +67,7 @@ Veuillez également consulter le document [EFIA - Immigration matters](/efia_imm
 **Étudier en Nouvelle-Zélande**
 
 * Voici le site officiel du gouvernement pour obtenir des informations sur [les études et la vie en Nouvelle-Zélande](https://www.naumainz.studywithnewzealand.govt.nz/).
-* Les services disponibles et le soutien offert sont listés ici : [Market place](https://sieba.nz/marketplace/).
+* Les services disponibles et le soutien offert sont listés ici : [Marketplace](https://sieba.nz/marketplace/).
 
 **Vivre à Auckland**
 
@@ -77,7 +77,7 @@ Veuillez également consulter le document [EFIA - Immigration matters](/efia_imm
 
 *Assurance médicale et de voyage*
 
-Les étudiants internationaux (y compris les groupes d’étudiants) doivent obligatoirement disposer d’une assurance médicale et de voyage adéquate et à jour pendant leur séjour en Nouvelle-Zélande.
+Les élèves internationaux (y compris les groupes d’élèves) doivent obligatoirement disposer d’une assurance médicale et de voyage adéquate et à jour pendant leur séjour en Nouvelle-Zélande.
 
 Veuillez consulter le document [EFIA - International Learner Insurance](/efia_international_learner_insurance_may_2025.pdf).
 

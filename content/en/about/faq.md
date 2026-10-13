@@ -15,7 +15,7 @@ Yes, EFIA is the only primary school in New Zealand that teaches the French curr
 
 Bilingual education offers significant cognitive benefits, enhancing problem-solving, critical thinking, and multitasking skills. Switching between two languages promotes mental flexibility, making children more adaptable learners.
 
-Beyond language proficiency, bilingualism fosters cultural awareness and empathy, essential traits in today's globalized world. Studies also show that bilingual students often outperform monolingual peers in academic assessments due to their enhanced cognitive abilities.
+Beyond language proficiency, bilingualism fosters cultural awareness and empathy, essential traits in today's globalised world. Studies also show that bilingual students often outperform monolingual peers in academic assessments due to their enhanced cognitive abilities.
 
 ---
 **Does my child need to speak French before enrolling?**
@@ -34,15 +34,15 @@ We provide additional language support for students who need help in either lang
 
 Most of our students are English speakers with no prior connection to French, and our teachers adapt their strategies to support their learning. Thanks to small class sizes and tailored pedagogy, we have seen remarkable progress.
 
-We also benefit from the Alliance Française’s expertise, with their specialized teachers providing individualized support for students learning French. Similarly, we offer ESOL support for Francophone students who are new to English.
+We also benefit from the Alliance Française’s expertise, with their specialised teachers providing individualised support for students learning French. Similarly, we offer ESOL support for Francophone students who are new to English.
 
 ---
 **What are the class sizes?**
 
-We maintain small class sizes to provide individualized attention and effective bilingual instruction.
+We maintain small class sizes to provide individualised attention and effective bilingual instruction.
 
 ---
-**Will students take standardized tests in New Zealand?**
+**Will students take standardised tests in New Zealand?**
 
 Students follow the French curriculum and assessments. However, we also prepare them for New Zealand assessments, including the e-asTTle system, from Year 3 onward.
 
@@ -61,18 +61,18 @@ Yes. EFIA teaches the French curriculum with 70% instruction in French and 30% i
 
 At École Française Internationale Auckland, we blend the academically rigorous French curriculum with key aspects of the New Zealand curriculum, including English instruction, local history, culture, and well-being.
 
-Our approach is contextualized—instead of learning about French geography, students explore New Zealand landmarks like the Waikato River and Mount Ruapehu. For ANZAC Day, young students learn about poppies, ANZAC biscuits, and draw parallels with November 11th in Europe.
+Our approach is contextualised—instead of learning about French geography, students explore New Zealand landmarks like the Waikato River and Mount Ruapehu. For ANZAC Day, young students learn about poppies, ANZAC biscuits, and draw parallels with November 11th in Europe.
 
-As a bilingual school, we teach in both languages, and our students sit the same NZ exams as other primary schools. In Term 1, they study English poems by NZ authors, and in Term 2, they learn French poems by Francophone authors, not necessarily from France.
+As a bilingual school, we teach in both languages, and our students sit the same NZ exams as students at other primary schools. In Term 1, they study English poems by NZ authors, and in Term 2, they learn French poems by Francophone authors, not necessarily from France.
 
 ---
 **What kind of facilities does the school offer to support students’ sports and cultural environment?**
 
-We partner with Remuera Rackets Club, just a 5-minute walk away, for sports twice a week. Our students benefit from tennis and fitness coaching, including the Born To Move program by Les Mills. In Term 4, they have access to the swimming pool.
+We partner with Remuera Rackets Club, just a 5-minute walk away, for sports twice a week. Our students benefit from tennis and fitness coaching, including the Born To Move programme by Les Mills. In Term 4, they have access to the swimming pool.
 
 To meet our 2.5-hour weekly physical education requirement, students engage in 30 minutes of daily physical activity at school on days they don’t visit the club. We provide equipment to help them stay active and develop new skills.
 
-We are fortunate to benefit from the Alliance Française, Auckland’s French cultural hub, giving us access to the largest French children’s library, holiday programs, and family-friendly events year-round.
+We are fortunate to benefit from the Alliance Française, Auckland’s French cultural hub, giving us access to the largest French children’s library, holiday programmes, and family-friendly events year-round.
 
 However, we go beyond French culture, incorporating local themes into our teaching. At the end of Term 2, we focus on Matariki and explore its connections to other cultural festivals.
 
@@ -81,10 +81,10 @@ However, we go beyond French culture, incorporating local themes into our teachi
 
 AEFE (The Agency for French Education Abroad) accredits international schools that meet the academic and cultural standards of the French education system. AEFE accreditation grants access to:
 * A global network of 600 schools in 139 countries, educating 398,000 students (2023 figures).
-* Exclusive international programs such as the Young Ambassadors initiative, Worldwide French School Orchestra, Olympiades, and International Youth Games.
+* Exclusive international programmes such as the Young Ambassadors initiative, Worldwide French School Orchestra, Olympiades, and International Youth Games.
 * Educational, cultural, and sports projects that connect students worldwide.
 
-Ecole Française Internationale Auckland officially became an AEFE partner school in September 2026. [Learn more](../learning/aefe/).
+École Française Internationale Auckland officially became an AEFE partner school in September 2026. [Learn more](/learning/aefe/).
 
 
 ---

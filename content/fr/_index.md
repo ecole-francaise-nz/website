@@ -58,9 +58,9 @@ L’École Française Internationale Auckland fait partie d'un **réseau prestig
 
 - **Emplacement**&nbsp;: 127 & 131 Remuera Road, Remuera
 - **Pas de zones d'inscription**&nbsp;: Les élèves peuvent habiter n'importe où
-- **Classes**&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3), CE2 (année 4), CM1 (année 5) en 2026; et CM2 (année 6) en 2027.
+- **Classes**&nbsp;: Grande Section (années 0 et 1), CP (année 2), CE1 (année 3), CE2 (année 4), CM1 (année 5) en 2026, et CM2 (année 6) en 2027.
 - **Programme**&nbsp;: Programme français enseigné en français pendant 3 jours et demi, et en anglais pendant 1 jour et demi par semaine
-- **Évaluation**&nbsp;: Nos étudiants passent les évaluations des programmes français et néo-zélandais
+- **Évaluation**&nbsp;: Nos élèves passent les évaluations des programmes français et néo-zélandais
 - **Langue**&nbsp;: Tous les enfants sont les bienvenus, quel que soit leur niveau de français.
 - **Coût**&nbsp;: La scolarité est gratuite pour tous les élèves&nbsp;!
 
@@ -76,13 +76,13 @@ Les inscriptions sont désormais ouvertes. Réservez la place de votre enfant d�
 
 📊 **Rapport Annuel**
 
-Veuillez trouver ci-dessous le rapport annuel 2025 de l'EFIA&nbsp; (en anglais):
+Veuillez trouver ci-dessous le rapport annuel 2025 de l'EFIA (en anglais)&nbsp;:
 
-[![Rapport annuel 2025)](/images/efia_annual_report_2025.png "Rapport annuel 2025)")](/efia_annual_report_2025.pdf?t=20260610)
+[![Rapport annuel 2025](/images/efia_annual_report_2025.png "Rapport annuel 2025")](/efia_annual_report_2025.pdf?t=20260610)
 
 ---
 
-🙏 **Partnenaires**
+🙏 **Partenaires**
 
 [![Ōrākei Local Board](/images/orakei_lb_logo_small.png "Ōrākei Local Board")](https://www.aucklandcouncil.govt.nz/en/about-auckland-council/how-auckland-council-works/local-boards/all-local-boards/orakei-local-board.html)
 
@@ -94,9 +94,9 @@ Veuillez trouver ci-dessous le rapport annuel 2025 de l'EFIA&nbsp; (en anglais):
 
 [![Association australienne des écoles bilingues anglais-français](/images/logo_aafebs.jpg "Association australienne des écoles bilingues anglais-français")](https://www.aafebs.com/)
 
-[![Agence pour l'enseignement du français à l'étranger](/images/aefe_small.png "Agence pour l'enseignement du français à l'étranger")](https://aefe.gouv.fr/)
+[![Agence pour l'enseignement français à l'étranger](/images/aefe_small.png "Agence pour l'enseignement français à l'étranger")](https://aefe.gouv.fr/)
 
 
-_Pour toute question, n'hésitez-pas à [nous contacter](/fr/contact/)._
+_Pour toute question, n'hésitez pas à [nous contacter](/fr/contact/)._
 
-Suivez-vous sur [Facebook](https://www.facebook.com/profile.php?id=61573552256605), [Instagram](https://www.instagram.com/ecolefrancaiseauckland/), [LinkedIn](https://www.linkedin.com/company/%C3%A9cole-fran%C3%A7aise-internationale-auckland/posts/?feedView=all), [RedNote](https://www.xiaohongshu.com/user/profile/675f409c000000001801caf1), et [YouTube](https://www.youtube.com/playlist?list=PLe6nvxISfBOmAkX1Pmd_LnbkJWE3yhDQZ).
+Suivez-nous sur [Facebook](https://www.facebook.com/profile.php?id=61573552256605), [Instagram](https://www.instagram.com/ecolefrancaiseauckland/), [LinkedIn](https://www.linkedin.com/company/%C3%A9cole-fran%C3%A7aise-internationale-auckland/posts/?feedView=all), [RedNote](https://www.xiaohongshu.com/user/profile/675f409c000000001801caf1), et [YouTube](https://www.youtube.com/playlist?list=PLe6nvxISfBOmAkX1Pmd_LnbkJWE3yhDQZ).

@@ -10,4 +10,4 @@ Les recherches ont montré que le bilinguisme améliore les compétences cogniti
 
 Le passage constant d'une langue à l'autre crée une flexibilité mentale, permettant aux jeunes esprits de développer des solutions avec efficacité et créativité.
 
-L'éducation bilingue va au-delà de l'acquisition linguistique et le développement cognitif ; elle cultive une profonde appréciation des différentes cultures. Les enfants exposés à plusieurs langues dès leur plus jeune âge développent souvent de l'empathie et une sensibilité culturelle, des traits essentiels dans un monde globalisé. Cette exposition précoce prépare le terrain pour une société plus inclusive et compréhensive.
+L'éducation bilingue va au-delà de l'acquisition linguistique et du développement cognitif ; elle cultive une profonde appréciation des différentes cultures. Les enfants exposés à plusieurs langues dès leur plus jeune âge développent souvent de l'empathie et une sensibilité culturelle, des traits essentiels dans un monde globalisé. Cette exposition précoce prépare le terrain pour une société plus inclusive et compréhensive.

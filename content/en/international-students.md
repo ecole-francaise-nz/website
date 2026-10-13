@@ -4,7 +4,7 @@ hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++
 
-We are delighted to welcome international students to enrich our community
+We are delighted to welcome international students to enrich our community.
 
 ### Code of Practice
 
@@ -24,13 +24,13 @@ See [EFIA International Student Prospectus](/efia_international_prospectus_2027.
 
 Bilingual education offers significant cognitive benefits, enhancing problem-solving, critical thinking, and multitasking skills. Switching between two languages promotes mental flexibility, making children more adaptable learners.
 
-Beyond language proficiency, bilingualism fosters cultural awareness and empathy, essential traits in today’s globalized world. Studies also show that bilingual students often outperform monolingual peers in academic assessments due to their enhanced cognitive abilities.
+Beyond language proficiency, bilingualism fosters cultural awareness and empathy, essential traits in today’s globalised world. Studies also show that bilingual students often outperform monolingual peers in academic assessments due to their enhanced cognitive abilities.
 
 We provide additional language support for students who need help in either language. Our bilingual approach ensures strong literacy development in both French and English.
 
 Most of our students are English speakers with no prior connection to French, and our teachers adapt their strategies to support their learning. Thanks to small class sizes and tailored pedagogy, we have seen remarkable progress.
 
-We also benefit from the Alliance Française’s expertise, with their specialized teachers providing individualized support for students learning French. Similarly, we offer ESOL support for Francophone students who are new to English.
+We also benefit from the Alliance Française’s expertise, with their specialised teachers providing individualised support for students learning French. Similarly, we offer ESOL support for Francophone students who are new to English.
 
 Students follow the French curriculum and assessments. However, we also prepare them for New Zealand assessments, including the e-asTTle system, from Year 3 onward. This allows students to seamlessly transition between the French and New Zealand mainstream curriculums at any point.
 
@@ -40,7 +40,7 @@ See [International Student Enrolment Contract – May 2025](/efia_international_
 
 ### Refund conditions
 
-Please consult Refund Policy (Schedule Three) of the [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf).
+Please consult the Refund Policy (Schedule Three) of the [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf).
 
 
 ### Rights and Obligations information
@@ -70,7 +70,7 @@ Please read [EFIA - Immigration matters](/efia_immigration_matters.pdf).
 **Study in New Zealand**
 
 * Here is the official government site for [information on studying and life in New Zealand](https://www.naumainz.studywithnewzealand.govt.nz/).
-* Available services and support are listed here: [Market place](https://sieba.nz/marketplace/).
+* Available services and support are listed here: [Marketplace](https://sieba.nz/marketplace/).
 
 **Live in Auckland**
 

@@ -27,7 +27,7 @@ parent = 'About us'
 weight = 120
 
 [[main]]
-name = "Project d'école"
+name = "Projet d'école"
 identifier = 'School Project'
 url = '/efia-projet-ecole-2025-2028.pdf'
 parent = 'About us'
@@ -271,7 +271,7 @@ weight = 500
 
 ############################################
 [[main]]
-name = 'Étudiants internationaux'
+name = 'Élèves internationaux'
 identifier = 'International Students'
 pageRef = '/international-students'
 weight = 600

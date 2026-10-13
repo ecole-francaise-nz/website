@@ -25,7 +25,7 @@ Suggested devices:
 When purchasing, please consider the following:
 
 * A protective case or bag
-* Headphones (ideally bluetooth for safety)
+* Headphones (ideally Bluetooth for safety)
 * A mouse
 
 ## Cybersafety

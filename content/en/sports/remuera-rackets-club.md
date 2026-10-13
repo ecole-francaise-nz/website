@@ -13,7 +13,7 @@ We are proud to use the facilities of [Remuera Rackets Club](https://remuerarack
 * Nine floodlit tennis courts
 * Six glass-back squash courts
 * One padel court
-* A large fitness center
-* A swimming-pool
+* A large fitness centre
+* A swimming pool
 
 These exceptional facilities allow our students to participate in engaging and varied sports lessons, fostering their athletic skills and enthusiasm for physical activity.

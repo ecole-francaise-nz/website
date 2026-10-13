@@ -5,7 +5,7 @@ hero = "/images/efia-banner.jpg"
 bannerHeight = "450px"
 +++
 
-**L’École Française Internationale d’Auckland** est une nouvelle école internationale qui propose le programme national français adapté au contexte néo-zélandais, enseigné en français et en anglais. Les frais d'inscription sont gratuits pour les étudiants domestiques. Pour les étudiants internationaux, veuillez consulter la [page des élèves internationaux](/international-students/).
+**L’École Française Internationale d’Auckland** est une nouvelle école internationale qui propose le programme national français adapté au contexte néo-zélandais, enseigné en français et en anglais. La scolarité est gratuite pour les élèves domestiques. Pour les élèves internationaux, veuillez consulter la [page des élèves internationaux](/fr/international-students/).
 
 L’école a été sélectionnée parmi les sept premières écoles publiques à charte de Nouvelle-Zélande, à l’issue d’un processus de sélection rigoureux. Le respect des exigences de la Charter School Agency est contrôlé dans le cadre du [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_17_06.pdf). Veuillez consulter le site internet de la [Charter School Agency](https://www.charterschools.govt.nz/) pour plus d’informations.
 
@@ -26,7 +26,7 @@ Nous aspirons à offrir à chaque élève une excellence éducative ainsi qu'une
 
 L’éthique de notre école repose sur des principes clés qui reflètent nos valeurs et nos pratiques. Ces principes forment la base de l’éducation de nos élèves et les préparent à devenir des citoyens du monde :
 
-- **Excellence éducative** : l'EFIA propose une éducation internationale bilingue français-anglais, alliant la rigueur académique du programme français à l’approche pratique et centrée sur l’élève du programme et de la pédagogie néo-zélandaise.
+- **Excellence éducative** : l'EFIA propose une éducation internationale bilingue français-anglais, alliant la rigueur académique du programme français à l’approche pratique et centrée sur l’élève du programme et de la pédagogie néo-zélandais.
 - **Inclusivité et diversité** : l'EFIA accueille des élèves de tous horizons, promouvant un environnement multiculturel et inclusif qui célèbre les différences et favorise la compréhension interculturelle.
 - **Développement global** : l'EFIA vise à offrir une expérience éducative équilibrée, combinant les atouts des systèmes éducatifs français et néo-zélandais. Notre programme favorise la réussite académique des élèves tout en développant des compétences de vie telles que la communication, le travail en équipe et la résolution de problèmes.
 - **Engagement communautaire** : Située au 127 & 131 Remuera Road, l’école est ancrée dans la dynamique communauté française, soutenue par l’Alliance Française d’Auckland. Les élèves bénéficieront d’un environnement culturel riche en participant à des événements tels que le marché français et diverses activités communautaires.
@@ -35,7 +35,7 @@ L’éthique de notre école repose sur des principes clés qui reflètent nos v
 
 C'est une offre éducative unique en Nouvelle-Zélande, permettant aux élèves de passer du programme français au programme néo-zélandais à tout moment.
 
-L’École Française Internationale Auckland est devenue officiellement partenaire de l’AEFE en septembre 2026. [En savoir plus](/learning/aefe/).
+L’École Française Internationale Auckland est devenue officiellement partenaire de l’AEFE en septembre 2026. [En savoir plus](/fr/learning/aefe/).
 
 ### Le rôle des parents
 

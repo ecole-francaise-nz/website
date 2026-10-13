@@ -16,7 +16,7 @@ Key highlights of the programme:
 
 * Tailored for core developmental stages, with classes for children aged 2-5 and 6-16
 * Fun, interactive sessions that align with children’s natural appetite for action, movement, and play
-* Delivered by our certified Les Mills instructor, Elodie Rodriguez
+* Delivered by our certified Les Mills instructor, Élodie Rodriguez
 
 ![BORN TO MOVE™](/images/born-to-move-logo.png "BORN TO MOVE™")
 

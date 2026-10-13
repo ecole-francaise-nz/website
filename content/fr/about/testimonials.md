@@ -54,7 +54,7 @@ Voici quelques témoignages de parents d'élèves&nbsp;:
 
 *De plus, les petites classes et l’engagement passionné des enseignants lui permettent de bénéficier d’une attention individualisée et de progresser dans de nombreux domaines. Il est même devenu plus sensible aux enjeux globaux, comme la pollution et le recyclage, révélant une maturité qui dépasse largement l’apprentissage scolaire traditionnel.*
 
-*Dans l’ensemble, le programme bilingue a offert à notre fils le défi, l’engagement et l’épanouissement dont il avait besoin. Nous sommes impatients de voir où ce parcours éducatif le mènera. *
+*Dans l’ensemble, le programme bilingue a offert à notre fils le défi, l’engagement et l’épanouissement dont il avait besoin. Nous sommes impatients de voir où ce parcours éducatif le mènera.*
 
 [Témoignage traduit de l'anglais par l'EFIA]
 

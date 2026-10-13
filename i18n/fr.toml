@@ -1,4 +1,4 @@
-error404 = "Erreur: page inexistante"
+error404 = "Erreur : page inexistante"
 searchLabel = "Rechercher sur ce site avec Google"
 searchPlaceholder = "Rechercher sur ce site (Google)"
 searchButton = "Rechercher"

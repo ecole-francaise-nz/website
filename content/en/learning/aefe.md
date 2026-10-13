@@ -9,6 +9,6 @@ The Agency for French Education Abroad (AEFE) brings together, as of the 2025 sc
 
 All of these schools are accredited by the French Ministry of National Education. To obtain accreditation as a French educational institution abroad, a school must undergo a formal accreditation process coordinated by the AEFE (Agency for French Education Abroad). This accreditation certifies that the school delivers the French national curriculum in accordance with the values and standards of the French education system.
 
-As of 1 September 2026, Ecole Française Internationale Auckland has [officially become an AEFE partner school](https://aefe.gouv.fr/fr/etablissements/ecole-francaise-internationale-auckland), earning French Ministry of Education accreditation for classes from Grande Section (Year 1) through to CE2 (Year 4).
+As of 1 September 2026, École Française Internationale Auckland has [officially become an AEFE partner school](https://aefe.gouv.fr/fr/etablissements/ecole-francaise-internationale-auckland), earning French Ministry of Education accreditation for classes from Grande Section (Year 1) through to CE2 (Year 4).
 
 For more information about the AEFE, please read this document: [AEFE.pdf](/aefe.pdf).

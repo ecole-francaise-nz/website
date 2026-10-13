@@ -7,7 +7,7 @@ date = 2025-01-11T12:24:00+12:00
 
 # Horaires
 
-De 8h30 à 15h du lundi au vendredi.
+De 8 h 30 à 15 h du lundi au vendredi.
 
 # Calendrier 2026
 
@@ -22,7 +22,7 @@ Vacances scolaires : du vendredi 3 avril au dimanche 19 avril 2026.
 
 Jours fériés :
 - Lundi 27 avril 2026 (Anzac Day)
-- Lundi 1 juin 2026 (anniversaire officiel du Roi)
+- Lundi 1er juin 2026 (anniversaire officiel du Roi)
 
 Vacances scolaires : du samedi 27 juin au dimanche 19 juillet 2026.
 
@@ -35,7 +35,7 @@ Vacances scolaires : du samedi 26 septembre au dimanche 11 octobre 2026.
 Jour férié :
 - Lundi 26 octobre 2026 (fête du travail)
 
-Vacances d'été : du samedi 12 décembre 2026 au lundi 2 février 2027.
+Vacances d'été : du samedi 12 décembre 2026 au mardi 2 février 2027.
 
 # Calendrier 2027
 

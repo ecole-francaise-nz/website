@@ -49,7 +49,7 @@ Les élèves suivent les évaluations du programme français, mais nous nous ass
 ---
 **Les enseignants sont-ils enregistrés auprès du NZ Teaching Council ?**
 
-La plupart de nos enseignants sont inscrits auprès du Teaching Council de Nouvelle-Zélande et sont titulaires de diplômes d'enseignement français. Notre contrat de « Charter School » autorise une répartition composée de 75% d'enseignants enregistrés en Nouvelle-Zélande et de 25% d'enseignants disposant d'une Autorisation Limitée d'Enseigner (tels que des enseignants français venant de l'étranger, dont les diplômes sont en cours d'évaluation par la NZQA).
+La plupart de nos enseignants sont inscrits auprès du Teaching Council de Nouvelle-Zélande et sont titulaires de diplômes d'enseignement français. Notre contrat de « Charter School » autorise une répartition composée de 75 % d'enseignants enregistrés en Nouvelle-Zélande et de 25 % d'enseignants disposant d'une Autorisation Limitée d'Enseigner (tels que des enseignants français venant de l'étranger, dont les diplômes sont en cours d'évaluation par la NZQA).
 
 ---
 **Y a-t-il des enseignants néo-zélandais à l’EFIA pour garantir un bon niveau d’anglais ?**
@@ -63,14 +63,14 @@ Oui. L’EFIA enseigne le programme français avec 70 % des cours en français e
 
 Notre approche est contextualisée : au lieu d'étudier la géographie française, les élèves découvrent des sites emblématiques de Nouvelle-Zélande, comme le fleuve Waikato et le mont Ruapehu. Pour l’ANZAC Day, les plus jeunes apprendront la signification des coquelicots, des biscuits ANZAC, et feront des parallèles avec le 11 novembre en Europe.
 
-En tant qu'école bilingue, nous enseignons dans les deux langues, et nos élèves passent les mêmes examens néo-zélandais que les autres écoles primaires. Au premier trimestre, ils étudient des poèmes en anglais d’auteurs néo-zélandais, et au second trimestre, ils découvrirent des poèmes en français d’auteurs francophones, qui ne sont pas nécessairement français.
+En tant qu'école bilingue, nous enseignons dans les deux langues, et nos élèves passent les mêmes examens néo-zélandais que les élèves des autres écoles primaires. Au premier trimestre, ils étudient des poèmes en anglais d’auteurs néo-zélandais, et au second trimestre, ils découvrent des poèmes en français d’auteurs francophones, qui ne sont pas nécessairement français.
 
 ---
 **Quelles installations l’école propose-t-elle pour soutenir l’environnement sportif et culturel des élèves ?**
 
 Nous avons un partenariat avec le Remuera Rackets Club, situé à seulement 5 minutes à pied, où nos élèves pratiquent le sport deux fois par semaine. Ils bénéficient de cours de tennis et de fitness, notamment avec le programme Born To Move de Les Mills. Au quatrième trimestre, ils ont également accès à la piscine du club.
 
-Pour répondre aux exigences de 2h30 d’éducation physique par semaine, les élèves participent à 30 minutes d’activité physique quotidienne à l’école les jours où ils ne vont pas au club. Nous mettons à leur disposition des équipements adaptés pour les aider à rester actifs et à développer de nouvelles compétences.
+Pour répondre aux exigences de 2 h 30 d’éducation physique par semaine, les élèves participent à 30 minutes d’activité physique quotidienne à l’école les jours où ils ne vont pas au club. Nous mettons à leur disposition des équipements adaptés pour les aider à rester actifs et à développer de nouvelles compétences.
 Sur le plan culturel, nous avons la chance de bénéficier du soutien de l’Alliance Française, véritable centre culturel français d’Auckland. Nos élèves ont ainsi accès à la plus grande bibliothèque de livres français pour enfants, à des programmes de vacances et à de nombreux événements familiaux tout au long de l’année.
 
 Cependant, notre approche ne se limite pas à la culture française. Nous intégrons également des thématiques locales dans notre enseignement. Par exemple, à la fin du second trimestre, nous mettons l’accent sur Matariki et nous explorons ses liens avec d’autres festivals culturels.
@@ -84,7 +84,7 @@ L’AEFE (Agence pour l’Enseignement Français à l’Étranger) accrédite le
 * De participer à des programmes internationaux tels que Jeunes Ambassadeurs, Orchestre des Écoles Françaises du Monde, Olympiades, Nuit des Idées, Jeux Internationaux de la Jeunesse, etc.
 * D’accéder à des ressources pédagogiques partagées entre toutes les écoles du réseau.
 
-L’École Française Internationale Auckland est devenue officiellement partenaire de l’AEFE en septembre 2026. [En savoir plus](/learning/aefe/).
+L’École Française Internationale Auckland est devenue officiellement partenaire de l’AEFE en septembre 2026. [En savoir plus](/fr/learning/aefe/).
 
 ---
 **L’enseignement est gratuit, mais y a-t-il d’autres frais à prévoir ?**

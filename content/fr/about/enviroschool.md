@@ -15,7 +15,7 @@ Ce jardin est plus que de la terre et des plantes&nbsp;; c'est une salle de clas
 
 Un merci sincère à [OKE Charity](https://oke.org.nz/) pour nous avoir guidés et soutenus tout au long de ce parcours.
 
-Notre première journée de travail communautairea démontré ce qu'une communauté peut accomplir lorsque l'objectif rencontre la passion. Ensemble, nous ne faisons pas que faire pousser un jardin ; nous nourrissons un avenir bâti sur la durabilité, le respect et le travail d'équipe. Merci à chaque bénévole, étudiant et membre de la whānau qui a donné de son temps, de son énergie et de son cœur.
+Notre première journée de travail communautaire a démontré ce qu'une communauté peut accomplir lorsque l'objectif rencontre la passion. Ensemble, nous ne faisons pas que faire pousser un jardin ; nous nourrissons un avenir bâti sur la durabilité, le respect et le travail d'équipe. Merci à chaque bénévole, élève et membre de la whānau qui a donné de son temps, de son énergie et de son cœur.
 
 Restez à l'écoute pour voir comment ce jardin continue de grandir.
 

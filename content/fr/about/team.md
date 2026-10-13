@@ -15,7 +15,7 @@ Tous nos enseignants ont des **qualifications reconnues par les Ministères de l
 
 Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en France, vivent en Nouvelle-Zélande depuis de nombreuses années et y ont enseigné, ce qui leur permet de bien connaître le programme et la pédagogie néo-zélandais.
 
-👉**L'[accréditation AEFE](/learning/aefe)** (de l'Agence pour l'enseignement français à l'étranger) inclut un processus de validation pour s'assurer que le personnel enseignant possède les qualifications et l'expérience nécessaires pour enseigner le programme français, offrant ainsi aux parents une garantie de qualité.
+👉**L'[accréditation AEFE](/fr/learning/aefe)** (de l'Agence pour l'enseignement français à l'étranger) inclut un processus de validation pour s'assurer que le personnel enseignant possède les qualifications et l'expérience nécessaires pour enseigner le programme français, offrant ainsi aux parents une garantie de qualité.
 
 
 ## Présentation de l'équipe
@@ -27,15 +27,15 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 
 > Bercée par **le bilinguisme depuis toujours**, avec un père français et une mère anglaise, **j’enseigne depuis de nombreuses années**, en France tout d’abord et en Nouvelle-Zélande depuis 2016.
 > Diplômée en commerce international, BBA ESSEC, j’ai occupé des fonctions en vente et logistique dans des groupes internationaux avant de me tourner vers l’éducation et devenir Professeur des Écoles. J’ai une vaste expérience de travail avec des élèves internationaux dans de grands établissements scolaires néo-zélandais, en tant que responsable du programme ESOL et des élèves internationaux.
-> **L’enseignement est devenu une passion** qui me fait vibrer et nourrit ma créativité. Je crois fondamentalement **au pouvoir de l’Education pour transformer des vies** et ouvrir des chemins de liberté. Je suis donc emballée de faire partie de l’aventure EFIA. Notre but est d’offrir aux familles qui nous feront confiance le meilleur de deux mondes, avec **les programmes très rigoureux de l’Education Nationale Française, enrichis d’un parfum typiquement kiwi.**
+> **L’enseignement est devenu une passion** qui me fait vibrer et nourrit ma créativité. Je crois fondamentalement **au pouvoir de l’Éducation pour transformer des vies** et ouvrir des chemins de liberté. Je suis donc emballée de faire partie de l’aventure EFIA. Notre but est d’offrir aux familles qui nous feront confiance le meilleur de deux mondes, avec **les programmes très rigoureux de l’Éducation Nationale Française, enrichis d’un parfum typiquement kiwi.**
 
 
-**Elodie Rodriguez : Directrice adjointe & enseignante**
+**Élodie Rodriguez : Directrice adjointe & enseignante**
 
 ![Élodie Rodriguez](/images/Elodie-Rodriguez-2.jpg "Élodie Rodriguez")
 
-> Titulaire d’une maîtrise en éducation, j’ai commencé ma carrière en tant que professeur d’Education Physique et Sportive dans un collège en France. En 2018, j’ai choisi de me lancer dans un voyage passionnant en Nouvelle-Zélande, un pays qui m’a longtemps inspiré par sa culture dynamique et sa beauté naturelle époustouflante. Aujourd’hui, je suis fière d’appeler la Nouvelle-Zélande "home".
-> Enseignante qualifiée, j’ai acquis une vaste expérience dans le secteur de l’éducation Néo-Zélandais, travaillant à la fois comme enseignante en classe et comme professeur principal. En plus d’enseigner, je suis profondément passionnée par le fitness. Depuis 15 ans, je suis instructrice Les Mills, donnant des cours dans divers clubs, principalement à Les Mills Auckland City. Récemment, je me suis lancée dans l’aventure de combiner ma créativité avec ma profession d’enseignante en écrivant un livre d’éducation français/anglais et divers contenus d’apprentissage au travers d’histoires et de musiques.
+> Titulaire d’une maîtrise en éducation, j’ai commencé ma carrière en tant que professeur d’Éducation Physique et Sportive dans un collège en France. En 2018, j’ai choisi de me lancer dans un voyage passionnant en Nouvelle-Zélande, un pays qui m’a longtemps inspiré par sa culture dynamique et sa beauté naturelle époustouflante. Aujourd’hui, je suis fière d’appeler la Nouvelle-Zélande "home".
+> Enseignante qualifiée, j’ai acquis une vaste expérience dans le secteur de l’éducation néo-zélandais, travaillant à la fois comme enseignante en classe et comme professeur principal. En plus d’enseigner, je suis profondément passionnée par le fitness. Depuis 15 ans, je suis instructrice Les Mills, donnant des cours dans divers clubs, principalement à Les Mills Auckland City. Récemment, je me suis lancée dans l’aventure de combiner ma créativité avec ma profession d’enseignante en écrivant un livre d’éducation français/anglais et divers contenus d’apprentissage au travers d’histoires et de musiques.
 > Je suis vraiment honorée de rejoindre l’École Française Internationale Auckland. Il s’agit d’une merveilleuse occasion de promouvoir le biculturalisme tout en offrant aux enfants la chance de découvrir et d’apprendre une nouvelle langue.
 
 
@@ -52,8 +52,8 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 
 ![Makbule Karagoz](/images/Makbule-Karagoz.jpg "Makbule Karagoz")
 
->Kia Ora&nbsp;!
->Je suis Makbule Karagoz. Je suis ravie de rejoindre l'École Française et d'apporter ma passion pour les langues et la diversité culturelle dans notre classe. Née à Chypre et ayant vécu en Turquie, en France et en Australie avant de faire de la Nouvelle-Zélande mon foyer, j'ai pu constater par moi-même à quel point les environnements d'apprentissage multilingues sont enrichissants pour nos tamarikis.
+>Kia ora&nbsp;!
+>Je suis Makbule Karagoz. Je suis ravie de rejoindre l'École Française et d'apporter ma passion pour les langues et la diversité culturelle dans notre classe. Née à Chypre et ayant vécu en Turquie, en France et en Australie avant de faire de la Nouvelle-Zélande mon foyer, j'ai pu constater par moi-même à quel point les environnements d'apprentissage multilingues sont enrichissants pour nos tamariki.
 > Les enfants sont ma passion et je suis convaincue que chacun d'eux porte en lui un potentiel incroyable qui ne demande qu'à s'épanouir. J'aime les voir progresser lorsqu'ils se sentent en confiance pour faire preuve de curiosité, commettre des erreurs et découvrir de quoi ils sont capables. Ma classe est un lieu où nous valorisons les différentes manières d'apprendre, le travail d'équipe et l'entraide.
 
 

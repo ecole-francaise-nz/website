@@ -16,7 +16,7 @@ Les points forts du programme&nbsp;:
 
 * Adapté aux étapes clés du développement, avec des cours pour les enfants de 2 à 5 ans et de 6 à 16 ans
 * Des sessions interactives et amusantes qui répondent au besoin naturel des enfants pour l’action, le mouvement et le jeu
-* Animé par notre coach certifiée Les Mills, Elodie Rodriguez
+* Animé par notre coach certifiée Les Mills, Élodie Rodriguez
 
 ![BORN TO MOVE™](/images/born-to-move-logo.png "BORN TO MOVE™")
 

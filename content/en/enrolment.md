@@ -25,4 +25,4 @@ Year 0/1
 * A Year 0 (Y0) class opens mid-year to welcome children who turn five during Terms 2 or 3, up until the cut-off date of 1 September.
 * Children born after 1 September will be considered for enrolment in Year 1 (Y1) the following year, unless places become available in Year 0.
 
-If you have any questions, please contact us by email at [contact@ecole-francaise.nz](mailto://contact@ecole-francaise.nz).
+If you have any questions, please contact us by email at [contact@ecole-francaise.nz](mailto:contact@ecole-francaise.nz).
