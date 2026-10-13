@@ -8,6 +8,26 @@ div.container p img {
     font-size: 20px;
 }
 
+.site-search {
+    width: 100%;
+    max-width: 26rem;
+}
+
+.site-search .form-control {
+    min-width: 0;
+}
+
+#site-search-toggle svg {
+    /* Align optically with the visible flag glyphs, above their line-box center. */
+    transform: translateY(-1px);
+}
+
+#site-search-toggle[aria-expanded="true"] {
+    color: var(--bs-btn-hover-color);
+    background-color: var(--bs-btn-hover-bg);
+    border-color: var(--bs-btn-hover-border-color);
+}
+
 .dropdown-menu .dropdown-item {
     font-size: 18px;
 }

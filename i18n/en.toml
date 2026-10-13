@@ -1,1 +1,4 @@
 error404 = "Error: page not found"
+searchLabel = "Search this site with Google"
+searchPlaceholder = "Search this site (Google)"
+searchButton = "Search"

@@ -1,5 +1,5 @@
 {{ $currentPage := . }}
-<nav class="navbar navbar-dark bg-dark navbar-expand-lg border-bottom" aria-label="Navigation">
+<nav class="navbar navbar-dark bg-dark navbar-expand-lg flex-column border-bottom" aria-label="Navigation">
     <div class="container">
         <a class="navbar-brand mb-1" href="{{ "/" | relLangURL }}">
             <img src="{{ .Site.Params.logo }}" height="80" alt="{{ .Site.Title }}" title="{{ .Site.Title }}">
@@ -27,7 +27,7 @@
                     {{ end }}
                 {{ end }}
             </ul>
-            <div class="language-switcher mb-1">
+            <div class="language-switcher d-flex align-items-center gap-2 mb-1">
                 {{ $translations := .Translations }}
                 {{ range $site := hugo.Sites }}
                     {{ $gotoLanguage := $site.Language }}
@@ -43,7 +43,23 @@
                         <a href="{{ $translationURL }}">{{ $gotoLanguage.Params.flag }}</a>
                     {{ end }}                    
                 {{ end }}
+                <button class="btn btn-outline-light border-0 p-2 d-inline-flex align-items-center justify-content-center" id="site-search-toggle" type="button" aria-controls="site-search-panel" aria-expanded="false" aria-label="{{ i18n "searchLabel" }}" title="{{ i18n "searchLabel" }}">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true" focusable="false">
+                        <circle cx="10.5" cy="10.5" r="6.5"></circle>
+                        <path d="m16 16 5 5"></path>
+                    </svg>
+                </button>
             </div>
         </div>
+    </div>
+    <div id="site-search-panel" class="w-100" hidden>
+      <div class="container d-flex justify-content-end">
+        <form class="site-search d-flex gap-2 mt-2 mb-1" role="search" action="https://www.google.com/search" method="get">
+            <label class="visually-hidden" for="site-search-query">{{ i18n "searchLabel" }}</label>
+            <input type="hidden" name="as_q" value="site:https://ecole-francaise.nz">
+            <input class="form-control" id="site-search-query" type="search" name="q" placeholder="{{ i18n "searchPlaceholder" }}" required>
+            <button class="btn btn-outline-light" type="submit">{{ i18n "searchButton" }}</button>
+        </form>
+      </div>
     </div>
 </nav>
