@@ -80,17 +80,17 @@ Cependant, notre approche ne se limite pas à la culture française. Nous intég
 
 L’AEFE (Agence pour l’Enseignement Français à l’Étranger) accrédite les écoles qui répondent aux exigences académiques et culturelles du système éducatif français. Cette accréditation permet :
 
-* D’intégrer un réseau mondial de 600 écoles dans 139 pays, accueillant 398 000 élèves (chiffres 2023).
+* D’intégrer un réseau mondial de 640 écoles dans 140 pays, accueillant plus de 400&nbsp;000 élèves ([chiffres de septembre 2026](https://www.aefe.gouv.fr/fr/reseau-scolaire-mondial/un-reseau-unique-au-monde/les-etablissements-denseignement-francais-en-reseau)).
 * De participer à des programmes internationaux tels que Jeunes Ambassadeurs, Orchestre des Écoles Françaises du Monde, Olympiades, Nuit des Idées, Jeux Internationaux de la Jeunesse, etc.
 * D’accéder à des ressources pédagogiques partagées entre toutes les écoles du réseau.
 
 L’École Française Internationale Auckland est devenue officiellement partenaire de l’AEFE en septembre 2026. [En savoir plus](/fr/learning/aefe/).
 
 ---
-**L’enseignement est gratuit, mais y a-t-il d’autres frais à prévoir ?**
+**L’enseignement est gratuit pour les élèves domestiques, mais y a-t-il d’autres frais à prévoir ?**
 
 Oui, les familles doivent prendre en compte :
 
-* L’achat d’un [uniforme scolaire](/fr/school-life/school-uniform/) (actuellement en cours de finalisation).
+* L’achat d’un [uniforme scolaire](/fr/school-life/school-uniform/).
 * L'achat des [fournitures scolaires](https://www.myschool.co.nz/ECOLE).
 * Une contribution volontaire pour financer les sorties et activités sportives de l’école.

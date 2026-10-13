@@ -40,7 +40,7 @@ We will add CM2 / Year 6 in 2027.
 
 *Since starting at EFIA, his progress has been remarkable: within just a few weeks he strengthened his mathematical skills significantly and is developing his French every day. He has gained confidence, enjoys learning, and now surprises us with his ability to concentrate and to engage in thoughtful conversations.*
 
-*We especially value the small class sizes, the individual attention provided by teachers, and the balance between active, playful learning and solid acquisition of core skills. The absence of screens in class and the emphasis on traditional written work also foster better discipline and a calmer mindset.*
+*We especially value the small class sizes, the individual attention provided by teachers, and the balance between active, playful learning and solid acquisition of core skills. The absence of screens in class (before year 5) and the emphasis on traditional written work also foster better discipline and a calmer mindset.*
 
 *We are deeply grateful to the teachers and leadership team for their dedication and the excellence of the education they provide. EFIA truly combines the best of French and Kiwi approaches, and we feel fortunate to have this opportunity for our child here in Auckland.*
 
@@ -50,7 +50,7 @@ Discover [more testimonials](/about/testimonials).
 
 **🌍 About Us**
 
-École Française Internationale Auckland is part of the renowned global network of **580 French schools across 140 countries**, known for academic excellence and innovation.
+École Française Internationale Auckland is part of the renowned global network of **640 French schools across 140 countries** ([September 2026 figures](https://www.aefe.gouv.fr/fr/reseau-scolaire-mondial/un-reseau-unique-au-monde/les-etablissements-denseignement-francais-en-reseau)), known for academic excellence and innovation.
 
 🔑 **Key Information**
 
@@ -60,7 +60,7 @@ Discover [more testimonials](/about/testimonials).
 - **Curriculum**: French programme taught in French (3½ days per week) and in English (1½ days per week)
 - **Assessment**: Students sit exams for both the French and New Zealand curriculums
 - **Language**: We welcome all children, whether they already speak French or are new to the language.
-- **Cost**: Tuition is free for all students!
+- **Cost**: Tuition is free for all domestic students!
 
 ---
 

@@ -11,3 +11,11 @@ Les recherches ont montré que le bilinguisme améliore les compétences cogniti
 Le passage constant d'une langue à l'autre crée une flexibilité mentale, permettant aux jeunes esprits de développer des solutions avec efficacité et créativité.
 
 L'éducation bilingue va au-delà de l'acquisition linguistique et du développement cognitif ; elle cultive une profonde appréciation des différentes cultures. Les enfants exposés à plusieurs langues dès leur plus jeune âge développent souvent de l'empathie et une sensibilité culturelle, des traits essentiels dans un monde globalisé. Cette exposition précoce prépare le terrain pour une société plus inclusive et compréhensive.
+
+## Références bibliographiques
+
+Les références suivantes sont citées à la [page 10 de notre rapport annuel 2025](/efia_annual_report_2025.pdf#page=10) (en anglais)&nbsp;:
+
+- Oberc, K. A., Vettori, G., Bigozzi, L., & Filippi, R. (2025). [Effects of Italian/English bilingual education on cognitive development: A pilot study](https://doi.org/10.1177/13670069251358100). *International Journal of Bilingualism*, 1–22.
+- Chamorro, G., & Janke, V. (2022). [Investigating the bilingual advantage: The impact of L2 exposure on the social and cognitive skills of monolingually-raised children in bilingual education](https://doi.org/10.1080/13670050.2020.1799323). *International Journal of Bilingual Education and Bilingualism*, 25(5), 1765–1781.
+- García, O. (2008). “Benefits of Bilingualism”, chapitre 5 de [*Bilingual Education in the 21st Century: A Global Perspective*](https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/linguistics-12lg/psycholinguistics-12lg3/bilingualism-12lg32/bilingual-education-in-the-21st-century-978-1-4051-1994-8). John Wiley & Sons.

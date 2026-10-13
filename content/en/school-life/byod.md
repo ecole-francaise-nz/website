@@ -32,6 +32,6 @@ When purchasing, please consider the following:
 
 The school filters internet access to provide a secure environment, and students will use a school-managed Chrome Browser to access online resources. Students do not require email accounts to access the educational applications and programs that we use at school. Social media accounts are blocked at school.
 
-To ensure your child is ready for school next year, both you and your child will need to sign the [BYOD Letter of Understanding and the Cybersafety Contract](/efia_2026_byod_letter_of_understanding_and_cybersafety_contract.pdf). These documents must be returned to the school before your child can use their device at school. Please read through these carefully with your child to ensure they understand what they are agreeing to.
+To ensure your child is ready for school, both you and your child will need to sign the [BYOD Letter of Understanding and the Cybersafety Contract](/efia_2026_byod_letter_of_understanding_and_cybersafety_contract.pdf). These documents must be returned to the school before your child can use their device at school. Please read through these carefully with your child to ensure they understand what they are agreeing to.
 
 For more information on our I.T. security measures, please read the [Computer Security and Cybersecurity](/computer_security_and_cybersecurity_v1_05_02_2026.pdf) document.

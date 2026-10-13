@@ -80,7 +80,7 @@ However, we go beyond French culture, incorporating local themes into our teachi
 **What guarantees does AEFE accreditation provide?**
 
 AEFE (The Agency for French Education Abroad) accredits international schools that meet the academic and cultural standards of the French education system. AEFE accreditation grants access to:
-* A global network of 600 schools in 139 countries, educating 398,000 students (2023 figures).
+* A global network of 640 schools in 140 countries, educating more than 400,000 students ([September 2026 figures](https://www.aefe.gouv.fr/fr/reseau-scolaire-mondial/un-reseau-unique-au-monde/les-etablissements-denseignement-francais-en-reseau)).
 * Exclusive international programmes such as the Young Ambassadors initiative, Worldwide French School Orchestra, Olympiades, and International Youth Games.
 * Educational, cultural, and sports projects that connect students worldwide.
 
@@ -88,7 +88,7 @@ AEFE (The Agency for French Education Abroad) accredits international schools th
 
 
 ---
-**Are there additional costs beyond free tuition?**
+**Are there additional costs beyond free tuition for domestic students?**
 
 Yes, families should be aware of:
 * A [school uniform](/school-life/school-uniform/).

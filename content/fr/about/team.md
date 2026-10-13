@@ -9,9 +9,9 @@ date = 2024-05-09T09:47:33+12:00
 
 Tous nos enseignants ont des **qualifications reconnues par les Ministères de l'Éducation en France et en Nouvelle-Zélande.**
 
-- **Le programme français sera enseigné par des enseignants français** dont les qualifications sont reconnues par le Ministère de l'Éducation nationale français et qui ont une expérience de l'enseignement dans les écoles primaires en France.
+- **Le programme français est enseigné par des enseignants français** dont les qualifications sont reconnues par le Ministère de l'Éducation nationale français et qui ont une expérience de l'enseignement dans les écoles primaires en France.
 
-- **Un enseignant anglophone natif dirigera les cours d'anglais** et enseignera des matières non linguistiques telles que le sport, l'art, la technologie ou les sciences.
+- **Un enseignant anglophone natif dirige les cours d'anglais** et enseigne des matières non linguistiques telles que le sport, l'art, la technologie ou les sciences.
 
 Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en France, vivent en Nouvelle-Zélande depuis de nombreuses années et y ont enseigné, ce qui leur permet de bien connaître le programme et la pédagogie néo-zélandais.
 
@@ -27,7 +27,7 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 
 > Bercée par **le bilinguisme depuis toujours**, avec un père français et une mère anglaise, **j’enseigne depuis de nombreuses années**, en France tout d’abord et en Nouvelle-Zélande depuis 2016.
 > Diplômée en commerce international, BBA ESSEC, j’ai occupé des fonctions en vente et logistique dans des groupes internationaux avant de me tourner vers l’éducation et devenir Professeur des Écoles. J’ai une vaste expérience de travail avec des élèves internationaux dans de grands établissements scolaires néo-zélandais, en tant que responsable du programme ESOL et des élèves internationaux.
-> **L’enseignement est devenu une passion** qui me fait vibrer et nourrit ma créativité. Je crois fondamentalement **au pouvoir de l’Éducation pour transformer des vies** et ouvrir des chemins de liberté. Je suis donc emballée de faire partie de l’aventure EFIA. Notre but est d’offrir aux familles qui nous feront confiance le meilleur de deux mondes, avec **les programmes très rigoureux de l’Éducation Nationale Française, enrichis d’un parfum typiquement kiwi.**
+> **L’enseignement est devenu une passion** qui me fait vibrer et nourrit ma créativité. Je crois fondamentalement **au pouvoir de l’Éducation pour transformer des vies** et ouvrir des chemins de liberté. Je suis donc emballée de faire partie de l’aventure EFIA. Notre but est d’offrir aux familles qui nous font confiance le meilleur de deux mondes, avec **les programmes très rigoureux de l’Éducation Nationale Française, enrichis d’un parfum typiquement kiwi.**
 
 
 **Élodie Rodriguez : Directrice adjointe & enseignante**
@@ -36,7 +36,7 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 
 > Titulaire d’une maîtrise en éducation, j’ai commencé ma carrière en tant que professeur d’Éducation Physique et Sportive dans un collège en France. En 2018, j’ai choisi de me lancer dans un voyage passionnant en Nouvelle-Zélande, un pays qui m’a longtemps inspiré par sa culture dynamique et sa beauté naturelle époustouflante. Aujourd’hui, je suis fière d’appeler la Nouvelle-Zélande "home".
 > Enseignante qualifiée, j’ai acquis une vaste expérience dans le secteur de l’éducation néo-zélandais, travaillant à la fois comme enseignante en classe et comme professeur principal. En plus d’enseigner, je suis profondément passionnée par le fitness. Depuis 15 ans, je suis instructrice Les Mills, donnant des cours dans divers clubs, principalement à Les Mills Auckland City. Récemment, je me suis lancée dans l’aventure de combiner ma créativité avec ma profession d’enseignante en écrivant un livre d’éducation français/anglais et divers contenus d’apprentissage au travers d’histoires et de musiques.
-> Je suis vraiment honorée de rejoindre l’École Française Internationale Auckland. Il s’agit d’une merveilleuse occasion de promouvoir le biculturalisme tout en offrant aux enfants la chance de découvrir et d’apprendre une nouvelle langue.
+> Je suis vraiment honorée de faire partie de l’École Française Internationale Auckland. Il s’agit d’une merveilleuse occasion de promouvoir le biculturalisme tout en offrant aux enfants la chance de découvrir et d’apprendre une nouvelle langue.
 
 
 **Paul Barrier : Professeur**
@@ -53,7 +53,7 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 ![Makbule Karagoz](/images/Makbule-Karagoz.jpg "Makbule Karagoz")
 
 >Kia ora&nbsp;!
->Je suis Makbule Karagoz. Je suis ravie de rejoindre l'École Française et d'apporter ma passion pour les langues et la diversité culturelle dans notre classe. Née à Chypre et ayant vécu en Turquie, en France et en Australie avant de faire de la Nouvelle-Zélande mon foyer, j'ai pu constater par moi-même à quel point les environnements d'apprentissage multilingues sont enrichissants pour nos tamariki.
+>Je suis Makbule Karagoz. Je suis ravie de faire partie de l'École Française et d'apporter ma passion pour les langues et la diversité culturelle dans notre classe. Née à Chypre et ayant vécu en Turquie, en France et en Australie avant de faire de la Nouvelle-Zélande mon foyer, j'ai pu constater par moi-même à quel point les environnements d'apprentissage multilingues sont enrichissants pour nos tamariki.
 > Les enfants sont ma passion et je suis convaincue que chacun d'eux porte en lui un potentiel incroyable qui ne demande qu'à s'épanouir. J'aime les voir progresser lorsqu'ils se sentent en confiance pour faire preuve de curiosité, commettre des erreurs et découvrir de quoi ils sont capables. Ma classe est un lieu où nous valorisons les différentes manières d'apprendre, le travail d'équipe et l'entraide.
 
 
@@ -62,7 +62,7 @@ Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en F
 ![Ilona Koelsch](/images/Ilona-Koelsch.jpg "Ilona Koelsch")
 
 > Bonjour, je suis Ilona Koelsch.
-> Diplômée professeure de français langue étrangère et de russe, je suis ravie de rejoindre l’équipe de l’École Française Internationale d’Auckland.
+> Diplômée professeure de français langue étrangère et de russe, je suis ravie de faire partie de l’équipe de l’École Française Internationale d’Auckland.
 > Je suis également titulaire d’un master en économie et politique du tourisme international, obtenu à Toulouse. Bien que j’aie exercé plusieurs années dans ce domaine, chaque retour en milieu scolaire m’a confirmé que c’était véritablement ma place. Être au contact des élèves et participer à leur apprentissage est ce qui me motive profondément.
 > Au cours des quinze dernières années, j’ai vécu et travaillé dans plusieurs pays — en France, en Norvège, en Polynésie française et aujourd’hui en Nouvelle-Zélande — ce qui m’a permis d’accompagner des élèves issus de cultures et de langues maternelles diverses. Plus récemment, mon intérêt pour l’enseignement de premier cycle m’a conduite à préparer le CRPE en Polynésie française.
 > Maman de deux enfants, j’accorde une grande importance à la compréhension et à l’accompagnement de chaque enfant, afin qu’il se sente en confiance et puisse évoluer à son rythme.

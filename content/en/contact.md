@@ -1,5 +1,6 @@
 +++
 title = 'Contact'
+aliases = ['/about/contact/']
 hero = "/images/efia-maison1.jpg"
 bannerHeight = "450px"
 +++

@@ -13,7 +13,7 @@ date = 2025-01-11T12:24:00+12:00
 
 Ces programmes offrent aux enfants la possibilité de revoir leurs devoirs avec un encadrant francophone et de participer à des activités calmes et ludiques après l’école.
 
-Les inscriptions aux deux programmes se font via [Enrolmy](https://enrolmy.com/alliance-francaise-auckland/activity/5-Before_and_After_School_Term_2), une fois que les parents ou responsables légaux ont créé un compte.
+Les inscriptions aux deux programmes se font via [Enrolmy](https://enrolmy.com/alliance-francaise-auckland/), une fois que les parents ou responsables légaux ont créé un compte.
 
 Fonctionnement du programme :
 
@@ -23,4 +23,4 @@ Fonctionnement du programme :
   * 15 h – 17 h 30 : 29 $ par séance
 * Le paiement est requis avant le début du service.
 
-[Veuillez cliquer ici pour accéder à Enrolmy](https://enrolmy.com/alliance-francaise-auckland/activity/5-Before_and_After_School_Term_2).
+[Veuillez cliquer ici pour accéder à Enrolmy](https://enrolmy.com/alliance-francaise-auckland/).

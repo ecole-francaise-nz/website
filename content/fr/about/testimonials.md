@@ -16,7 +16,7 @@ Voici quelques témoignages de parents d'élèves&nbsp;:
 
 *Depuis son arrivée à l'EFIA, les progrès sont impressionnants : en quelques semaines, il a considérablement renforcé ses compétences en mathématiques et développe chaque jour davantage sa maîtrise du français. Il retrouve confiance en lui, prend plaisir à apprendre et nous surprend désormais par ses conversations et sa capacité à se concentrer.*
 
-*Nous apprécions particulièrement la taille des classes, l’attention individualisée des enseignants et l’équilibre trouvé entre pédagogie active et acquisition solide des fondamentaux. L’absence d’écrans en classe et l’importance accordée au travail écrit contribuent aussi à une meilleure discipline et à une plus grande sérénité.*
+*Nous apprécions particulièrement la taille des classes, l’attention individualisée des enseignants et l’équilibre trouvé entre pédagogie active et acquisition solide des fondamentaux. L’absence d’écrans en classe (avant le CM1 / Year 5) et l’importance accordée au travail écrit contribuent aussi à une meilleure discipline et à une plus grande sérénité.*
 
 *Nous sommes profondément reconnaissants à l’équipe enseignante et à la direction pour la qualité de l’accompagnement et l’excellence de l’éducation offerte à notre enfant. L'EFIA combine le meilleur des approches françaises et néo-zélandaises, et nous sommes heureux que notre enfant puisse en bénéficier ici à Auckland.*
 

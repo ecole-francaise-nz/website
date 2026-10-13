@@ -18,7 +18,7 @@ Here's what parents had to say about our school:
 
 *Since starting at EFIA, his progress has been remarkable: within just a few weeks he strengthened his mathematical skills significantly and is developing his French every day. He has gained confidence, enjoys learning, and now surprises us with his ability to concentrate and to engage in thoughtful conversations.*
 
-*We especially value the small class sizes, the individual attention provided by teachers, and the balance between active, playful learning and solid acquisition of core skills. The absence of screens in class and the emphasis on traditional written work also foster better discipline and a calmer mindset.*
+*We especially value the small class sizes, the individual attention provided by teachers, and the balance between active, playful learning and solid acquisition of core skills. The absence of screens in class (before year 5) and the emphasis on traditional written work also foster better discipline and a calmer mindset.*
 
 *We are deeply grateful to the teachers and leadership team for their dedication and the excellence of the education they provide. EFIA truly combines the best of French and Kiwi approaches, and we feel fortunate to have this opportunity for our child here in Auckland.*
 

@@ -38,7 +38,7 @@ L'école filtre l'accès à Internet afin de garantir un environnement sécuris�
 
 Les élèves n'ont pas besoin d'une adresse e-mail pour utiliser les applications et programmes éducatifs de l'école. Les réseaux sociaux sont bloqués au sein de l'établissement.
 
-Pour que votre enfant soit prêt pour la rentrée prochaine, vous et votre enfant devrez signer la [Lettre d'engagement BYOD et le Contrat de cybersécurité](/efia_2026_byod_letter_of_understanding_and_cybersafety_contract.pdf) (en anglais).
+Pour que votre enfant soit prêt pour l’école, vous et votre enfant devrez signer la [Lettre d'engagement BYOD et le Contrat de cybersécurité](/efia_2026_byod_letter_of_understanding_and_cybersafety_contract.pdf) (en anglais).
 
 Ces documents doivent être retournés à l'école avant que votre enfant puisse utiliser son appareil en classe. Veuillez les lire attentivement avec votre enfant afin qu'il ou elle comprenne bien les engagements pris.
 

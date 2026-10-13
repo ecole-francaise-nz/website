@@ -7,11 +7,11 @@ date = 2024-05-09T09:47:33+12:00
 
 ## High-Quality Teaching Team and Native Speakers
 
-All of our teachers will hold **qualifications recognised by the Ministries of Education in France and New Zealand.**
+All of our teachers hold **qualifications recognised by the Ministries of Education in France and New Zealand.**
 
-- **The French curriculum will be taught by French teachers** whose qualifications are recognised by the French Ministry of Education and who have experience teaching in primary schools in France.
+- **The French curriculum is taught by French teachers** whose qualifications are recognised by the French Ministry of Education and who have experience teaching in primary schools in France.
 
-- **A native English-speaking teacher will lead English lessons** and teach non-linguistic subjects such as sports, art, technology, or science.
+- **A native English-speaking teacher leads English lessons** and teaches non-linguistic subjects such as sports, art, technology, or science.
 
 Some of our teachers not only have experience teaching in France but have also lived in New Zealand for many years and have taught here, making them familiar with the New Zealand curriculum and pedagogy.
 
@@ -27,7 +27,7 @@ Some of our teachers not only have experience teaching in France but have also l
 
 > **Born into biculturalism** with an English mother and a French father, I have been a teacher for many years, initially in France and now in New Zealand since 2016.
 > In addition to a French master’s in education, I hold a bachelor’s degree in international business administration from a top French business school. I worked in the corporate sector in sales and logistics before turning to teaching. I have extensive experience working with international students in large NZ schools, as Head of ESOL and Dean of International Students.
-> Education is what lights my fire. **I believe in the power of education to transform lives** and open pathways to freedom. I am ecstatic to be part of the EFIA adventure where we will strive to offer the best of two worlds, delivering the highly academic and rigorous French curriculum with a distinctive Kiwi flavour.
+> Education is what lights my fire. **I believe in the power of education to transform lives** and open pathways to freedom. I am ecstatic to be part of the EFIA adventure where we strive to offer the best of two worlds, delivering the highly academic and rigorous French curriculum with a distinctive Kiwi flavour.
 
 
 **Élodie Rodriguez: Deputy Principal & teacher**
@@ -37,7 +37,7 @@ Some of our teachers not only have experience teaching in France but have also l
 > I hold a Master of Education and began my career as a Physical Education teacher in high school in France. In 2018, I chose to embark on an exciting journey to New Zealand, a country that had long inspired me with its vibrant culture and stunning natural beauty. Today, I am proud to call New Zealand my home.
 > As a registered and qualified teacher, I have gained extensive experience in New Zealand’s education sector, working as both a classroom teacher and a head teacher (team leader). In addition to teaching, I am deeply passionate about fitness. 
 > For the past 15 years, I have been a Les Mills instructor, teaching classes at various clubs, primarily at Les Mills Auckland City. I recently embarked on a new adventure combining my creativity with my teaching practice. I am writing an educational book for children and developing different learning materials through stories and music.
-> I am truly honored to join École Française Internationale Auckland. This is a wonderful opportunity to promote biculturalism while providing children with the chance to discover and learn a new language.
+> I am truly honored to be part of École Française Internationale Auckland. This is a wonderful opportunity to promote biculturalism while providing children with the chance to discover and learn a new language.
 
 
 **Paul Barrier: Teacher**
@@ -54,7 +54,7 @@ Some of our teachers not only have experience teaching in France but have also l
 ![Makbule Karagoz](/images/Makbule-Karagoz.jpg "Makbule Karagoz")
 
 > Kia ora!
-> I'm Ms Makbule Karagoz. I'm thrilled to be joining École Française and bringing my love of languages and diverse cultures into our classroom. Born in Cyprus and having lived in Turkey, France, and Australia before calling New Zealand home, I've experienced firsthand how powerful multilingual learning environments can be for our tamariki.
+> I'm Ms Makbule Karagoz. I'm thrilled to be part of École Française and to bring my love of languages and diverse cultures into our classroom. Born in Cyprus and having lived in Turkey, France, and Australia before calling New Zealand home, I've experienced firsthand how powerful multilingual learning environments can be for our tamariki.
 > Children are my passion, and I believe every child has something amazing inside them just waiting to come out. I love seeing them thrive when they feel safe to be curious, make mistakes, and discover what they're capable of. My classroom is a place where we celebrate different ways of learning, work together, and support each other's growth.
 
 
@@ -62,8 +62,8 @@ Some of our teachers not only have experience teaching in France but have also l
 
 ![Ilona Koelsch](/images/Ilona-Koelsch.jpg "Ilona Koelsch")
 
-> Kia ora, my name is Ilona Koelsch and I am happy to be joining the team at the Auckland French International School.
-> I hold a degree as a teacher of French as a Foreign Language and Russian, and I am delighted to be joining the team at the French International School of Auckland.
+> Kia ora, my name is Ilona Koelsch and I am happy to be part of the team at the Auckland French International School.
+> I hold a degree as a teacher of French as a Foreign Language and Russian, and I am delighted to be part of the team at the French International School of Auckland.
 > I also hold a Master’s degree in International Tourism Economics from Toulouse. Although I worked in this field for several years, every opportunity I had to return to a school environment confirmed that this is truly where I belong. Being in contact with students and supporting their learning is what deeply motivates me.
 > Over the past fifteen years, I have lived and worked in several countries — France, Norway, French Polynesia, and now New Zealand — which has allowed me to work with students from diverse cultural and linguistic backgrounds. More recently, my growing interest in primary education led me to prepare for the CRPE (French primary teaching qualification) in French Polynesia.
 > As a mother of two, I place great importance on understanding and supporting each child, so that they feel confident and can develop at their own pace.

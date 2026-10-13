@@ -13,7 +13,7 @@ The school also offers an After-School programme from 3:00 pm to 5:30 pm at 131 
 
 This gives children the opportunity to review their homework with a French-speaking supervisor and take part in relaxing and fun activities after school. 
 
-Bookings for both programmes will be done through [Enrolmy](https://enrolmy.com/alliance-francaise-auckland/activity/5-Before_and_After_School_Term_2) once parents/caregivers have created an account.
+Bookings for both programmes will be done through [Enrolmy](https://enrolmy.com/alliance-francaise-auckland/) once parents/caregivers have created an account.
 
 Here is how the programme works:
 
@@ -23,4 +23,4 @@ Here is how the programme works:
   * 3:00 – 5:30 pm: $29 per session
 * Payment is required before the service starts. 
 
-[Please click here to access Enrolmy](https://enrolmy.com/alliance-francaise-auckland/activity/5-Before_and_After_School_Term_2).
+[Please click here to access Enrolmy](https://enrolmy.com/alliance-francaise-auckland/).

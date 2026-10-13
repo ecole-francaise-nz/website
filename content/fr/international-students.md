@@ -8,7 +8,7 @@ Nous sommes ravis d'accueillir les élèves internationaux pour enrichir notre c
 
 ### Code de conduite
 
-Notre école a accepté de respecter et d'appliquer le Code de conduite pour le bien-être des élèves internationaux. Des copies du Code sont disponibles sur le [site du ministère de l'Éducation de Nouvelle-Zélande](https://www2.nzqa.govt.nz/tertiary/the-code/).
+Notre école a accepté de respecter et d'appliquer le Code de conduite pour le bien-être des élèves internationaux. Des copies du Code sont disponibles sur le [site de la New Zealand Qualifications Authority (NZQA)](https://www2.nzqa.govt.nz/tertiary/the-code/).
 
 Voici notre [certificat](/efia_cop_certificate.pdf) confirmant que nous sommes un signataire agréé.
 
@@ -87,7 +87,7 @@ Veuillez consulter le document [EFIA - International Learner Insurance](/efia_in
 
 Si un élève a une préoccupation ou une réclamation concernant une violation du Code of Practice, il peut contacter [NZQA](https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-learners/learner-complaints/) pour obtenir des informations et déposer une réclamation.
 
-Si une infraction au Code est confirmée, la réclamation est transférée à Study Complaints pour résolution.
+Si NZQA constate une violation du Code, l’élève peut déposer une demande de réparation auprès de Study Complaints.
 
 **Litiges financiers ou contractuels**
 

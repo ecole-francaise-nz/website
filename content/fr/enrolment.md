@@ -16,13 +16,13 @@ Les inscriptions sont désormais ouvertes. Réservez dès aujourd'hui la place d
 - **Programme**&nbsp;: Programme français enseigné en français pendant 3 jours et demi, et en anglais pendant 1 jour et demi par semaine.
 - **Évaluation**&nbsp;: Nos élèves passent les évaluations des programmes français et néo-zélandais.
 - **Langue**&nbsp;: Tous les enfants sont les bienvenus, quel que soit leur niveau de français.
-- **Coût**&nbsp;: La scolarité est gratuite pour tous les élèves&nbsp;!
+- **Coût**&nbsp;: La scolarité est gratuite pour tous les élèves domestiques&nbsp;!
 
 Grande Section (années 0 et 1)
 
 * Les enfants ne peuvent pas intégrer l’école avant leur cinquième anniversaire.
 * Les enfants qui commencent au trimestre 1 sont inscrits en année 1 (Y1).
-* Une classe d'année 0 (Y0) est ouverte en milieu d’année afin d’accueillir les enfants qui atteignent l’âge de 5 ans au cours du trimestre 2 ou 3, jusqu’à la date limite du 1er septembre.
-* Les enfants nés après le 1er septembre seront considérés pour une entrée en année 1 (Y1) l’année suivante, sauf si des places se libèrent en année 0.
+* Les enfants qui atteignent l’âge de cinq ans au cours du trimestre 2 ou 3, au plus tard le 1er septembre inclus, peuvent intégrer l’année 0 dès leur cinquième anniversaire, sous réserve de places disponibles.
+* Les enfants dont le cinquième anniversaire tombe le 2 septembre ou après seront considérés pour une entrée en année 1 (Y1) l’année suivante, sauf si des places se libèrent en année 0.
 
 Pour toute question, n'hésitez pas à nous contacter à l'adresse suivante&nbsp;: [contact@ecole-francaise.nz](mailto:contact@ecole-francaise.nz).

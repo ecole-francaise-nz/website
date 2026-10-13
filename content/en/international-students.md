@@ -8,7 +8,7 @@ We are delighted to welcome international students to enrich our community.
 
 ### Code of Practice
 
-Our School has agreed to observe and be bound by the Code of Practice for the Pastoral Care of International Students. Copies of the Code are available from the [New Zealand Ministry of Education](https://www2.nzqa.govt.nz/tertiary/the-code/). 
+Our School has agreed to observe and be bound by the Code of Practice for the Pastoral Care of International Students. Copies of the Code are available from the [New Zealand Qualifications Authority (NZQA)](https://www2.nzqa.govt.nz/tertiary/the-code/).
 
 Here is our [CoP Certificate](/efia_cop_certificate.pdf) confirming we are an approved signatory.
 
@@ -91,7 +91,7 @@ Please read [EFIA - International Learner Insurance](/efia_international_learner
 
 If a learner has a concern or complaint about breaches of the Code of Practice, they can contact [NZQA](https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-learners/learner-complaints/) for information and to make a complaint. 
 
-If NZQA finds a breach of the Code has occurred, the complaint is passed to Study Complaints for resolution.
+If NZQA finds that a breach of the Code has occurred, the learner can make a claim to Study Complaints for redress.
 
 **Financial or contractual disputes**
 
