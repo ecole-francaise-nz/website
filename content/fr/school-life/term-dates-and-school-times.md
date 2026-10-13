@@ -30,12 +30,12 @@ Vacances scolaires : du samedi 27 juin au dimanche 19 juillet 2026.
 
 Vacances scolaires : du samedi 26 septembre au dimanche 11 octobre 2026.
 
-### 🌱 Trimestre 4 : du lundi 12 octobre 2026 au mardi 15 décembre 2026
+### 🌱 Trimestre 4 : du lundi 12 octobre 2026 au vendredi 11 décembre 2026
 
 Jour férié :
 - Lundi 26 octobre 2026 (fête du travail)
 
-Vacances d'été : du mercredi 16 décembre 2026 au lundi 2 février 2027.
+Vacances d'été : du samedi 12 décembre 2026 au lundi 2 février 2027.
 
 # Calendrier 2027
 

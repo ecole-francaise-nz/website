@@ -32,13 +32,13 @@ School holidays: from Saturday, 27 June to Sunday, 19 July 2026.
 
 School holidays: from Saturday, 26 September to Sunday, 11 October 2026.
 
-### 🌱 Term 4: from Monday, 12 October 2026 to Tuesday, 15 December 2026
+### 🌱 Term 4: from Monday, 12 October 2026 to Friday, 11 December 2026
 
 Public holiday:
 
 * Monday, 26 October 2026 (Labour Day)
 
-Summer holidays: from Wednesday, 16 December 2026 to Monday, 2 February 2027.
+Summer holidays: from Saturday, 12 December 2026 to Monday, 2 February 2027.
 
 # 2027 Calendar
 
