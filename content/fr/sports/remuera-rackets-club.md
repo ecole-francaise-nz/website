@@ -1,4 +1,5 @@
 +++
+breadcrumb_parent = "sports"
 title = "Éducation physique"
 hero = "/images/sports-banner.jpg"
 bannerHeight = "450px"

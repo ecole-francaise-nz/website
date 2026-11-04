@@ -1,4 +1,5 @@
 +++
+breadcrumb_parent = "sports"
 title = "Competitions"
 hero = "/images/additional-resources-banner.jpg"
 bannerHeight = "450px"

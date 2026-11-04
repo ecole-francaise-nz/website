@@ -1,4 +1,5 @@
 {
+  "breadcrumb_parent": "school-life/uniform-and-supplies",
   "title": "Équipement numérique",
   "hero": "/images/term-dates-banner.jpg",
   "bannerHeight": "450px",

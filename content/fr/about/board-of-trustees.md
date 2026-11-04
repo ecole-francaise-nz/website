@@ -1,4 +1,5 @@
 {
+  "breadcrumb_parent": "about/governance",
   "title": "Conseil d’administration",
   "hero": "/images/policies-banner.jpg",
   "bannerHeight": "450px",

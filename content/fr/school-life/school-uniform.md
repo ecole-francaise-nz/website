@@ -1,4 +1,5 @@
 {
+  "breadcrumb_parent": "school-life/uniform-and-supplies",
   "title": "Uniforme scolaire",
   "design": "uniform",
   "description": "Les tenues de l’école, en images. Choisissez une photo pour l’agrandir.",

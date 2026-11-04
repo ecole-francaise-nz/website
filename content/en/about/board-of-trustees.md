@@ -1,4 +1,5 @@
 {
+  "breadcrumb_parent": "about/governance",
   "title": "Board of trustees",
   "hero": "/images/policies-banner.jpg",
   "bannerHeight": "450px",

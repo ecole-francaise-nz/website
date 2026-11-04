@@ -1,4 +1,5 @@
 +++
+breadcrumb_parent = "sports"
 title = "Sécurité aquatique"
 hero = "/images/sports-banner.jpg"
 bannerHeight = "450px"

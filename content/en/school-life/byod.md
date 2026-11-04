@@ -1,4 +1,5 @@
 {
+  "breadcrumb_parent": "school-life/uniform-and-supplies",
   "title": "Devices at school",
   "hero": "/images/term-dates-banner.jpg",
   "bannerHeight": "450px",

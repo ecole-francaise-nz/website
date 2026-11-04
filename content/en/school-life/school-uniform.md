@@ -1,4 +1,5 @@
 {
+  "breadcrumb_parent": "school-life/uniform-and-supplies",
   "title": "School uniform",
   "design": "uniform",
   "description": "A visual guide to what we wear at school. Select any photo for a closer look.",
