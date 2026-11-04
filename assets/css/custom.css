@@ -284,34 +284,10 @@ section[id] {
   text-decoration:none;
 }
 
-.brand-wordmark {
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  font-family:'Arial Black','Avenir Next',Arial,sans-serif;
-  font-weight:900;
-  font-style:normal;
-  text-transform:uppercase;
-  line-height:1.12;
-  white-space:nowrap;
-}
-
-.brand-name {
-  color:#10069f;
-  font-size:1.04rem;
-  letter-spacing:.015em;
-}
-
-.brand-international,.brand-auckland {
-  color:#da0023;
-  font-size:.76rem;
-  letter-spacing:.14em;
-}
-
-.brand-international {margin-top:.14rem;}
-.brand-auckland {letter-spacing:.25em;}
-
 .brand img {
+  display:block;
+  width:280px;
+  height:auto;
   object-fit:contain;
 }
 
@@ -435,6 +411,7 @@ section[id] {
 }
 
 .site-header {
+  background:white;
   border-bottom:1px solid var(--line);
 }
 
@@ -1654,11 +1631,9 @@ details[open] summary {
     gap:.75rem;
   }
   .brand img {
-    width:48px;
-    height:48px;
+    width:232px;
+    height:auto;
   }
-  .brand-name {font-size:.88rem;}
-  .brand-international,.brand-auckland {font-size:.65rem;}
   .brand {gap:.5rem;}
   .header-main {
     min-height:84px;
@@ -1921,11 +1896,9 @@ details[open] summary {
 }
 
 @media(max-width:380px) {
-  .brand-name {font-size:.76rem;}
-  .brand-international,.brand-auckland {font-size:.56rem;}
   .brand img {
-    width:40px;
-    height:40px;
+    width:216px;
+    height:auto;
   }
   .hero-copy h1 {
     font-size:3rem;

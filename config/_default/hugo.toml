@@ -30,7 +30,7 @@ filename = "sitemap.xml"
 
 [params]
 staffPreview = false
-logo = "/images/efia-logo5.png"
+logo = "/images/efia-logo-horizontal.png"
 copyrightYears = 2024
 themeColor = "blue"
 bannerHeight = "200px"
