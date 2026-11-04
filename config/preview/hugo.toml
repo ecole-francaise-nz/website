@@ -1,0 +1,4 @@
+disableKinds = ["RSS", "sitemap"]
+
+[params]
+staffPreview = true

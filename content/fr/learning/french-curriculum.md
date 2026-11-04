@@ -1,14 +1,27 @@
-+++
-title = 'Le programme français'
-hero = "/images/french-curriculum-banner.jpg"
-bannerHeight = "450px"
-+++
+{
+  "title": "Programme",
+  "hero": "/images/french-curriculum-banner.jpg",
+  "bannerHeight": "450px",
+  "description": "Le programme français, enseigné en français et en anglais, est enrichi par le contexte et les approches pédagogiques de la Nouvelle-Zélande.",
+  "toc": true
+}
 
-L'EFIA est une école internationale bilingue offrant un programme français de haute qualité, enrichi par le programme et les approches pédagogiques de la Nouvelle-Zélande. Il s'agit d'une école primaire (de la grande section au CM2).
+## Les niveaux à l’EFIA
 
-Vous trouverez ci-dessous une présentation comparative des correspondances entre les niveaux de classe français et néo-zélandais :
+| Niveau français | Niveau néo-zélandais | Ouverture |
+| --- | --- | --- |
+| Grande Section | Year 0 / 1 | 2026 |
+| CP | Year 2 | 2026 |
+| CE1 | Year 3 | 2026 |
+| CE2 | Year 4 | 2026 |
+| CM1 | Year 5 | 2026 |
+| CM2 | Year 6 | 2027 |
 
-![Comparaison des programmes](/images/french-nz-curriculums.png "Comparaison entre les programmes français et néo-zélandais")
+[Conditions d’entrée en Year 0 et Year 1](/fr/enrolment/).
+
+[Voir le schéma comparatif complet](/images/french-nz-curriculums.png).
+
+## Cycle 1 · Grande Section
 
 Dans le programme français, l'enseignement est organisé en cinq domaines d'apprentissage pendant le 1er cycle (Grande section = Année 0/1) :
 
@@ -17,6 +30,8 @@ Dans le programme français, l'enseignement est organisé en cinq domaines d'app
 3. Agir, s'exprimer, comprendre à travers les activités artistiques
 4. Construire les premiers outils pour structurer la pensée
 5. Explorer le monde
+
+## À partir du cycle 2
 
 À partir du cycle 2, le programme est structuré autour de cinq grands domaines qui définissent les principaux objectifs éducatifs :
 

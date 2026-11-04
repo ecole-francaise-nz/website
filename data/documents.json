@@ -1,0 +1,519 @@
+[
+  {
+    "url": "/mul/documents/about/aefe.pdf",
+    "legacy": "/aefe.pdf",
+    "language": "mul",
+    "category": "about",
+    "title": "AEFE — French education abroad",
+    "sha256": "f4ebfb53100d977b5e38c1145f62bc02b61165889b239b1dcf4f88fb65f6c00a",
+    "aliases": [
+      "/documents/mul/about/aefe.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/school-life/behaviour-management-procedure-v1-23-01-2025.pdf",
+    "legacy": "/behaviour_management_procedure_v1_23-01-2025.pdf",
+    "language": "en",
+    "category": "school-life",
+    "title": "Behaviour management procedure v1 23 01 2025",
+    "sha256": "c78d1f1cf85ba52394f69ab539040a6600d78af019d8996d501f3a8631e50641",
+    "aliases": [
+      "/documents/en/school-life/behaviour-management-procedure-v1-23-01-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/school-life/child-protection-policy-v1-27-01-2026.pdf",
+    "legacy": "/child_protection_policy_v1_27-01-2026.pdf",
+    "language": "en",
+    "category": "school-life",
+    "title": "Child protection policy v1 27 01 2026",
+    "sha256": "29c5489b8457c7c2cc0bdc5fd18f58bb4d255e0253d485938661473b7afd92f6",
+    "aliases": [
+      "/documents/en/school-life/child-protection-policy-v1-27-01-2026.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/school-life/computer-security-and-cybersecurity-v1-05-02-2026.pdf",
+    "legacy": "/computer_security_and_cybersecurity_v1_05_02_2026.pdf",
+    "language": "en",
+    "category": "school-life",
+    "title": "Computer security and cybersecurity v1 05 02 2026",
+    "sha256": "2115b2cd9213beb235958c7052d5cda1610c61b3676fe3ce9c50613b231e635c",
+    "aliases": [
+      "/documents/en/school-life/computer-security-and-cybersecurity-v1-05-02-2026.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/school-life/concerns-and-complaints-process-v1-05-02-2026.pdf",
+    "legacy": "/concerns_and_complaints_process_v1_05_02_2026.pdf",
+    "language": "en",
+    "category": "school-life",
+    "title": "Concerns and complaints process v1 05 02 2026",
+    "sha256": "515279c8bb214b5f3a8c017c00795330c76ad9053b622929db01588fd81a73b0",
+    "aliases": [
+      "/documents/en/school-life/concerns-and-complaints-process-v1-05-02-2026.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/about/efia-flyer.pdf",
+    "legacy": "/efia-flyer.pdf",
+    "language": "en",
+    "category": "about",
+    "title": "Flyer",
+    "sha256": "3f79f6672b28f54419e60903570e769dede29da44f25ee0cb8a00bc1bc8dbeba",
+    "aliases": [
+      "/documents/en/about/efia-flyer.pdf"
+    ]
+  },
+  {
+    "url": "/fr/documents/governance/efia-plan-strategique-2025-2027.pdf",
+    "legacy": "/efia-plan-strategique-2025-2027.pdf",
+    "language": "fr",
+    "category": "governance",
+    "title": "Plan strategique 2025 2027",
+    "sha256": "5605a272afaf7212133e647a3b8ecd997e123f917239ca21b5964af5cd122956",
+    "translationKey": "strategic-plan-2025-2027",
+    "aliases": [
+      "/documents/fr/governance/efia-plan-strategique-2025-2027.pdf"
+    ]
+  },
+  {
+    "url": "/fr/documents/governance/efia-projet-ecole-2025-2028.pdf",
+    "legacy": "/efia-projet-ecole-2025-2028.pdf",
+    "language": "fr",
+    "category": "governance",
+    "title": "Projet ecole 2025 2028",
+    "sha256": "072b136911936b65f6b8ace57b668d1c9eed4a040609a9909dc3a3845aa5def2",
+    "translationKey": "school-project-2025-2028",
+    "aliases": [
+      "/documents/fr/governance/efia-projet-ecole-2025-2028.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/governance/efia-school-project-2025-2028.pdf",
+    "legacy": "/efia-school-project-2025-2028.pdf",
+    "language": "en",
+    "category": "governance",
+    "title": "School project 2025 2028",
+    "sha256": "30584db0caf2aad04fa827f6266ca16415b032f53d0101e9f40d27b1e698e98c",
+    "translationKey": "school-project-2025-2028",
+    "aliases": [
+      "/documents/en/governance/efia-school-project-2025-2028.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/governance/efia-strategic-plan-2025-2027.pdf",
+    "legacy": "/efia-strategic-plan-2025-2027.pdf",
+    "language": "en",
+    "category": "governance",
+    "title": "Strategic plan 2025 2027",
+    "sha256": "daf49112cf0a4335ee09c7b270d1e1bbc1442e336c5724f812694210239d27ab",
+    "translationKey": "strategic-plan-2025-2027",
+    "aliases": [
+      "/documents/en/governance/efia-strategic-plan-2025-2027.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/school-life/efia-2026-byod-letter-of-understanding-and-cybersafety-contract.pdf",
+    "legacy": "/efia_2026_byod_letter_of_understanding_and_cybersafety_contract.pdf",
+    "language": "en",
+    "category": "school-life",
+    "title": "BYOD agreement and cybersafety contract — 2026",
+    "sha256": "4d65a811ad7eec195ed9d882d5799b35f6f7b7e3099022d1024bc7522c9717ce",
+    "aliases": [
+      "/documents/en/school-life/efia-2026-byod-letter-of-understanding-and-cybersafety-contract.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/governance/efia-and-the-charter-school-model.pdf",
+    "legacy": "/efia_and_the_charter_school_model.pdf",
+    "language": "en",
+    "category": "governance",
+    "title": "And the charter school model",
+    "sha256": "93302fd664a56af5002109836661c0083c80febdea1e1acfedd598ea24b04f21",
+    "aliases": [
+      "/documents/en/governance/efia-and-the-charter-school-model.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/governance/efia-annual-report-2025.pdf",
+    "legacy": "/efia_annual_report_2025.pdf",
+    "language": "en",
+    "category": "governance",
+    "title": "Annual report 2025",
+    "sha256": "1454081f94ff2a9f1590a2d5339c18a6e20b9f4a57fa0262b6c40260950480e8",
+    "aliases": [
+      "/documents/en/governance/efia-annual-report-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/admissions/efia-application-form.pdf",
+    "legacy": "/efia_application_form.pdf",
+    "language": "en",
+    "category": "admissions",
+    "title": "Application form",
+    "sha256": "9174669c5b33c275b0b4d415aa8dbdf8d71f923923fc2006f5c8fd5eb0a1d9e2",
+    "aliases": [
+      "/documents/en/admissions/efia-application-form.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/admissions/efia-application-form-2025.pdf",
+    "legacy": "/efia_application_form_2025.pdf",
+    "language": "en",
+    "category": "admissions",
+    "title": "Application form 2025",
+    "sha256": "9f557e68df4fa0909b7de0c4aaa9b8a411d72787c38158d73bd8bcd51d6ed3b1",
+    "aliases": [
+      "/documents/en/admissions/efia-application-form-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/admissions/efia-application-form-2026-2030.pdf",
+    "legacy": "/efia_application_form_2026_2030.pdf",
+    "language": "en",
+    "category": "admissions",
+    "title": "Application form 2026 2030",
+    "sha256": "3fdf5ca88e63515dccb2ea8001844ce7c3658f78216136378be45d54a5bae462",
+    "aliases": [
+      "/documents/en/admissions/efia-application-form-2026-2030.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/admissions/efia-application-form-2026-plus.pdf",
+    "legacy": "/efia_application_form_2026_plus.pdf",
+    "language": "en",
+    "category": "admissions",
+    "title": "Application form 2026 plus",
+    "sha256": "0824d9533a5a9fddcfac20bd943ba74ed48029ca7ca75d1924cc8edd3b5cafe2",
+    "aliases": [
+      "/documents/en/admissions/efia-application-form-2026-plus.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/governance/efia-audit-report-2025.pdf",
+    "legacy": "/efia_audit_report_2025.pdf",
+    "language": "en",
+    "category": "governance",
+    "title": "Audit report 2025",
+    "sha256": "adf167aa4f1f855c750af82e26f13f166fbd9f2eab70c46baf0916808a6c01b7",
+    "aliases": [
+      "/documents/en/governance/efia-audit-report-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-cop-certificate.pdf",
+    "legacy": "/efia_cop_certificate.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "Cop certificate",
+    "sha256": "94027ebd7f776c4d9b925602fa8c072ef5308316f8e121ac2ab932caaee358c9",
+    "aliases": [
+      "/documents/en/international/efia-cop-certificate.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-guidelines-for-recruitment-agents.pdf",
+    "legacy": "/efia_guidelines_for_recruitment_agents.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "Guidelines for recruitment agents",
+    "sha256": "f854d633c2eb5d52641c5fd6ecf53d385b3e4954eac235456ca42a8581f86cad",
+    "aliases": [
+      "/documents/en/international/efia-guidelines-for-recruitment-agents.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-immigration-matters.pdf",
+    "legacy": "/efia_immigration_matters.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "Immigration matters",
+    "sha256": "5e6d06a3aebc5ef13a89113e421b6f3473218c7283e7023a58eabf715683a5e0",
+    "aliases": [
+      "/documents/en/international/efia-immigration-matters.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-international-learner-insurance-may-2025.pdf",
+    "legacy": "/efia_international_learner_insurance_may_2025.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "International learner insurance may 2025",
+    "sha256": "bb2349740e11ee1aa1ef2880a036b55c20324bf74894422176faa2533f80025d",
+    "aliases": [
+      "/documents/en/international/efia-international-learner-insurance-may-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-international-prospectus-2027.pdf",
+    "legacy": "/efia_international_prospectus_2027.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "International prospectus 2027",
+    "sha256": "abc8afe062884f2832d6ac3be437d39ae6de9fcec4c5640ef384b2981598e231",
+    "aliases": [
+      "/documents/en/international/efia-international-prospectus-2027.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-international-prospectus-april-2025.pdf",
+    "legacy": "/efia_international_prospectus_april_2025.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "International prospectus april 2025",
+    "sha256": "bc07bd07e659ce5f966a24b4371ce35032a0f3e3781b3b9a6e802faf93fa1203",
+    "aliases": [
+      "/documents/en/international/efia-international-prospectus-april-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-international-prospectus-august-2025.pdf",
+    "legacy": "/efia_international_prospectus_august_2025.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "International prospectus august 2025",
+    "sha256": "127b288bb221fb5786e71e71bde915bcade6a7966787bdfb5cb1cd6b70194813",
+    "aliases": [
+      "/documents/en/international/efia-international-prospectus-august-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-international-prospectus-may-2025.pdf",
+    "legacy": "/efia_international_prospectus_may_2025.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "International prospectus may 2025",
+    "sha256": "49d1cdd984e2c5aa6c07a4fe00fcdac778bd61b406ad59eeb1071d35bdf14b6a",
+    "aliases": [
+      "/documents/en/international/efia-international-prospectus-may-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-international-student-enrolment-contract-april-2025.pdf",
+    "legacy": "/efia_international_student_enrolment_contract_april_2025.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "International student enrolment contract april 2025",
+    "sha256": "70bbd51c938d94aec40f588891660800b9a7cdfbc089792b2df4c36227060747",
+    "aliases": [
+      "/documents/en/international/efia-international-student-enrolment-contract-april-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-international-student-enrolment-contract-may-2025.pdf",
+    "legacy": "/efia_international_student_enrolment_contract_may_2025.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "International student enrolment contract may 2025",
+    "sha256": "7f3982ede8200eaa0e8177eee3577e202eb7ce0ccfca7fba289705d7e98b4447",
+    "aliases": [
+      "/documents/en/international/efia-international-student-enrolment-contract-may-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-international-student-policy-april-2025.pdf",
+    "legacy": "/efia_international_student_policy_april_2025.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "International student policy april 2025",
+    "sha256": "efd95e2cce60e21f14a9bc4e620740a6103c1d6dc8d3aa6a7b059f2c0ceed702",
+    "aliases": [
+      "/documents/en/international/efia-international-student-policy-april-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-international-student-policy-may-2025.pdf",
+    "legacy": "/efia_international_student_policy_may_2025.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "International student policy may 2025",
+    "sha256": "23721b3595a2e7e876c461fc73e5cf35474abaa12082aa38bc941b81eefd126d",
+    "aliases": [
+      "/documents/en/international/efia-international-student-policy-may-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/governance/efia-org-chart-en-term-2-2026.pdf",
+    "legacy": "/efia_org_chart_en_term_2_2026.pdf",
+    "language": "en",
+    "category": "governance",
+    "title": "Organisational chart — Term 2, 2026",
+    "sha256": "8435429187d24492ed44c92c22cb66f5e8bf4cc643648a4c9da51028ac5af067",
+    "translationKey": "org-chart-term-2-2026",
+    "aliases": [
+      "/documents/en/governance/efia-org-chart-en-term-2-2026.pdf"
+    ]
+  },
+  {
+    "url": "/fr/documents/governance/efia-org-chart-fr-term-2-2026.pdf",
+    "legacy": "/efia_org_chart_fr_term_2_2026.pdf",
+    "language": "fr",
+    "category": "governance",
+    "title": "Organigramme — 2e trimestre 2026",
+    "sha256": "3d729bb222e24a1a40f4e4175a835cf667140ba0ef80dd2981193bf6ed859e7f",
+    "translationKey": "org-chart-term-2-2026",
+    "aliases": [
+      "/documents/fr/governance/efia-org-chart-fr-term-2-2026.pdf"
+    ]
+  },
+  {
+    "url": "/fr/documents/governance/efia-organigramme-2026.pdf",
+    "legacy": "/efia_organigramme_2026.pdf",
+    "language": "fr",
+    "category": "governance",
+    "title": "Organigramme 2026",
+    "sha256": "11b82331feb4ba467a5e783ba75babf9043ba72d1b4d0a59fc2da898ed0f316e",
+    "translationKey": "org-chart-2026",
+    "aliases": [
+      "/documents/fr/governance/efia-organigramme-2026.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/governance/efia-organisational-chart-2026.pdf",
+    "legacy": "/efia_organisational_chart_2026.pdf",
+    "language": "en",
+    "category": "governance",
+    "title": "Organisational chart 2026",
+    "sha256": "afda8df66de4c5a1fa84fab3501cd3bfe9461619185e1742fc44620f8801e4fd",
+    "translationKey": "org-chart-2026",
+    "aliases": [
+      "/documents/en/governance/efia-organisational-chart-2026.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/international/efia-orientation-handbook-may-2025.pdf",
+    "legacy": "/efia_orientation_handbook_may_2025.pdf",
+    "language": "en",
+    "category": "international",
+    "title": "Orientation handbook may 2025",
+    "sha256": "ec4122ff448708e162db06f431bc2f045ba7832e4057519c08b39c7048141841",
+    "aliases": [
+      "/documents/en/international/efia-orientation-handbook-may-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/school-life/final-star-30-jan-2025.pdf",
+    "legacy": "/final_star_30_jan_2025.pdf",
+    "language": "en",
+    "category": "school-life",
+    "title": "School attendance guidance — January 2025",
+    "sha256": "4095c02c9ff1d5ff70c033153ad22d0b46be1cdbbc8de4c39ac0206e70cab691",
+    "aliases": [
+      "/documents/en/school-life/final-star-30-jan-2025.pdf"
+    ]
+  },
+  {
+    "url": "/fr/documents/school-life/reglement-interieur-mai-2025.pdf",
+    "legacy": "/reglement_interieur_mai_2025.pdf",
+    "language": "fr",
+    "category": "school-life",
+    "title": "Reglement interieur mai 2025",
+    "sha256": "f8a82e3b33add71928257aedf8a05a1d3d60381f223e16cf20b511cead7a19b8",
+    "aliases": [
+      "/documents/fr/school-life/reglement-interieur-mai-2025.pdf"
+    ]
+  },
+  {
+    "url": "/fr/documents/school-life/reglement-interieur-octobre-2025.pdf",
+    "legacy": "/reglement_interieur_octobre_2025.pdf",
+    "language": "fr",
+    "category": "school-life",
+    "title": "Reglement interieur octobre 2025",
+    "sha256": "861841ce91abddaff7d522d88ac43ebe4f57026042c144ab3d2a99a9898b1d72",
+    "aliases": [
+      "/documents/fr/school-life/reglement-interieur-octobre-2025.pdf"
+    ]
+  },
+  {
+    "url": "/en/documents/school-life/school-community-engagement-policy-v1-05-02-2026.pdf",
+    "legacy": "/school_community_engagement_policy_v1_05_02_2026.pdf",
+    "language": "en",
+    "category": "school-life",
+    "title": "School community engagement policy v1 05 02 2026",
+    "sha256": "62cf4ef8513d6f1f7bcfc65fc3c442184d9b02afb571a91ddf4f124165a3406b",
+    "aliases": [
+      "/documents/en/school-life/school-community-engagement-policy-v1-05-02-2026.pdf"
+    ]
+  },
+  {
+    "url": "/mul/documents/newsletters/2026/02-nl1-1sRveQWp.pdf",
+    "legacy": "/mul/documents/newsletters/2026/02-nl1-1sRveQWp.pdf",
+    "aliases": [],
+    "language": "mul",
+    "category": "newsletters",
+    "title": "Newsletter · 2026-02 · #1",
+    "sha256": "42ac674c6e97f5059c8c4604af5a447913428e4e411159cb38d1d09b66d4341d",
+    "source": "newsletter"
+  },
+  {
+    "url": "/mul/documents/newsletters/2026/03-nl2-1ThyT55r.pdf",
+    "legacy": "/mul/documents/newsletters/2026/03-nl2-1ThyT55r.pdf",
+    "aliases": [],
+    "language": "mul",
+    "category": "newsletters",
+    "title": "Newsletter · 2026-03 · #2",
+    "sha256": "344be549078daf82a8301590e05ef33dc695b18433c1b70c2f366b3548cc7af5",
+    "source": "newsletter"
+  },
+  {
+    "url": "/mul/documents/newsletters/2026/04-nl3-1Ry5sb18.pdf",
+    "legacy": "/mul/documents/newsletters/2026/04-nl3-1Ry5sb18.pdf",
+    "aliases": [],
+    "language": "mul",
+    "category": "newsletters",
+    "title": "Newsletter · 2026-04 · #3",
+    "sha256": "d2f650fcfc92d126682ea85cee6ba934ce153095dff25b484c699b35c16c3f0a",
+    "source": "newsletter"
+  },
+  {
+    "url": "/mul/documents/newsletters/2026/05-nl4-1m27VtzJ.pdf",
+    "legacy": "/mul/documents/newsletters/2026/05-nl4-1m27VtzJ.pdf",
+    "aliases": [],
+    "language": "mul",
+    "category": "newsletters",
+    "title": "Newsletter · 2026-05 · #4",
+    "sha256": "8536b1becb909ab4db1a0054fa37f224a8f5f16cde20f46fb8bbd170ab831791",
+    "source": "newsletter"
+  },
+  {
+    "url": "/mul/documents/newsletters/2026/06-nl5-1VhgAdWr.pdf",
+    "legacy": "/mul/documents/newsletters/2026/06-nl5-1VhgAdWr.pdf",
+    "aliases": [],
+    "language": "mul",
+    "category": "newsletters",
+    "title": "Newsletter · 2026-06 · #5",
+    "sha256": "d37f715c1a4a508bb4a71d1b15480b2ffdf3fff0a49e84c190e43ad082669da8",
+    "source": "newsletter"
+  },
+  {
+    "url": "/mul/documents/newsletters/2026/07-nl6-1djKcvwL.pdf",
+    "legacy": "/mul/documents/newsletters/2026/07-nl6-1djKcvwL.pdf",
+    "aliases": [],
+    "language": "mul",
+    "category": "newsletters",
+    "title": "Newsletter · 2026-07 · #6",
+    "sha256": "850e3c94a8e54b37b4d7d6e9b7100b784e245a5bcc41e06556da4612bb477966",
+    "source": "newsletter"
+  },
+  {
+    "url": "/mul/documents/newsletters/2026/08-nl7-1Bpj5s5c.pdf",
+    "legacy": "/mul/documents/newsletters/2026/08-nl7-1Bpj5s5c.pdf",
+    "aliases": [],
+    "language": "mul",
+    "category": "newsletters",
+    "title": "Newsletter · 2026-08 · #7",
+    "sha256": "440c014e9c762e3e18ceaacbee37fcee4e55f4f8878572a3be712119438a106b",
+    "source": "newsletter"
+  },
+  {
+    "url": "/mul/documents/newsletters/2026/09-nl8-1qvfXaTs.pdf",
+    "legacy": "/mul/documents/newsletters/2026/09-nl8-1qvfXaTs.pdf",
+    "aliases": [],
+    "language": "mul",
+    "category": "newsletters",
+    "title": "Newsletter · 2026-09 · #8",
+    "sha256": "e5b5d013fd12ae128bc6e121533f627ffc82408431f21f652c81f79c43a06da2",
+    "source": "newsletter"
+  }
+]

@@ -1,0 +1,86 @@
+# Installed as .github/workflows/preview.yaml in website-preview only.
+name: Sync newsletters and deploy staff preview
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # 02:17 NZST / 03:17 NZDT. GitHub may delay scheduled runs.
+    - cron: '17 14 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: staff-preview-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Hugo and PDF tools
+        env:
+          HUGO_VERSION: '0.165.0'
+        run: |
+          curl -fsSL "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb" -o "$RUNNER_TEMP/hugo.deb"
+          sudo dpkg -i "$RUNNER_TEMP/hugo.deb"
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-eng tesseract-ocr-fra
+          python3 -m pip install -r scripts/requirements-search.txt
+      - name: Restore newsletter archive cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/newsletters
+          key: newsletters-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: newsletters-v1-
+      - name: Test importer and search
+        run: |
+          python3 scripts/test_newsletters.py
+          node scripts/test_search.cjs
+      - name: Import public newsletters
+        run: |
+          python3 scripts/sync_newsletters.py
+          python3 scripts/index_pdfs.py --check
+      - name: Build and validate staff preview
+        run: |
+          python3 scripts/prepare_preview.py --destination "$RUNNER_TEMP/staff-preview" --url https://preview.ecole-francaise.nz/
+          python3 scripts/test_search_build.py
+      - name: Save imported issues in the preview repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/documents.json data/pdf_text.json data/newsletters.json static
+          if ! git diff --cached --quiet; then
+            git commit -m 'Sync published newsletters from public Google Drive'
+            git push origin HEAD:main
+          fi
+      - name: Cache the validated archive
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/newsletters
+          key: newsletters-v1-${{ github.run_id }}-${{ github.run_attempt }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/staff-preview
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

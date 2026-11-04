@@ -4,5 +4,6 @@
 /public
 /resources
 /node_modules
+/.cache
 old/
 

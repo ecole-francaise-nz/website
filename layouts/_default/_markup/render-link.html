@@ -1,0 +1,1 @@
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}{{ if in .Destination ".pdf" }} <span class="link-kind">PDF</span>{{ else if hasPrefix .Destination "https://" }} <span class="external-mark" aria-label="{{ (index hugo.Data.interface .Page.Lang).external }}">↗</span>{{ end }}</a>

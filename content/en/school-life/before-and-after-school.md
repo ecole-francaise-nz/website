@@ -1,11 +1,11 @@
 +++
-title = 'Before- and After-School'
+title = "Before & after school"
 hero = "/images/after-school-activities-banner.jpg"
 bannerHeight = "450px"
 date = 2025-01-11T12:24:00+12:00
 +++
 
-### Before-School and After-School Activities Organised by the Alliance Française
+## Before-School and After-School Activities Organised by the Alliance Française
 
 The school offers Before-School care from 7:30 am until 8:00 am at 131 Remuera Road.
 

@@ -1,0 +1,316 @@
+# Compatibility URLs; canonical PDFs live under /{language}/documents/.
+[[mounts]]
+source = "static"
+target = "static"
+
+[[mounts]]
+source = "static/mul/documents/about/aefe.pdf"
+target = "static/aefe.pdf"
+
+[[mounts]]
+source = "static/mul/documents/about/aefe.pdf"
+target = "static/documents/mul/about/aefe.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/behaviour-management-procedure-v1-23-01-2025.pdf"
+target = "static/behaviour_management_procedure_v1_23-01-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/behaviour-management-procedure-v1-23-01-2025.pdf"
+target = "static/documents/en/school-life/behaviour-management-procedure-v1-23-01-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/child-protection-policy-v1-27-01-2026.pdf"
+target = "static/child_protection_policy_v1_27-01-2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/child-protection-policy-v1-27-01-2026.pdf"
+target = "static/documents/en/school-life/child-protection-policy-v1-27-01-2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/computer-security-and-cybersecurity-v1-05-02-2026.pdf"
+target = "static/computer_security_and_cybersecurity_v1_05_02_2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/computer-security-and-cybersecurity-v1-05-02-2026.pdf"
+target = "static/documents/en/school-life/computer-security-and-cybersecurity-v1-05-02-2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/concerns-and-complaints-process-v1-05-02-2026.pdf"
+target = "static/concerns_and_complaints_process_v1_05_02_2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/concerns-and-complaints-process-v1-05-02-2026.pdf"
+target = "static/documents/en/school-life/concerns-and-complaints-process-v1-05-02-2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/about/efia-flyer.pdf"
+target = "static/efia-flyer.pdf"
+
+[[mounts]]
+source = "static/en/documents/about/efia-flyer.pdf"
+target = "static/documents/en/about/efia-flyer.pdf"
+
+[[mounts]]
+source = "static/fr/documents/governance/efia-plan-strategique-2025-2027.pdf"
+target = "static/efia-plan-strategique-2025-2027.pdf"
+
+[[mounts]]
+source = "static/fr/documents/governance/efia-plan-strategique-2025-2027.pdf"
+target = "static/documents/fr/governance/efia-plan-strategique-2025-2027.pdf"
+
+[[mounts]]
+source = "static/fr/documents/governance/efia-projet-ecole-2025-2028.pdf"
+target = "static/efia-projet-ecole-2025-2028.pdf"
+
+[[mounts]]
+source = "static/fr/documents/governance/efia-projet-ecole-2025-2028.pdf"
+target = "static/documents/fr/governance/efia-projet-ecole-2025-2028.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-school-project-2025-2028.pdf"
+target = "static/efia-school-project-2025-2028.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-school-project-2025-2028.pdf"
+target = "static/documents/en/governance/efia-school-project-2025-2028.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-strategic-plan-2025-2027.pdf"
+target = "static/efia-strategic-plan-2025-2027.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-strategic-plan-2025-2027.pdf"
+target = "static/documents/en/governance/efia-strategic-plan-2025-2027.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/efia-2026-byod-letter-of-understanding-and-cybersafety-contract.pdf"
+target = "static/efia_2026_byod_letter_of_understanding_and_cybersafety_contract.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/efia-2026-byod-letter-of-understanding-and-cybersafety-contract.pdf"
+target = "static/documents/en/school-life/efia-2026-byod-letter-of-understanding-and-cybersafety-contract.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-and-the-charter-school-model.pdf"
+target = "static/efia_and_the_charter_school_model.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-and-the-charter-school-model.pdf"
+target = "static/documents/en/governance/efia-and-the-charter-school-model.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-annual-report-2025.pdf"
+target = "static/efia_annual_report_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-annual-report-2025.pdf"
+target = "static/documents/en/governance/efia-annual-report-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/admissions/efia-application-form.pdf"
+target = "static/efia_application_form.pdf"
+
+[[mounts]]
+source = "static/en/documents/admissions/efia-application-form.pdf"
+target = "static/documents/en/admissions/efia-application-form.pdf"
+
+[[mounts]]
+source = "static/en/documents/admissions/efia-application-form-2025.pdf"
+target = "static/efia_application_form_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/admissions/efia-application-form-2025.pdf"
+target = "static/documents/en/admissions/efia-application-form-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/admissions/efia-application-form-2026-2030.pdf"
+target = "static/efia_application_form_2026_2030.pdf"
+
+[[mounts]]
+source = "static/en/documents/admissions/efia-application-form-2026-2030.pdf"
+target = "static/documents/en/admissions/efia-application-form-2026-2030.pdf"
+
+[[mounts]]
+source = "static/en/documents/admissions/efia-application-form-2026-plus.pdf"
+target = "static/efia_application_form_2026_plus.pdf"
+
+[[mounts]]
+source = "static/en/documents/admissions/efia-application-form-2026-plus.pdf"
+target = "static/documents/en/admissions/efia-application-form-2026-plus.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-audit-report-2025.pdf"
+target = "static/efia_audit_report_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-audit-report-2025.pdf"
+target = "static/documents/en/governance/efia-audit-report-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-cop-certificate.pdf"
+target = "static/efia_cop_certificate.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-cop-certificate.pdf"
+target = "static/documents/en/international/efia-cop-certificate.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-guidelines-for-recruitment-agents.pdf"
+target = "static/efia_guidelines_for_recruitment_agents.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-guidelines-for-recruitment-agents.pdf"
+target = "static/documents/en/international/efia-guidelines-for-recruitment-agents.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-immigration-matters.pdf"
+target = "static/efia_immigration_matters.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-immigration-matters.pdf"
+target = "static/documents/en/international/efia-immigration-matters.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-learner-insurance-may-2025.pdf"
+target = "static/efia_international_learner_insurance_may_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-learner-insurance-may-2025.pdf"
+target = "static/documents/en/international/efia-international-learner-insurance-may-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-prospectus-2027.pdf"
+target = "static/efia_international_prospectus_2027.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-prospectus-2027.pdf"
+target = "static/documents/en/international/efia-international-prospectus-2027.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-prospectus-april-2025.pdf"
+target = "static/efia_international_prospectus_april_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-prospectus-april-2025.pdf"
+target = "static/documents/en/international/efia-international-prospectus-april-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-prospectus-august-2025.pdf"
+target = "static/efia_international_prospectus_august_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-prospectus-august-2025.pdf"
+target = "static/documents/en/international/efia-international-prospectus-august-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-prospectus-may-2025.pdf"
+target = "static/efia_international_prospectus_may_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-prospectus-may-2025.pdf"
+target = "static/documents/en/international/efia-international-prospectus-may-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-student-enrolment-contract-april-2025.pdf"
+target = "static/efia_international_student_enrolment_contract_april_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-student-enrolment-contract-april-2025.pdf"
+target = "static/documents/en/international/efia-international-student-enrolment-contract-april-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-student-enrolment-contract-may-2025.pdf"
+target = "static/efia_international_student_enrolment_contract_may_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-student-enrolment-contract-may-2025.pdf"
+target = "static/documents/en/international/efia-international-student-enrolment-contract-may-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-student-policy-april-2025.pdf"
+target = "static/efia_international_student_policy_april_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-student-policy-april-2025.pdf"
+target = "static/documents/en/international/efia-international-student-policy-april-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-student-policy-may-2025.pdf"
+target = "static/efia_international_student_policy_may_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-international-student-policy-may-2025.pdf"
+target = "static/documents/en/international/efia-international-student-policy-may-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-org-chart-en-term-2-2026.pdf"
+target = "static/efia_org_chart_en_term_2_2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-org-chart-en-term-2-2026.pdf"
+target = "static/documents/en/governance/efia-org-chart-en-term-2-2026.pdf"
+
+[[mounts]]
+source = "static/fr/documents/governance/efia-org-chart-fr-term-2-2026.pdf"
+target = "static/efia_org_chart_fr_term_2_2026.pdf"
+
+[[mounts]]
+source = "static/fr/documents/governance/efia-org-chart-fr-term-2-2026.pdf"
+target = "static/documents/fr/governance/efia-org-chart-fr-term-2-2026.pdf"
+
+[[mounts]]
+source = "static/fr/documents/governance/efia-organigramme-2026.pdf"
+target = "static/efia_organigramme_2026.pdf"
+
+[[mounts]]
+source = "static/fr/documents/governance/efia-organigramme-2026.pdf"
+target = "static/documents/fr/governance/efia-organigramme-2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-organisational-chart-2026.pdf"
+target = "static/efia_organisational_chart_2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/governance/efia-organisational-chart-2026.pdf"
+target = "static/documents/en/governance/efia-organisational-chart-2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-orientation-handbook-may-2025.pdf"
+target = "static/efia_orientation_handbook_may_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/international/efia-orientation-handbook-may-2025.pdf"
+target = "static/documents/en/international/efia-orientation-handbook-may-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/final-star-30-jan-2025.pdf"
+target = "static/final_star_30_jan_2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/final-star-30-jan-2025.pdf"
+target = "static/documents/en/school-life/final-star-30-jan-2025.pdf"
+
+[[mounts]]
+source = "static/fr/documents/school-life/reglement-interieur-mai-2025.pdf"
+target = "static/reglement_interieur_mai_2025.pdf"
+
+[[mounts]]
+source = "static/fr/documents/school-life/reglement-interieur-mai-2025.pdf"
+target = "static/documents/fr/school-life/reglement-interieur-mai-2025.pdf"
+
+[[mounts]]
+source = "static/fr/documents/school-life/reglement-interieur-octobre-2025.pdf"
+target = "static/reglement_interieur_octobre_2025.pdf"
+
+[[mounts]]
+source = "static/fr/documents/school-life/reglement-interieur-octobre-2025.pdf"
+target = "static/documents/fr/school-life/reglement-interieur-octobre-2025.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/school-community-engagement-policy-v1-05-02-2026.pdf"
+target = "static/school_community_engagement_policy_v1_05_02_2026.pdf"
+
+[[mounts]]
+source = "static/en/documents/school-life/school-community-engagement-policy-v1-05-02-2026.pdf"
+target = "static/documents/en/school-life/school-community-engagement-policy-v1-05-02-2026.pdf"

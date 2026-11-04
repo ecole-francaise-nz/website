@@ -1,5 +1,5 @@
 +++
-title = "Vision & valeurs"
+title = "Vision et valeurs"
 date = 2024-05-09T09:47:42+12:00
 hero = "/images/efia-banner.jpg"
 bannerHeight = "450px"
@@ -9,20 +9,20 @@ bannerHeight = "450px"
 
 L’école a été sélectionnée parmi les sept premières écoles publiques à charte de Nouvelle-Zélande, à l’issue d’un processus de sélection rigoureux. Le respect des exigences de la Charter School Agency est contrôlé dans le cadre du [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_17_06.pdf). Veuillez consulter le site internet de la [Charter School Agency](https://www.charterschools.govt.nz/) pour plus d’informations.
 
-Veuillez lire notre [politique d'engagement de la communauté scolaire](/school_community_engagement_policy_v1_05_02_2026.pdf).
+Veuillez lire notre [politique d'engagement de la communauté scolaire](/en/documents/school-life/school-community-engagement-policy-v1-05-02-2026.pdf).
 
-### Vision
+## Vision
 
 Offrir à chaque élève l’excellence éducative ainsi qu’une ouverture culturelle grâce à un environnement d’apprentissage multilingue qui encourage le savoir, la réflexion, la créativité, l’indépendance, l’esprit communautaire et l'engagement social et citoyen.
 
 L’école prend également en compte la Déclaration des Priorités Nationales d’Éducation et d’Apprentissage de la Nouvelle-Zélande (NELP) : les élèves au centre, un accès sans barrières, un enseignement et un leadership de qualité, l’avenir de l’apprentissage et du travail, ainsi qu’une éducation publique inclusive de classe mondiale. Ces priorités s’intègrent également parfaitement à l’idéal éducatif français et sont au cœur de notre vision, de nos politiques et de nos stratégies éducatives.
 
-### Notre devise
+## Notre devise
 > Une école, deux langues, un monde à explorer
 
 Nous aspirons à offrir à chaque élève une excellence éducative ainsi qu'une ouverture culturelle, grâce à un environnement d'apprentissage multilingue qui encourage le savoir, la réflexion, la créativité, l’autonomie, l’engagement social, l’esprit de communauté et un fort sens de la citoyenneté.
 
-### Valeurs
+## Valeurs
 
 L’éthique de notre école repose sur des principes clés qui reflètent nos valeurs et nos pratiques. Ces principes forment la base de l’éducation de nos élèves et les préparent à devenir des citoyens du monde :
 
@@ -37,7 +37,7 @@ C'est une offre éducative unique en Nouvelle-Zélande, permettant aux élèves 
 
 L’École Française Internationale Auckland est devenue officiellement partenaire de l’AEFE en septembre 2026. [En savoir plus](/fr/learning/aefe/).
 
-### Le rôle des parents
+## Le rôle des parents
 
 Dans le système éducatif français, les parents jouent un rôle important dans la vie et la gouvernance des écoles grâce à un système formel d’élection des représentants des parents et à leur participation aux instances de l’école. Chaque année, les parents participent à un processus électoral structuré et réglementé afin d’élire leurs représentants. Ces représentants agissent comme interlocuteurs officiels entre les familles et la direction de l’école. Ils veillent à ce que les points de vue et les préoccupations des familles soient transmis à l’école et contribuent à maintenir un dialogue ouvert et constructif entre les parents et les enseignants.
 

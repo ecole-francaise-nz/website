@@ -1,5 +1,5 @@
 +++
-title = 'Annual Report – 2025'
+title = "Annual report · 2025"
 date = 2025-04-26T00:00:00+12:00
 lastmod = 2026-10-14T11:51:12+13:00
 hero = "../premises-hero.jpg"
@@ -8,6 +8,6 @@ bannerHeight = "450px"
 
 Please find below EFIA's annual report for 2025:
 
-[![Annual Report – 2025](/images/efia_annual_report_2025.png "Annual Report – 2025")](/efia_annual_report_2025.pdf?t=20260610)
+[![Annual Report – 2025](/images/efia_annual_report_2025.png "Annual Report – 2025")](/en/documents/governance/efia-annual-report-2025.pdf?t=20260610)
 
-You may also consult our [2025 audit report](/efia_audit_report_2025.pdf).
+You may also consult our [2025 audit report](/en/documents/governance/efia-audit-report-2025.pdf).

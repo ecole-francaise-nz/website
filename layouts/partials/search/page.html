@@ -1,0 +1,26 @@
+{{- $html := partial "page-content.html" . | string -}}
+{{- $records := slice (dict "text" .Title "anchor" "" "heading" .Title) -}}
+{{- $heading := .Title -}}
+{{- $patterns := slice -}}
+{{- /* Match each complete element with its own closing tag, including cards
+      whose links wrap headings and paragraphs. Bare links and table headers
+      contain useful content too, even without a surrounding paragraph. */ -}}
+{{- range slice "h[1-6]" "p" "li" "summary" "td" "th" "figcaption" "caption" "blockquote" "dt" "dd" "a" -}}
+  {{- $patterns = $patterns | append (printf `<%s\b[^>]*>.*?</%s>` . .) -}}
+{{- end -}}
+{{- range $i, $block := findRE (printf `(?s)(?:%s)` (delimit $patterns "|")) $html -}}
+  {{- $text := $block | replaceRE `<[^>]+>` " " | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+  {{- if $text -}}
+    {{- $opening := index (findRE `^[^>]+>` $block) 0 -}}
+    {{- $id := printf "search-%d" $i -}}
+    {{- if findRE `\bid="[^"]+"` $opening -}}
+      {{- $id = replaceRE `.*\bid="([^"]+)".*` "$1" $opening -}}
+    {{- else -}}
+      {{- $replacement := replace $block $opening (replace $opening ">" (printf ` id="%s">` $id)) 1 -}}
+      {{- $html = replace $html $block $replacement 1 -}}
+    {{- end -}}
+    {{- if findRE `^<(?:h[1-6]|summary)\b` $block }}{{ $heading = $text }}{{ end -}}
+    {{- $records = $records | append (dict "text" $text "anchor" $id "heading" $heading) -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "html" $html "passages" $records) -}}

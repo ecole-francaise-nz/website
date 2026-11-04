@@ -1,26 +1,27 @@
-+++
-title = 'Élèves internationaux'
-hero = "/images/efia-maison1.jpg"
-bannerHeight = "450px"
-+++
+{
+  "title": "Élèves internationaux",
+  "hero": "/images/efia-maison1.jpg",
+  "bannerHeight": "450px",
+  "toc": true
+}
 
 Nous sommes ravis d'accueillir les élèves internationaux pour enrichir notre communauté.
 
-### Code de conduite
+## Code de conduite
 
 Notre école a accepté de respecter et d'appliquer le Code de conduite pour le bien-être des élèves internationaux. Des copies du Code sont disponibles sur le [site de la New Zealand Qualifications Authority (NZQA)](https://www2.nzqa.govt.nz/tertiary/the-code/).
 
-Voici notre [certificat](/efia_cop_certificate.pdf) confirmant que nous sommes un signataire agréé.
+Voici notre [certificat](/en/documents/international/efia-cop-certificate.pdf) confirmant que nous sommes un signataire agréé.
 
-### Notre équipe
+## Notre équipe
 
 La directrice des élèves internationaux est la directrice de l’établissement. Elle possède une vaste expérience auprès des élèves internationaux dans de grands établissements néo-zélandais, en tant que responsable du programme ESOL et doyenne des élèves internationaux.
 
-### Notre école en bref pour un élève international
+## Notre école en bref pour un élève international
 
-Voir [EFIA International Student Prospectus](/efia_international_prospectus_2027.pdf).
+Voir [EFIA International Student Prospectus](/en/documents/international/efia-international-prospectus-2027.pdf).
 
-### Objectifs d'apprentissage 
+## Objectifs d'apprentissage
 
 L’éducation bilingue apporte de nombreux bénéfices cognitifs, améliorant les capacités de résolution de problèmes, de pensée critique et de multitâche. Le passage constant d’une langue à l’autre favorise la flexibilité mentale et développe des compétences d’adaptabilité.
 
@@ -32,37 +33,37 @@ La plupart de nos élèves sont anglophones sans lien préalable avec le frança
 
 Nous bénéficions également de l’expertise de l’Alliance Française, dont les enseignants spécialisés apportent un soutien individualisé aux élèves apprenant le français. De la même manière, nous proposons un accompagnement ESOL aux élèves francophones débutant en anglais.
 
-### Processus d'inscription
+## Processus d'inscription
 
-Voir [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf).
+Voir [International Student Enrolment Contract – May 2025](/en/documents/international/efia-international-student-enrolment-contract-may-2025.pdf).
 
-### Conditions pour les remboursements
+## Conditions pour les remboursements
 
-Veuillez consulter la section "Refund Policy (schedule three)" du contrat&nbsp;: [International Student Enrolment Contract – May 2025](/efia_international_student_enrolment_contract_may_2025.pdf).
+Veuillez consulter la section "Refund Policy (schedule three)" du contrat&nbsp;: [International Student Enrolment Contract – May 2025](/en/documents/international/efia-international-student-enrolment-contract-may-2025.pdf).
 
-### Informations sur les droits et obligations
+## Informations sur les droits et obligations
 
 * Veuillez vous référer au [Code](https://www2.nzqa.govt.nz/assets/Tertiary/The-Code/Guidelines-for-Code-Signatory-Schools.pdf).
 * Droit à un enseignement dispensé par un professeur/instructeur dûment qualifié : tous nos enseignants sont certifiés soit par le Ministère de l’Éducation nationale français, soit par le Ministère de l’Éducation néo-zélandais.
-* Informations et conseils sur les règlements applicables de l’école : veuillez consulter nos [Politiques et procédures](/fr/school-life/policies-and-procedures).
-* Notre code de conduite est disponible dans le [contrat d’inscription](/efia_international_student_enrolment_contract_may_2025.pdf) et dans le [règlement intérieur](/reglement_interieur_octobre_2025.pdf).
+* Informations et conseils sur les règlements applicables de l’école : veuillez consulter nos [Politiques et accompagnement](/fr/school-life/policies-and-procedures).
+* Notre code de conduite est disponible dans le [contrat d’inscription](/en/documents/international/efia-international-student-enrolment-contract-may-2025.pdf) et dans le [règlement intérieur](/fr/documents/school-life/reglement-interieur-octobre-2025.pdf).
 
-### La vie scolaire à l’EFIA pour un élève international
+## La vie scolaire à l’EFIA pour un élève international
 
-Veuillez consulter le [guide d'orientation](/efia_orientation_handbook_may_2025.pdf) ainsi que le document&nbsp;: [International Learner Policy – May 2025](/efia_international_student_policy_may_2025.pdf).
+Veuillez consulter le [guide d'orientation](/en/documents/international/efia-orientation-handbook-may-2025.pdf) ainsi que le document&nbsp;: [International Learner Policy – May 2025](/en/documents/international/efia-international-student-policy-may-2025.pdf).
 
 
-### Agents
+## Agents
 
-EFIA recrute des agents pour faciliter l'inscription des élèves internationaux. Veuillez consulter le document [EFIA Guidelines for Recruitment Agents](/efia_guidelines_for_recruitment_agents.pdf).
+EFIA recrute des agents pour faciliter l'inscription des élèves internationaux. Veuillez consulter le document [EFIA Guidelines for Recruitment Agents](/en/documents/international/efia-guidelines-for-recruitment-agents.pdf).
 
-### Informations pratiques
+## Informations pratiques
 
 **Visa et immigration**
 
 Tous les détails concernant les exigences en matière d'immigration, les droits au travail pendant les études en Nouvelle-Zélande, et les obligations de déclaration sont disponibles sur le site de [Immigration New Zealand](https://www.immigration.govt.nz/).
 
-Veuillez également consulter le document [EFIA - Immigration matters](/efia_immigration_matters.pdf).
+Veuillez également consulter le document [EFIA - Immigration matters](/en/documents/international/efia-immigration-matters.pdf).
 
 **Étudier en Nouvelle-Zélande**
 
@@ -79,9 +80,9 @@ Veuillez également consulter le document [EFIA - Immigration matters](/efia_imm
 
 Les élèves internationaux (y compris les groupes d’élèves) doivent obligatoirement disposer d’une assurance médicale et de voyage adéquate et à jour pendant leur séjour en Nouvelle-Zélande.
 
-Veuillez consulter le document [EFIA - International Learner Insurance](/efia_international_learner_insurance_may_2025.pdf).
+Veuillez consulter le document [EFIA - International Learner Insurance](/en/documents/international/efia-international-learner-insurance-may-2025.pdf).
 
-### Procédure de réclamation
+## Procédure de réclamation
 
 **Violations du Code**
 

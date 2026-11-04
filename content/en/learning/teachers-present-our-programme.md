@@ -1,5 +1,5 @@
 +++
-title = 'Teachers Present Our Programme'
+title = "Inside the classroom"
 hero = "/images/french-curriculum-banner.jpg"
 bannerHeight = "450px"
 +++

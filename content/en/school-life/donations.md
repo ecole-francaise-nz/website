@@ -1,11 +1,11 @@
 +++
-title = 'Donations'
+title = "Support our school"
 hero = "/images/donations-banner.jpg"
 bannerHeight = "450px"
 date = 2025-01-11T12:24:00+12:00
 +++
 
-### Support Our School Through Donations
+## Support Our School Through Donations
 
 Our Board deeply values your generous support, which helps bring to life our vision for an exceptional primary school education. While the Charter School Agency funding provides a foundation, your contributions bridge the gap, enabling a vibrant, engaging, and inclusive learning environment for all students.
 

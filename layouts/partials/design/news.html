@@ -1,0 +1,60 @@
+{{ $fr := eq .Lang "fr" }}
+{{ $months := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
+{{ if $fr }}{{ $months = slice "Janvier" "Février" "Mars" "Avril" "Mai" "Juin" "Juillet" "Août" "Septembre" "Octobre" "Novembre" "Décembre" }}{{ end }}
+<section class="news-social" aria-labelledby="news-social-title">
+  <h2 id="news-social-title">{{ if $fr }}Suivez-nous sur les réseaux sociaux{{ else }}Follow us on social media{{ end }}</h2>
+  <p>{{ if $fr }}Retrouvez les nouvelles de l’école, nos photos et les moments partagés sur nos deux réseaux les plus actifs.{{ else }}Find school updates, photos and shared moments on our two most active channels.{{ end }}</p>
+  <div class="news-social-featured">
+    <a class="news-social-card" href="https://www.facebook.com/profile.php?id=61573552256605">
+      <span class="news-social-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M14 21v-8h3l.5-4H14V7c0-1 .3-2 2-2h2V1.5A23 23 0 0 0 15 1c-3 0-5 2-5 5v3H7v4h3v8z"/></svg></span>
+      <div><h3>Facebook</h3><p>{{ if $fr }}Les nouvelles de notre communauté{{ else }}Updates from our school community{{ end }}</p></div><span aria-hidden="true">↗</span>
+    </a>
+    <a class="news-social-card" href="https://www.instagram.com/ecolefrancaiseauckland/">
+      <span class="news-social-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg></span>
+      <div><h3>Instagram</h3><p>{{ if $fr }}La vie de l’école en images{{ else }}School life in pictures{{ end }}</p></div><span aria-hidden="true">↗</span>
+    </a>
+  </div>
+  <div class="news-social-more"><span>{{ if $fr }}Retrouvez-nous aussi sur{{ else }}You can also find us on{{ end }}</span>
+    <ul>
+      <li><a href="https://www.linkedin.com/company/%C3%A9cole-fran%C3%A7aise-internationale-auckland/posts/?feedView=all">LinkedIn ↗</a></li>
+      <li><a href="https://www.xiaohongshu.com/user/profile/675f409c000000001801caf1">RedNote ↗</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLe6nvxISfBOmAkX1Pmd_LnbkJWE3yhDQZ">YouTube ↗</a></li>
+    </ul>
+  </div>
+</section>
+<div class="newsletter-intro">
+  <div><p class="eyebrow">{{ if $fr }}Le fil de notre école{{ else }}The school, month by month{{ end }}</p>
+  <h2>{{ if $fr }}La gazette de l’EFIA{{ else }}The EFIA newsletter{{ end }}</h2>
+  <p>{{ if $fr }}Les découvertes en classe, les sorties et les moments partagés : retrouvez la vie de notre communauté dans nos lettres d’information.{{ else }}Classroom discoveries, school trips and shared moments: follow our community through our school newsletters.{{ end }}</p></div>
+</div>
+{{ $issues := hugo.Data.newsletters | default slice }}
+{{ with $issues }}
+  {{ $latest := index . 0 }}{{ $date := time.AsTime $latest.date }}
+  <section class="newsletter-feature" aria-labelledby="latest-newsletter">
+    <a class="newsletter-cover" href="{{ $latest.url }}" aria-label="{{ if $fr }}Lire la dernière lettre d’information{{ else }}Read the latest newsletter{{ end }}"><img src="{{ $latest.thumbnail }}" alt="{{ if $fr }}Première page de la lettre d’information{{ else }}Newsletter front page{{ end }}" width="566" height="800" fetchpriority="high"></a>
+    <div class="newsletter-feature-copy"><p class="eyebrow">{{ if $fr }}La dernière édition{{ else }}The latest edition{{ end }}</p>
+      <h2 id="latest-newsletter">{{ index $months (sub (int $date.Month) 1) }} {{ $date.Year }}</h2>
+      <p>{{ if $latest.issue }}{{ if $fr }}Numéro{{ else }}Issue{{ end }} {{ $latest.issue }} · {{ end }}{{ $latest.pages }} pages · PDF · {{ printf "%.1f" (div (float $latest.bytes) 1048576) }} MB</p>
+      <p>{{ if $fr }}Un regard sur les apprentissages, les projets et la vie de l’école. Installez-vous et feuilletez notre dernière gazette.{{ else }}A window into learning, projects and life at school. Settle in and explore our latest newsletter.{{ end }}</p>
+      <a class="button" href="{{ $latest.url }}">{{ if $fr }}Lire la gazette{{ else }}Read the newsletter{{ end }} <span aria-hidden="true">→</span></a>
+      <p class="newsletter-search-note">{{ if $fr }}Vous cherchez un sujet précis ? Le contenu des lettres est aussi disponible dans la recherche du site.{{ else }}Looking for a particular topic? Newsletter contents are included in the site search too.{{ end }}</p>
+    </div>
+  </section>
+  <nav class="newsletter-years" aria-label="{{ if $fr }}Archives par année{{ else }}Archive by year{{ end }}"><span>{{ if $fr }}Les archives{{ else }}The archive{{ end }}</span>{{ $year := "" }}{{ range . }}{{ $current := substr .date 0 4 }}{{ if ne $year $current }}<a href="#year-{{ $current }}">{{ $current }}</a>{{ $year = $current }}{{ end }}{{ end }}</nav>
+  <div class="newsletter-timeline">
+  {{ $year := "" }}{{ range . }}
+    {{ $date := time.AsTime .date }}{{ $current := printf "%d" $date.Year }}
+    {{ if ne $year $current }}{{ if $year }}</div></section>{{ end }}<section class="newsletter-year" aria-labelledby="year-{{ $current }}"><h2 id="year-{{ $current }}">{{ $current }}</h2><div class="newsletter-issues">{{ $year = $current }}{{ end }}
+    <article class="newsletter-issue">
+      <a class="newsletter-thumb" href="{{ .url }}" tabindex="-1" aria-hidden="true"><img src="{{ .thumbnail }}" alt="" loading="lazy" width="170" height="240"></a>
+      <div><p class="eyebrow">{{ if .issue }}{{ if $fr }}Numéro{{ else }}Issue{{ end }} {{ .issue }}{{ else }}{{ if $fr }}Lettre d’information{{ else }}Newsletter{{ end }}{{ end }}</p>
+      <h3><a href="{{ .url }}">{{ index $months (sub (int $date.Month) 1) }} {{ $date.Year }}</a></h3>
+      <p class="newsletter-meta">PDF · {{ .pages }} pages · {{ printf "%.1f" (div (float .bytes) 1048576) }} MB{{ if eq .language "mul" }} · {{ if $fr }}Français et anglais{{ else }}French & English{{ end }}{{ else if eq .language "fr" }} · {{ if $fr }}Français{{ else }}French{{ end }}{{ else }} · {{ if $fr }}Anglais{{ else }}English{{ end }}{{ end }}</p>
+      <a class="text-link" href="{{ .url }}">{{ if $fr }}Lire cette édition{{ else }}Read this edition{{ end }} →</a></div>
+    </article>
+  {{ end }}</div></section>
+  </div>
+{{ else }}
+  <p>{{ if $fr }}Nos lettres d’information sont disponibles dans{{ else }}Our newsletters are available in{{ end }} <a href="https://drive.google.com/drive/folders/1DHcnJiY2XQd-6e7tPN0agVH-1AjENkn4">Google Drive</a>.</p>
+{{ end }}
+{{ with .Content }}<div class="newsletter-school-life prose">{{ . }}</div>{{ end }}

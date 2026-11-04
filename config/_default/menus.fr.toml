@@ -1,291 +1,179 @@
-############################################
 [[main]]
-name = 'À propos'
-identifier = 'About us'
-pageRef = '/about'
+name = "Notre école"
+identifier = "nav0"
+url = "/fr/about/"
 weight = 100
 
 [[main]]
-name = 'Vision & valeurs'
-identifier = 'Vision & Values'
-pageRef = '/about/vision-and-values'
-parent = 'About us'
-weight = 110
+name = "Notre équipe"
+parent = "nav0"
+url = "/fr/about/team/"
+weight = 1
 
 [[main]]
-name = 'Rapport annuel 2025'
-identifier = 'Annual Report 2025'
-pageRef = '/about/annual-report-2025'
-parent = 'About us'
-weight = 115
+name = "Notre campus"
+parent = "nav0"
+url = "/fr/about/premises/"
+weight = 2
 
 [[main]]
-name = 'Stratégie 2025-2027'
-identifier = 'Strategic Plan 2025-2027'
-url = '/efia-plan-strategique-2025-2027.pdf'
-parent = 'About us'
-weight = 120
+name = "Vision et valeurs"
+parent = "nav0"
+url = "/fr/about/vision-and-values/"
+weight = 3
 
 [[main]]
-name = "Projet d'école"
-identifier = 'School Project'
-url = '/efia-projet-ecole-2025-2028.pdf'
-parent = 'About us'
-weight = 125
+name = "Gouvernance et rapports"
+parent = "nav0"
+url = "/fr/about/governance/"
+weight = 4
 
 [[main]]
-name = 'Organigramme'
-identifier = 'Organisational Chart'
-url = '/efia_org_chart_fr_term_2_2026.pdf'
-parent = 'About us'
-weight = 127
-
-[[main]]
-name = "Conseil d'administration"
-identifier = 'Board of Trustees'
-pageRef = '/about/board-of-trustees'
-parent = 'About us'
-weight = 128
-
-[[main]]
-name = "L'équipe"
-identifier = 'Our team'
-pageRef = '/about/team'
-parent = 'About us'
-weight = 130
-
-[[main]]
-name = "Nos installations"
-identifier = 'Premises'
-pageRef = '/about/premises'
-parent = 'About us'
-weight = 140
-
-[[main]]
-name = "École Enviro"
-identifier = 'Enviroschool'
-pageRef = '/about/enviroschool'
-parent = 'About us'
-weight = 145
-
-[[main]]
-name = "Inspection ERO"
-identifier = 'ERO Inspection'
-pageRef = '/about/ero-inspection'
-parent = 'About us'
-weight = 150
-
-[[main]]
-name = 'Témoignages'
-identifier = 'Testimonials'
-pageRef = '/about/testimonials'
-parent = 'About us'
-weight = 160
-
-[[main]]
-name = "Le modèle 'Charter School'"
-identifier = 'The Charter School Model'
-url = '/efia_and_the_charter_school_model.pdf'
-parent = 'About us'
-weight = 165
-
-[[main]]
-name = "FAQ"
-identifier = 'FAQ'
-pageRef = '/about/faq'
-parent = 'About us'
-weight = 170
-
-
-############################################
-[[main]]
-name = 'Programme'
-identifier = 'Learning'
-pageRef = '/learning'
+name = "Pédagogie"
+identifier = "nav1"
+url = "/fr/learning/"
 weight = 200
 
 [[main]]
-name = 'Le programme français'
-identifier = 'The French Curriculum'
-pageRef = '/learning/french-curriculum'
-parent = 'Learning'
-weight = 210
+name = "Programme"
+parent = "nav1"
+url = "/fr/learning/french-curriculum/"
+weight = 1
 
 [[main]]
-name = 'Les professeurs présentent notre programme'
-identifier = 'Teachers Present Our Program'
-pageRef = '/learning/teachers-present-our-programme'
-parent = 'Learning'
-weight = 220
-
-[[main]]
-name = 'Les atouts du bilinguisme'
-identifier = 'The Advantages of Bilingualism'
-pageRef = '/learning/bilingualism'
-parent = 'Learning'
-weight = 230
+name = "Bilinguisme"
+parent = "nav1"
+url = "/fr/learning/bilingualism/"
+weight = 2
 
 [[main]]
 name = "Homologation AEFE"
-identifier = 'AEFE Accreditation'
-pageRef = '/learning/aefe'
-parent = 'Learning'
-weight = 240
+parent = "nav1"
+url = "/fr/learning/aefe/"
+weight = 3
 
 [[main]]
-name = 'Compétitions'
-identifier = 'Competitions'
-pageRef = '/learning/competitions'
-parent = 'Learning'
-weight = 250
+name = "Activités et sport"
+parent = "nav1"
+url = "/fr/sports/"
+weight = 4
 
 [[main]]
-name = "Ressources supplémentaires"
-identifier = 'Additional Resources'
-pageRef = '/learning/additional-resources'
-parent = 'Learning'
-weight = 260
-
-
-############################################
-[[main]]
-name = 'Vie des élèves'
-identifier = 'School Life'
-pageRef = '/school-life'
+name = "Parents"
+identifier = "nav2"
+url = "/fr/school-life/"
 weight = 300
 
 [[main]]
-name = 'Calendrier scolaire et horaires'
-identifier = 'Term Dates & School Times'
-pageRef = '/school-life/term-dates-and-school-times'
-parent = 'School Life'
-weight = 310
+name = "Calendrier et horaires"
+parent = "nav2"
+url = "/fr/school-life/term-dates-and-school-times/"
+weight = 1
 
 [[main]]
-name = 'Uniforme scolaire'
-identifier = 'School Uniform'
-pageRef = '/school-life/school-uniform'
-parent = 'School Life'
-weight = 320
+name = "Uniforme et fournitures"
+parent = "nav2"
+url = "/fr/school-life/uniform-and-supplies/"
+weight = 3
 
 [[main]]
-name = 'Fournitures scolaires'
-identifier = 'School Supplies'
-url = 'https://www.myschool.co.nz/ECOLE'
-parent = 'School Life'
-weight = 325
+name = "Avant et après l’école"
+parent = "nav2"
+url = "/fr/school-life/before-and-after-school/"
+weight = 4
 
 [[main]]
-name = 'Ordinateur portable (AVEC)'
-identifier = 'Bring Your Own Device'
-pageRef = '/school-life/byod'
-parent = 'School Life'
-weight = 327
+name = "Politiques et accompagnement"
+parent = "nav2"
+url = "/fr/school-life/policies-and-procedures/"
+weight = 5
 
 [[main]]
-name = 'Politiques et procédures'
-identifier = 'Policies and Procedures'
-pageRef = '/school-life/policies-and-procedures'
-parent = 'School Life'
-weight = 340
-
-[[main]]
-name = "Dons"
-identifier = 'Donations'
-pageRef = '/school-life/donations'
-parent = 'School Life'
-weight = 350
-
-# [[main]]
-# name = "Goodies"
-# identifier = 'Goodies'
-# pageRef = '/school-life/goodies'
-# parent = 'School Life'
-# weight = 355
-
-[[main]]
-name = "Activités périscolaires"
-identifier = 'Before- and After-School'
-pageRef = '/school-life/before-and-after-school'
-parent = 'School Life'
-weight = 360
-
-[[main]]
-name = "Programme de vacances pour enfants"
-identifier = 'Children Holiday Programme'
-pageRef = '/school-life/children-holiday-programme'
-parent = 'School Life'
-weight = 370
-
-[[main]]
-name = "Adhésion Alliance Française"
-identifier = 'Alliance Française Auckland Membership'
-pageRef = '/school-life/afa-membership'
-parent = 'School Life'
-weight = 380
-
-[[main]]
-name = "Actualités"
-identifier = 'News'
-pageRef = '/school-life/news'
-parent = 'School Life'
-weight = 395
-
-
-############################################
-[[main]]
-name = 'Sport'
-identifier = 'Sports'
-pageRef = '/sports'
+name = "Admissions"
+identifier = "nav3"
+url = "/fr/admissions/"
 weight = 400
 
 [[main]]
-name = 'Remuera Rackets Club'
-identifier = 'Remuera Rackets Club'
-pageRef = '/sports/remuera-rackets-club'
-parent = 'Sports'
-weight = 410
+name = "Comment s’inscrire"
+parent = "nav3"
+url = "/fr/enrolment/"
+weight = 1
 
 [[main]]
-name = 'Les Mills – Born to Move'
-identifier = 'Les Mills – Born to Move'
-pageRef = '/sports/les-mills-born-to-move'
-parent = 'Sports'
-weight = 420
+name = "Élèves internationaux"
+parent = "nav3"
+url = "/fr/international-students/"
+weight = 2
 
 [[main]]
-name = 'Sécurité aquatique et techniques de survie'
-identifier = 'Water Safety Awareness & Survival Skills'
-pageRef = '/sports/water-safety'
-parent = 'Sports'
-weight = 430
+name = "Coûts et préparation"
+parent = "nav3"
+url = "/fr/admissions/costs/"
+weight = 3
 
-
-############################################
 [[main]]
-name = 'Inscription'
-identifier = 'Enrolment'
-pageRef = '/enrolment'
+name = "Questions fréquentes"
+parent = "nav3"
+url = "/fr/about/faq/"
+weight = 4
+
+[[main]]
+name = "Communauté"
+identifier = "nav4"
+url = "/fr/community/"
 weight = 500
 
-
-############################################
 [[main]]
-name = 'Élèves internationaux'
-identifier = 'International Students'
-pageRef = '/international-students'
-weight = 600
+name = "Actualités et lettres d’information"
+parent = "nav4"
+url = "/fr/school-life/news/"
+weight = 1
 
-############################################
 [[main]]
-name = 'Recrutement'
-identifier = 'Recruitment'
-pageRef = '/recruitment'
-weight = 700
+name = "Alliance Française"
+parent = "nav4"
+url = "/fr/school-life/afa-membership/"
+weight = 2
 
-############################################
 [[main]]
-name = 'Contact'
-identifier = 'Contact us'
-pageRef = '/contact'
-weight = 800
+name = "Soutenir notre école"
+parent = "nav4"
+url = "/fr/school-life/donations/"
+weight = 3
+
+[[main]]
+name = "Paroles de familles"
+parent = "nav0"
+url = "/fr/about/testimonials/"
+weight = 5
+
+[[main]]
+name = "Enviroschool"
+parent = "nav0"
+url = "/fr/about/enviroschool/"
+weight = 6
+
+[[main]]
+name = "Nous rejoindre"
+parent = "nav0"
+url = "/fr/recruitment/"
+weight = 7
+
+[[main]]
+name = "Dans la classe"
+parent = "nav1"
+url = "/fr/learning/teachers-present-our-programme/"
+weight = 5
+
+[[main]]
+name = "Ressources pédagogiques"
+parent = "nav1"
+url = "/fr/learning/additional-resources/"
+weight = 6
+
+[[main]]
+name = "Programmes de vacances"
+parent = "nav2"
+url = "/fr/school-life/children-holiday-programme/"
+weight = 6

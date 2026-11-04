@@ -1,3 +1,4 @@
+{{ if .Site.Params.staffPreview }}<meta name="robots" content="noindex, nofollow, noarchive">{{ end }}
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta name="author" content="{{ range .Site.Params.author }}{{ . }}{{ end }}">
@@ -42,3 +43,5 @@
     {{ $pagestyle := resources.Get . | minify | fingerprint "sha512" }}
     <link rel="stylesheet" href="{{ $pagestyle.RelPermalink }}" integrity="{{ $pagestyle.Data.Integrity }}">
 {{- end }}
+
+<noscript><style>.main-navigation{display:flex}.menu-toggle,.submenu-toggle,.search-toggle{display:none}</style></noscript>

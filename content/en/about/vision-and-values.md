@@ -1,5 +1,5 @@
 +++
-title = 'Vision & Values'
+title = "Vision & values"
 date = 2024-05-09T09:47:42+12:00
 hero = "/images/efia-banner.jpg"
 bannerHeight = "450px"
@@ -9,21 +9,21 @@ bannerHeight = "450px"
 
 The school was selected as one of the first seven Charter schools in New Zealand, following a rigorous selection process. Compliance with the Charter School Agency’s requirements is monitored through the [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_17_06.pdf). Please consult the [Charter School Agency website](https://www.charterschools.govt.nz/) for more information.
 
-Please read our [School Community Engagement Policy](/school_community_engagement_policy_v1_05_02_2026.pdf).
+Please read our [School Community Engagement Policy](/en/documents/school-life/school-community-engagement-policy-v1-05-02-2026.pdf).
 
-### Vision
+## Vision
 
 To offer every student educational excellence as well as cultural openness via a multilingual learning environment that fosters knowledge, reflection, creativity, independence, social commitment, community spirit and a strong sense of citizenship.
 
 The school also takes into account the New Zealand Statement of National Education and Learning Priorities (NELP): learners at the centre, barrier-free access, quality teaching and leadership, future of learning and work and world-class inclusive public education. These priorities are also an integral part of the French education ideal and at the centre of our vision, policies and educational strategies.
 
-### Our Motto
+## Our Motto
 
 > "One school, two languages, a world to explore"
 
 We aspire to offer every student educational excellence as well as cultural openness via a multilingual learning environment that fosters knowledge, reflection, creativity, independence, social commitment, community spirit and a strong sense of citizenship.
 
-### Values
+## Values
 
 Our school's ethos is grounded in key principles that reflect our values and practices. These principles form the foundation of our students' education and prepare them to become global citizens:
 
@@ -36,7 +36,7 @@ Our school's ethos is grounded in key principles that reflect our values and pra
 
 This is a unique educational opportunity in New Zealand, allowing students to seamlessly transition between the French and New Zealand mainstream curriculums at any point.
 
-### Parents' Role
+## Parents' Role
 
 In the French education system, parents play an important role in the life and governance of schools through a formal system of elected parent representatives and participation in school committees. Each year, parents participate in a structured and regulated election process to choose parent representatives. These representatives act as official interlocutors between families and the school leadership. They ensure that the perspectives and concerns of families are communicated to the school and help maintain an open and constructive dialogue between parents and teachers.
 

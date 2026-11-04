@@ -1,0 +1,5 @@
+{{ if .IsHome }}{{ partial "design/home.html" . }}{{ else }}
+{{ partial "page-heading.html" . }}
+{{ if .Params.design }}<div class="shell page-body">{{ partial (printf "design/%s.html" .Params.design) . }}</div>{{ else }}
+<div class="shell article-layout page-body">{{ if and .Params.toc (gt (len .Fragments.Headings) 0) }}<aside class="contents"><p class="eyebrow">{{ (index hugo.Data.interface .Lang).onpage }}</p>{{ .TableOfContents }}</aside>{{ end }}<article class="prose">{{ .Content }}</article></div>
+{{ end }}{{ partial "related.html" . }}{{ end }}

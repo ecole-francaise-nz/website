@@ -1,11 +1,11 @@
 +++
-title = 'Dons'
+title = "Soutenir notre école"
 hero = "/images/donations-banner.jpg"
 bannerHeight = "450px"
 date = 2025-01-11T12:24:00+12:00
 +++
 
-### Soutenez Notre École Grâce à Vos Dons
+## Soutenez Notre École Grâce à Vos Dons
 
 Notre Conseil d’Administration accorde une grande importance à votre généreux soutien, qui nous aide à concrétiser notre vision d’une éducation primaire exceptionnelle. Bien que le financement de la Charter School Agency constitue une base solide, vos contributions comblent les écarts, permettant de créer un environnement d’apprentissage dynamique, stimulant et inclusif pour tous les élèves.
 

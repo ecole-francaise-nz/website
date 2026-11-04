@@ -1,8 +1,9 @@
-+++
-title = 'Les atouts du bilinguisme'
-hero = "/images/bilinguism-banner.jpg"
-bannerHeight = "450px"
-+++
+{
+  "title": "Bilinguisme",
+  "hero": "/images/bilinguism-banner.jpg",
+  "bannerHeight": "450px",
+  "toc": true
+}
 
 L'un des principaux avantages d'une éducation bilingue est le boost cognitif qu'elle apporte aux enfants.
 
@@ -14,7 +15,7 @@ L'éducation bilingue va au-delà de l'acquisition linguistique et du développe
 
 ## Références bibliographiques
 
-Les références suivantes sont citées à la [page 10 de notre rapport annuel 2025](/efia_annual_report_2025.pdf#page=10) (en anglais)&nbsp;:
+Les références suivantes sont citées à la [page 10 de notre rapport annuel 2025](/en/documents/governance/efia-annual-report-2025.pdf#page=10) (en anglais)&nbsp;:
 
 - Oberc, K. A., Vettori, G., Bigozzi, L., & Filippi, R. (2025). [Effects of Italian/English bilingual education on cognitive development: A pilot study](https://doi.org/10.1177/13670069251358100). *International Journal of Bilingualism*, 1–22.
 - Chamorro, G., & Janke, V. (2022). [Investigating the bilingual advantage: The impact of L2 exposure on the social and cognitive skills of monolingually-raised children in bilingual education](https://doi.org/10.1080/13670050.2020.1799323). *International Journal of Bilingual Education and Bilingualism*, 25(5), 1765–1781.

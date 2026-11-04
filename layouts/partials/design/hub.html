@@ -1,0 +1,4 @@
+{{ $ui := index hugo.Data.interface .Lang }}
+<div class="card-grid">{{ range .Params.cards }}{{ partial "card.html" (merge . (dict "site" $.Site "externalLabel" $ui.external)) }}{{ end }}</div>
+{{ with .Content }}<article class="prose hub-detail">{{ . }}</article>{{ end }}
+{{ with .Params.see_also }}<aside class="hub-see-also" aria-labelledby="hub-see-also-title"><h2 id="hub-see-also-title">{{ $ui.seeAlso }}</h2><ul>{{ range . }}<li><a href="{{ .url }}">{{ partial "link-title.html" (merge . (dict "site" $.Site)) }} <span aria-hidden="true">→</span></a>{{ with .description }}<p>{{ . }}</p>{{ end }}</li>{{ end }}</ul></aside>{{ end }}

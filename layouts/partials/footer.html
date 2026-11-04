@@ -1,9 +1,2 @@
-<footer class="navbar-dark border-top pt-1">
-    <div class="container">
-        <div class="row">
-            <div class="me-auto mb-1" style="color: #ddf; text-align: center;">
-                {{ .Site.Title }} &copy; {{ now.Format "2006" }} {{ range .Site.Params.author }}{{ . }}{{ end }}<br/>
-            </div>
-        </div>
-    </div>
-</footer>
+{{ $ui := index hugo.Data.interface .Lang }}<footer class="site-footer"><div class="shell"><div class="footer-top"><div><p class="eyebrow">École Française Internationale Auckland</p><h2>{{ $ui.talk }}</h2><p>{{ $ui.talkbody }}</p><a class="button button-light" href="{{ "/contact/" | relLangURL }}">{{ $ui.contact }} <span aria-hidden="true">→</span></a></div><address><strong>{{ $ui.visit }}</strong><p>{{ $ui.address }}</p><a href="mailto:contact@ecole-francaise.nz">contact@ecole-francaise.nz</a><a href="tel:+6492424442">09 24 24 442</a><span>{{ $ui.hours }}</span></address></div><div class="footer-bottom"><span>© {{ now.Year }} EFIA</span><nav aria-label="{{ if eq .Lang "fr" }}Liens utiles{{ else }}Useful links{{ end }}"><a href="{{ "/about/governance/" | relLangURL }}">{{ $ui.governance }}</a><a href="{{ "/school-life/policies-and-procedures/" | relLangURL }}">{{ $ui.policy }}</a><a href="{{ "/recruitment/" | relLangURL }}">{{ $ui.recruitment }}</a><a href="https://www.instagram.com/ecolefrancaiseauckland/">Instagram ↗</a><a href="https://www.facebook.com/profile.php?id=61573552256605">Facebook ↗</a></nav></div></div></footer>
+<dialog class="lightbox" id="photo-dialog" aria-label="{{ $ui.gallery }}"><div class="lightbox-toolbar"><p id="photo-counter" aria-live="polite"></p><button type="button" class="lightbox-close" aria-label="{{ $ui.close }}">{{ $ui.close }} ×</button></div><div class="lightbox-stage"><button type="button" class="lightbox-prev" aria-label="{{ $ui.previous }}">←</button><img id="lightbox-image" alt=""><button type="button" class="lightbox-next" aria-label="{{ $ui.nextphoto }}">→</button></div><p id="photo-caption" aria-live="polite"></p></dialog>

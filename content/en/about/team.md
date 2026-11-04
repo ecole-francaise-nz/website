@@ -1,9 +1,117 @@
-+++
-title = 'Team'
-hero = "/images/efia-teacher.jpg"
-bannerHeight = "450px"
-date = 2024-05-09T09:47:33+12:00
-+++
+{
+  "title": "Meet our team",
+  "hero": "/images/efia-teacher.jpg",
+  "bannerHeight": "450px",
+  "date": "2024-05-09 09:47:33+12:00",
+  "design": "team",
+  "description": "Different backgrounds. A shared passion for helping children learn and grow.",
+  "groups": [
+    {
+      "id": "teachers",
+      "title": "Teachers",
+      "people": [
+        {
+          "name": "Élodie Rodriguez",
+          "role": "Acting Principal",
+          "image": "team/elodie-r.jpg",
+          "intro": "Kia ora and welcome. As Acting Principal, I combine a strong background in educational leadership with a lifelong passion for physical education. I am passionate about blending the academic richness of the French curriculum with the strengths of the New Zealand framework, drawing on my specific expertise in social and emotional learning. I am deeply committed to inclusive education, working collaboratively with our whānau and staff to ensure every child is supported to thrive both academically and personally.",
+          "portrait": "elodie-r"
+        },
+        {
+          "name": "Paul B.",
+          "role": "Teacher",
+          "image": "team/paul-b.jpg",
+          "intro": "A passion for science, language and sharing knowledge.",
+          "portrait": "paul-b"
+        },
+        {
+          "name": "Makbule K.",
+          "role": "Teacher",
+          "image": "team/makbule-k.jpg",
+          "intro": "A love of languages and an inclusive approach to learning.",
+          "portrait": "makbule-k"
+        },
+        {
+          "name": "Ilona K.",
+          "role": "Teacher",
+          "image": "team/ilona-k.jpg",
+          "intro": "International teaching experience and a focus on each child’s development.",
+          "portrait": "ilona-k"
+        },
+        {
+          "name": "Mathilde B.",
+          "role": "Teacher",
+          "initials": "MB"
+        },
+        {
+          "name": "Sarah C.",
+          "role": "Teacher",
+          "initials": "SC",
+          "intro": "My approach is rooted in self-confidence and a positive sense of community. I prioritise art and creativity as tools for self-expression, personal growth and learning."
+        },
+        {
+          "name": "Codie K.",
+          "role": "Teacher",
+          "initials": "CK"
+        }
+      ]
+    },
+    {
+      "id": "teacher-aides",
+      "title": "Teacher aides",
+      "people": [
+        {
+          "name": "Antoine C.",
+          "role": "Teacher aide",
+          "initials": "AC"
+        },
+        {
+          "name": "Alice B.",
+          "role": "Teacher aide",
+          "initials": "AB"
+        }
+      ]
+    },
+    {
+      "id": "fle",
+      "title": "French as a Foreign Language (FLE)",
+      "people": [
+        {
+          "name": "Anne-Sophie L.",
+          "role": "FLE teacher",
+          "initials": "AL",
+          "intro": "Alliance Française Auckland"
+        }
+      ]
+    },
+    {
+      "id": "administration",
+      "title": "Admin",
+      "people": [
+        {
+          "name": "Victoire P.",
+          "role": "Admin officer",
+          "initials": "VP"
+        }
+      ]
+    },
+    {
+      "id": "it",
+      "title": "I.T.",
+      "people": [
+        {
+          "name": "Aurélien G.",
+          "role": "I.T. manager",
+          "initials": "AG",
+          "image": "team/aurelien-g.jpeg",
+          "portrait": "aurelien-g",
+          "imageResize": "480x",
+          "intro": "I help keep the school’s technology running smoothly, supporting our team and families with practical, reliable digital tools."
+        }
+      ]
+    }
+  ]
+}
 
 ## High-Quality Teaching Team and Native Speakers
 
@@ -16,54 +124,3 @@ All of our teachers hold **qualifications recognised by the Ministries of Educat
 Some of our teachers not only have experience teaching in France but have also lived in New Zealand for many years and have taught here, making them familiar with the New Zealand curriculum and pedagogy.
 
 👉**[AEFE](/learning/aefe) accreditation** (from the Overseas French Schools Agency) includes a review process to ensure the teaching staff have the necessary qualifications and experience to teach the French curriculum, providing parents with a guarantee of quality.
-
-
-## Meet the team
-
-
-**Stéphanie Layec: Principal & teacher**
-
-![Stéphanie Layec](/images/Stephanie-Layec.jpg "Stéphanie Layec")
-
-> **Born into biculturalism** with an English mother and a French father, I have been a teacher for many years, initially in France and now in New Zealand since 2016.
-> In addition to a French master’s in education, I hold a bachelor’s degree in international business administration from a top French business school. I worked in the corporate sector in sales and logistics before turning to teaching. I have extensive experience working with international students in large NZ schools, as Head of ESOL and Dean of International Students.
-> Education is what lights my fire. **I believe in the power of education to transform lives** and open pathways to freedom. I am ecstatic to be part of the EFIA adventure where we strive to offer the best of two worlds, delivering the highly academic and rigorous French curriculum with a distinctive Kiwi flavour.
-
-
-**Élodie Rodriguez: Deputy Principal & teacher**
-
-![Élodie Rodriguez](/images/Elodie-Rodriguez-2.jpg "Élodie Rodriguez")
-
-> I hold a Master of Education and began my career as a Physical Education teacher in high school in France. In 2018, I chose to embark on an exciting journey to New Zealand, a country that had long inspired me with its vibrant culture and stunning natural beauty. Today, I am proud to call New Zealand my home.
-> As a registered and qualified teacher, I have gained extensive experience in New Zealand’s education sector, working as both a classroom teacher and a head teacher (team leader). In addition to teaching, I am deeply passionate about fitness. 
-> For the past 15 years, I have been a Les Mills instructor, teaching classes at various clubs, primarily at Les Mills Auckland City. I recently embarked on a new adventure combining my creativity with my teaching practice. I am writing an educational book for children and developing different learning materials through stories and music.
-> I am truly honored to be part of École Française Internationale Auckland. This is a wonderful opportunity to promote biculturalism while providing children with the chance to discover and learn a new language.
-
-
-**Paul Barrier: Teacher**
-
-![Paul Barrier](/images/Paul-Barrier.jpg "Paul Barrier")
-
-> I'm Paul, a young teacher **passionate about knowledge transmission and sciences**.
-> At 28 years old, I dedicate myself enthusiastically to educating young minds as a school teacher. My goal is to create a dynamic and interactive learning environment where each student can flourish and discover the richness of the French language and culture.
-> I have been **in charge of FLAM** (French as a Mother Tongue) **and FLE** (French as a Foreign Language) **classes at the Alliance Française** for the past two years. I am thrilled to have been working at the French school and teaching the French curriculum at the primary level since 2025.
-
-
-**Makbule Karagoz**
-
-![Makbule Karagoz](/images/Makbule-Karagoz.jpg "Makbule Karagoz")
-
-> Kia ora!
-> I'm Ms Makbule Karagoz. I'm thrilled to be part of École Française and to bring my love of languages and diverse cultures into our classroom. Born in Cyprus and having lived in Turkey, France, and Australia before calling New Zealand home, I've experienced firsthand how powerful multilingual learning environments can be for our tamariki.
-> Children are my passion, and I believe every child has something amazing inside them just waiting to come out. I love seeing them thrive when they feel safe to be curious, make mistakes, and discover what they're capable of. My classroom is a place where we celebrate different ways of learning, work together, and support each other's growth.
-
-
-**Ilona Koelsch**
-
-![Ilona Koelsch](/images/Ilona-Koelsch.jpg "Ilona Koelsch")
-
-> Kia ora, my name is Ilona Koelsch and I am happy to be part of the team at the Auckland French International School.
-> I hold a degree as a teacher of French as a Foreign Language and Russian, and I am delighted to be part of the team at the French International School of Auckland.
-> I also hold a Master’s degree in International Tourism Economics from Toulouse. Although I worked in this field for several years, every opportunity I had to return to a school environment confirmed that this is truly where I belong. Being in contact with students and supporting their learning is what deeply motivates me.
-> Over the past fifteen years, I have lived and worked in several countries — France, Norway, French Polynesia, and now New Zealand — which has allowed me to work with students from diverse cultural and linguistic backgrounds. More recently, my growing interest in primary education led me to prepare for the CRPE (French primary teaching qualification) in French Polynesia.
-> As a mother of two, I place great importance on understanding and supporting each child, so that they feel confident and can develop at their own pace.

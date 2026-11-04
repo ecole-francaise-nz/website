@@ -1,14 +1,27 @@
-+++
-title = 'The French Curriculum'
-hero = "/images/french-curriculum-banner.jpg"
-bannerHeight = "450px"
-+++
+{
+  "title": "Curriculum",
+  "hero": "/images/french-curriculum-banner.jpg",
+  "bannerHeight": "450px",
+  "description": "The French curriculum is taught in French and English, enriched by New Zealand’s context and teaching approaches.",
+  "toc": true
+}
 
-EFIA is a bilingual international school offering a high-quality French curriculum, enriched by New Zealand's curriculum and pedagogical approaches. It is a primary school (i.e., years 1 to 6).
+## Year levels at EFIA
 
-Below is a comparative presentation of the French and New Zealand class level correspondences:
+| French level | New Zealand level | Availability |
+| --- | --- | --- |
+| Grande Section | Year 0 / 1 | 2026 |
+| CP | Year 2 | 2026 |
+| CE1 | Year 3 | 2026 |
+| CE2 | Year 4 | 2026 |
+| CM1 | Year 5 | 2026 |
+| CM2 | Year 6 | 2027 |
 
-![Curriculum Comparison](/images/french-nz-curriculums.png "Comparison Between the French and New Zealand Curriculums")
+[Starting school in Year 0 and Year 1](/enrolment/).
+
+[View the full comparison chart](/images/french-nz-curriculums.png).
+
+## Cycle 1 · Grande Section
 
 In the French curriculum, education is organised into five learning areas during the 1st Cycle (Grande section / Year 0/1):
 
@@ -17,6 +30,8 @@ In the French curriculum, education is organised into five learning areas during
 3. To act, to express, to understand through artistic activities
 4. To build the first tools to structure thought
 5. To explore the world
+
+## From Cycle 2
 
 From Cycle 2 on, the curriculum is structured around five core domains that define the major educational goals:
 

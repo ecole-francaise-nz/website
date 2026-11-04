@@ -1,0 +1,11 @@
+{{- /* Resolve a link without treating external hosts or non-web schemes as local. */ -}}
+{{- $link := urls.Parse (.href | htmlUnescape) -}}
+{{- $url := "" -}}
+{{- $host := (urls.Parse site.BaseURL).Host -}}
+{{- if and (in (slice "" "http" "https") $link.Scheme) (in (slice "" $host "ecole-francaise.nz" "www.ecole-francaise.nz") $link.Host) -}}
+  {{- $url = $link.Path -}}
+  {{- if not $url }}{{ $url = .source }}{{ end -}}
+  {{- if not (hasPrefix $url "/") }}{{ $url = path.Join .source $url }}{{ end -}}
+  {{- if not (path.Ext $url) }}{{ $url = printf "%s/" (strings.TrimRight "/" $url) }}{{ end -}}
+{{- end -}}
+{{- return $url -}}

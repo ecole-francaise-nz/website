@@ -1,1 +1,1 @@
-<a href="{{ .Get "url" }}" onclick="return gtag_report_conversion('{{ .Get "url" }}');">{{ .Get "text" | markdownify }}</a>
+<a href="{{ .Get "url" }}" onclick="return gtag_report_conversion('{{ .Get "url" }}');">{{ .Get "text" | markdownify }}{{ if in (.Get "url") ".pdf" }} <span class="link-kind">PDF</span>{{ end }}</a>

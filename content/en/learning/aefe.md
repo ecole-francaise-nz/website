@@ -1,5 +1,5 @@
 +++
-title = 'AEFE Partner School'
+title = "AEFE accreditation"
 hideBannerTitle = true
 hero = "/images/aefe-banner2.jpg"
 bannerHeight = "450px"
@@ -13,4 +13,4 @@ All of these schools are accredited by the French Ministry of National Education
 
 As of 1 September 2026, École Française Internationale Auckland has [officially become an AEFE partner school](https://aefe.gouv.fr/fr/etablissements/ecole-francaise-internationale-auckland), earning French Ministry of Education accreditation for classes from Grande Section (Year 1) through to CE2 (Year 4).
 
-For more information about the AEFE, please read this document: [AEFE.pdf](/aefe.pdf).
+For more information about the AEFE, please read this document: [AEFE.pdf](/mul/documents/about/aefe.pdf).

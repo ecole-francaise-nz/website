@@ -1,0 +1,31 @@
+{{- $reachable := partialCached "search/reachable.html" . "site" -}}
+{{- $pages := slice -}}
+{{- $lang := .Lang -}}
+{{- range hugo.Sites -}}
+  {{- range .Pages -}}
+    {{- $include := eq .Lang $lang -}}
+    {{- if not $include -}}
+      {{- $include = true -}}
+      {{- range .Translations }}{{ if and (eq .Lang $lang) (isset $reachable .RelPermalink) }}{{ $include = false }}{{ end }}{{ end -}}
+    {{- end -}}
+    {{- if and $include (in (slice "page" "section" "home") .Kind) (isset $reachable .RelPermalink) (not .Params.redirectURL) (ne .Layout "pre-enrol") -}}
+      {{- $content := partialCached "search/page.html" . .RelPermalink -}}
+      {{- $pages = $pages | append (dict "title" .Title "url" .RelPermalink "language" .Lang "type" "page" "passages" $content.passages) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- range hugo.Data.documents -}}
+  {{- $document := . -}}
+  {{- $include := isset $reachable .url -}}
+  {{- if and $include .translationKey (ne .language $lang) -}}
+    {{- range hugo.Data.documents -}}
+      {{- if and (eq .translationKey $document.translationKey) (eq .language $lang) (isset $reachable .url) }}{{ $include = false }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $include -}}
+    {{- $text := index hugo.Data.pdf_text .url -}}
+    {{- if not $text }}{{ errorf "Missing PDF search text for %s; run scripts/index_pdfs.py" .url }}{{ end -}}
+    {{- $pages = $pages | append (dict "title" .title "url" .url "language" .language "type" "pdf" "passages" $text.passages) -}}
+  {{- end -}}
+{{- end -}}
+{{- dict "version" 1 "pages" $pages | jsonify -}}

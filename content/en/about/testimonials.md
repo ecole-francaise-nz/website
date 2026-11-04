@@ -1,8 +1,9 @@
-+++
-title = 'Testimonials'
-hero = "/images/chp2-banner.jpg"
-bannerHeight = "450px"
-+++
+{
+  "title": "Family stories",
+  "hero": "/images/chp2-banner.jpg",
+  "bannerHeight": "450px",
+  "toc": true
+}
 
 Here's what parents had to say about our school:
 

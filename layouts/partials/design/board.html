@@ -1,0 +1,19 @@
+<div class="prose board-intro">{{ .Content }}</div>
+<div class="team-grid board-grid">
+  {{ range .Params.people }}
+  <article class="person-card board-card">
+    <div class="board-person-heading">
+      {{ if .image }}
+        {{ $portrait := resources.Get .image }}
+        <div class="person-portrait">
+          <img src="{{ $portrait.RelPermalink }}" alt="{{ .name }}" loading="lazy" decoding="async"{{ with .position }} style="object-position:{{ . }}"{{ end }}>
+        </div>
+      {{ else }}
+        <div class="person-portrait portrait-initials" aria-hidden="true">{{ .initials }}</div>
+      {{ end }}
+      <h2>{{ .name }}</h2>
+    </div>
+    <div class="prose board-bio"><p>{{ .bio }}</p></div>
+  </article>
+  {{ end }}
+</div>

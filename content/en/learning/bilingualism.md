@@ -1,8 +1,9 @@
-+++
-title = 'The Advantages of Bilingualism'
-hero = "/images/bilinguism-banner.jpg"
-bannerHeight = "450px"
-+++
+{
+  "title": "Bilingual learning",
+  "hero": "/images/bilinguism-banner.jpg",
+  "bannerHeight": "450px",
+  "toc": true
+}
 
 One of the primary advantages of a bilingual education is the cognitive boost it provides to children.
 
@@ -16,7 +17,7 @@ Studies have shown that bilingual students often outperform their monolingual co
 
 ## Research references
 
-The following references are cited on [page 10 of our 2025 annual report](/efia_annual_report_2025.pdf#page=10):
+The following references are cited on [page 10 of our 2025 annual report](/en/documents/governance/efia-annual-report-2025.pdf#page=10):
 
 - Oberc, K. A., Vettori, G., Bigozzi, L., & Filippi, R. (2025). [Effects of Italian/English bilingual education on cognitive development: A pilot study](https://doi.org/10.1177/13670069251358100). *International Journal of Bilingualism*, 1–22.
 - Chamorro, G., & Janke, V. (2022). [Investigating the bilingual advantage: The impact of L2 exposure on the social and cognitive skills of monolingually-raised children in bilingual education](https://doi.org/10.1080/13670050.2020.1799323). *International Journal of Bilingual Education and Bilingualism*, 25(5), 1765–1781.

@@ -1,5 +1,5 @@
 +++
-title = 'Établissement partenaire AEFE'
+title = "Homologation AEFE"
 hideBannerTitle = true
 hero = "/images/aefe-banner2.jpg"
 bannerHeight = "450px"
@@ -13,4 +13,4 @@ Tous ces établissements sont homologués par le ministère français de l’Éd
 
 Depuis le 1er septembre 2026, l’École Française Internationale Auckland est [devenue officiellement partenaire de l’AEFE](https://aefe.gouv.fr/fr/etablissements/ecole-francaise-internationale-auckland) et a obtenu l’homologation des classes de Grande Section (Y1) à CE2 (Y4).
 
-Pour plus d'informations sur l'AEFE, veuillez lire ce document : [AEFE.pdf](/aefe.pdf).
+Pour plus d'informations sur l'AEFE, veuillez lire ce document : [AEFE.pdf](/mul/documents/about/aefe.pdf).

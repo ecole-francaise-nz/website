@@ -1,0 +1,3 @@
+{{ $key := "about" }}{{ $path := .RelPermalink }}
+{{ if or (in $path "/learning/") (in $path "/sports/") }}{{ $key = "learning" }}{{ else if or (in $path "/admissions/") (in $path "/enrolment/") (in $path "/international-students/") (in $path "/faq/") }}{{ $key = "admissions" }}{{ else if or (in $path "/community/") (in $path "/news/") (in $path "/donations/") (in $path "/afa-membership/") }}{{ $key = "community" }}{{ else if in $path "/school-life/" }}{{ $key = "school-life" }}{{ end }}
+{{ return $key }}

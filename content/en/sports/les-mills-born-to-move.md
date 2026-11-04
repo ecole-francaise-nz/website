@@ -1,5 +1,5 @@
 +++
-title = 'Les Mills – BORN TO MOVE™'
+title = "Born to Move"
 hero = "/images/sports-banner.jpg"
 bannerHeight = "450px"
 +++

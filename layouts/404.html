@@ -1,10 +1,2 @@
-{{ define "title" }}
-{{ i18n "error404" }} &ndash; {{ .Site.Title }}
-{{ end }}
-
-{{ define "main" }}
-<div class="full-width-div" style="{{ with .Params.hero }}background: url('{{ . }}') no-repeat center center/cover;{{ end }} min-height: {{ or .Params.bannerHeight .Site.Params.bannerHeight }};">
-    <div class="background-dim"></div>
-    <div class="content avenir">{{ i18n "error404" }}</div>
-</div>
-{{ end }}
+{{ define "title" }}{{ i18n "error404" }} · {{ .Site.Title }}{{ end }}
+{{ define "main" }}<section class="page-heading"><div class="shell"><p class="eyebrow">404</p><h1>{{ if eq .Lang "fr" }}Cette page est introuvable.{{ else }}We couldn’t find that page.{{ end }}</h1><p class="page-intro">{{ if eq .Lang "fr" }}Retrouvez les informations utiles depuis l’accueil ou les informations parents.{{ else }}Find what you need from our homepage or parent information hub.{{ end }}</p></div></section><div class="shell page-body related-links"><a href="{{ .Site.Home.RelPermalink }}">{{ if eq .Lang "fr" }}Accueil{{ else }}Home{{ end }} →</a><a href="{{ "/school-life/" | relLangURL }}">Parents →</a></div>{{ end }}

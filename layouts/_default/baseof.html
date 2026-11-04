@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{.Site.Language.Lang }}">
     <head>
-        <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16951735311"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-16951735311'); </script>
         <meta charset="utf-8">
+        {{ if and hugo.IsProduction (not .Site.Params.staffPreview) }}
+        <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16951735311"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-16951735311'); </script>
         <script>
             function gtag_report_conversion(url) {
                 var callback = function () {if (typeof(url) != 'undefined') {window.location = url;}};
@@ -13,13 +14,16 @@
                 return false;
             }
         </script>
+        {{ else }}
+        <script>function gtag_report_conversion() { return true; }</script>
+        {{ end }}
         {{- partial "seo_schema" . -}}
         <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
         {{- partial "head.html" . -}}
     </head>
     <body>
         {{- partial "header.html" . -}}
-        <main role="main">
+        <main id="main-content" tabindex="-1">
         {{- block "main" . }}{{- end }}
         </main>
         {{- partial "footer.html" . -}}

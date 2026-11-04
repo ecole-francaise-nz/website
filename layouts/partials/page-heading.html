@@ -1,0 +1,3 @@
+{{ $ui := index hugo.Data.interface .Lang }}{{ $section := partial "section.html" . }}{{ $parent := .Site.GetPage $section }}
+<section class="page-heading"><div class="shell"><nav class="breadcrumbs" aria-label="{{ if eq .Lang "fr" }}Fil d’Ariane{{ else }}Breadcrumb{{ end }}"><a href="{{ .Site.Home.RelPermalink }}">{{ $ui.home }}</a>{{ if and $parent (ne $parent.RelPermalink .RelPermalink) }}<span aria-hidden="true">/</span><a href="{{ $parent.RelPermalink }}">{{ $parent.Title }}</a>{{ end }}<span aria-hidden="true">/</span><span aria-current="page">{{ .Title }}</span></nav>
+{{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}<h1>{{ .Title }}</h1>{{ with .Description }}<p class="page-intro">{{ . }}</p>{{ end }}</div></section>

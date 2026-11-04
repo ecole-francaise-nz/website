@@ -1,9 +1,117 @@
-+++
-title = "L'équipe"
-hero = "/images/efia-teacher.jpg"
-bannerHeight = "450px"
-date = 2024-05-09T09:47:33+12:00
-+++
+{
+  "title": "Notre équipe",
+  "hero": "/images/efia-teacher.jpg",
+  "bannerHeight": "450px",
+  "date": "2024-05-09 09:47:33+12:00",
+  "design": "team",
+  "description": "Des parcours variés, une même passion pour apprendre et faire grandir.",
+  "groups": [
+    {
+      "id": "teachers",
+      "title": "Enseignants",
+      "people": [
+        {
+          "name": "Élodie Rodriguez",
+          "role": "Directrice par intérim",
+          "image": "team/elodie-r.jpg",
+          "intro": "Kia ora et bienvenue. En tant que directrice par intérim, je m’appuie sur une solide expérience en direction d’établissement et sur une passion de toujours pour l’éducation physique. J’ai à cœur d’allier la richesse du programme français aux atouts du cadre éducatif néo-zélandais, en m’appuyant sur mon expertise en apprentissage social et émotionnel. Profondément attachée à une éducation inclusive, je travaille en étroite collaboration avec nos whānau (familles) et notre équipe pour que chaque enfant bénéficie de l’accompagnement nécessaire pour s’épanouir, tant sur le plan scolaire que personnel.",
+          "portrait": "elodie-r"
+        },
+        {
+          "name": "Paul B.",
+          "role": "Enseignant",
+          "image": "team/paul-b.jpg",
+          "intro": "Une passion pour les sciences, les langues et la transmission du savoir.",
+          "portrait": "paul-b"
+        },
+        {
+          "name": "Makbule K.",
+          "role": "Enseignante",
+          "image": "team/makbule-k.jpg",
+          "intro": "L’amour des langues et une approche inclusive des apprentissages.",
+          "portrait": "makbule-k"
+        },
+        {
+          "name": "Ilona K.",
+          "role": "Enseignante",
+          "image": "team/ilona-k.jpg",
+          "intro": "Une expérience internationale et une attention au développement de chaque enfant.",
+          "portrait": "ilona-k"
+        },
+        {
+          "name": "Mathilde B.",
+          "role": "Enseignante",
+          "initials": "MB"
+        },
+        {
+          "name": "Sarah C.",
+          "role": "Enseignante",
+          "initials": "SC",
+          "intro": "Mon approche repose sur la confiance individuelle et le bien-vivre ensemble. Je privilégie l’art et la créativité comme des leviers d’expression, d’épanouissement et d’apprentissage."
+        },
+        {
+          "name": "Codie K.",
+          "role": "Enseignante",
+          "initials": "CK"
+        }
+      ]
+    },
+    {
+      "id": "teacher-aides",
+      "title": "Aides-enseignants",
+      "people": [
+        {
+          "name": "Antoine C.",
+          "role": "Aide-enseignant",
+          "initials": "AC"
+        },
+        {
+          "name": "Alice B.",
+          "role": "Aide-enseignante",
+          "initials": "AB"
+        }
+      ]
+    },
+    {
+      "id": "fle",
+      "title": "Français langue étrangère (FLE)",
+      "people": [
+        {
+          "name": "Anne-Sophie L.",
+          "role": "Enseignante de FLE",
+          "initials": "AL",
+          "intro": "Alliance Française Auckland"
+        }
+      ]
+    },
+    {
+      "id": "administration",
+      "title": "Administration",
+      "people": [
+        {
+          "name": "Victoire P.",
+          "role": "Agente administrative",
+          "initials": "VP"
+        }
+      ]
+    },
+    {
+      "id": "it",
+      "title": "Informatique",
+      "people": [
+        {
+          "name": "Aurélien G.",
+          "role": "Responsable informatique",
+          "initials": "AG",
+          "image": "team/aurelien-g.jpeg",
+          "portrait": "aurelien-g",
+          "imageResize": "480x",
+          "intro": "Je veille au bon fonctionnement des outils numériques de l’école et accompagne l’équipe et les familles avec des solutions pratiques et fiables."
+        }
+      ]
+    }
+  ]
+}
 
 ## Équipe enseignante de haute qualité
 
@@ -16,53 +124,3 @@ Tous nos enseignants ont des **qualifications reconnues par les Ministères de l
 Certains de nos enseignants, en plus d'avoir une expérience d'enseignement en France, vivent en Nouvelle-Zélande depuis de nombreuses années et y ont enseigné, ce qui leur permet de bien connaître le programme et la pédagogie néo-zélandais.
 
 👉**L'[accréditation AEFE](/fr/learning/aefe)** (de l'Agence pour l'enseignement français à l'étranger) inclut un processus de validation pour s'assurer que le personnel enseignant possède les qualifications et l'expérience nécessaires pour enseigner le programme français, offrant ainsi aux parents une garantie de qualité.
-
-
-## Présentation de l'équipe
-
-
-**Stéphanie Layec : Directrice et professeure**
-
-![Stéphanie Layec](/images/Stephanie-Layec.jpg "Stéphanie Layec")
-
-> Bercée par **le bilinguisme depuis toujours**, avec un père français et une mère anglaise, **j’enseigne depuis de nombreuses années**, en France tout d’abord et en Nouvelle-Zélande depuis 2016.
-> Diplômée en commerce international, BBA ESSEC, j’ai occupé des fonctions en vente et logistique dans des groupes internationaux avant de me tourner vers l’éducation et devenir Professeur des Écoles. J’ai une vaste expérience de travail avec des élèves internationaux dans de grands établissements scolaires néo-zélandais, en tant que responsable du programme ESOL et des élèves internationaux.
-> **L’enseignement est devenu une passion** qui me fait vibrer et nourrit ma créativité. Je crois fondamentalement **au pouvoir de l’Éducation pour transformer des vies** et ouvrir des chemins de liberté. Je suis donc emballée de faire partie de l’aventure EFIA. Notre but est d’offrir aux familles qui nous font confiance le meilleur de deux mondes, avec **les programmes très rigoureux de l’Éducation Nationale Française, enrichis d’un parfum typiquement kiwi.**
-
-
-**Élodie Rodriguez : Directrice adjointe & enseignante**
-
-![Élodie Rodriguez](/images/Elodie-Rodriguez-2.jpg "Élodie Rodriguez")
-
-> Titulaire d’une maîtrise en éducation, j’ai commencé ma carrière en tant que professeur d’Éducation Physique et Sportive dans un collège en France. En 2018, j’ai choisi de me lancer dans un voyage passionnant en Nouvelle-Zélande, un pays qui m’a longtemps inspiré par sa culture dynamique et sa beauté naturelle époustouflante. Aujourd’hui, je suis fière d’appeler la Nouvelle-Zélande "home".
-> Enseignante qualifiée, j’ai acquis une vaste expérience dans le secteur de l’éducation néo-zélandais, travaillant à la fois comme enseignante en classe et comme professeur principal. En plus d’enseigner, je suis profondément passionnée par le fitness. Depuis 15 ans, je suis instructrice Les Mills, donnant des cours dans divers clubs, principalement à Les Mills Auckland City. Récemment, je me suis lancée dans l’aventure de combiner ma créativité avec ma profession d’enseignante en écrivant un livre d’éducation français/anglais et divers contenus d’apprentissage au travers d’histoires et de musiques.
-> Je suis vraiment honorée de faire partie de l’École Française Internationale Auckland. Il s’agit d’une merveilleuse occasion de promouvoir le biculturalisme tout en offrant aux enfants la chance de découvrir et d’apprendre une nouvelle langue.
-
-
-**Paul Barrier : Professeur**
-
-![Paul Barrier](/images/Paul-Barrier.jpg "Paul Barrier")
-
-> Je suis Paul, un **jeune enseignant passionné par la transmission du savoir et par les sciences**.
-> À 28 ans, je me consacre avec enthousiasme à l’éducation des jeunes esprits en tant que professeur des écoles. Mon objectif est de créer un environnement d’apprentissage dynamique et interactif où chaque élève peut s’épanouir et découvrir la richesse de la langue et de la culture françaises.
-> Je suis **en charge des cours de FLAM** (Français Langue Maternelle) **et de FLE** (Français Langue Étrangère) **à l'Alliance Française** depuis deux ans. Je suis ravi d'enseigner le programme français de primaire à l'EFIA depuis 2025.
-
-
-**Makbule Karagoz**
-
-![Makbule Karagoz](/images/Makbule-Karagoz.jpg "Makbule Karagoz")
-
->Kia ora&nbsp;!
->Je suis Makbule Karagoz. Je suis ravie de faire partie de l'École Française et d'apporter ma passion pour les langues et la diversité culturelle dans notre classe. Née à Chypre et ayant vécu en Turquie, en France et en Australie avant de faire de la Nouvelle-Zélande mon foyer, j'ai pu constater par moi-même à quel point les environnements d'apprentissage multilingues sont enrichissants pour nos tamariki.
-> Les enfants sont ma passion et je suis convaincue que chacun d'eux porte en lui un potentiel incroyable qui ne demande qu'à s'épanouir. J'aime les voir progresser lorsqu'ils se sentent en confiance pour faire preuve de curiosité, commettre des erreurs et découvrir de quoi ils sont capables. Ma classe est un lieu où nous valorisons les différentes manières d'apprendre, le travail d'équipe et l'entraide.
-
-
-**Ilona Koelsch**
-
-![Ilona Koelsch](/images/Ilona-Koelsch.jpg "Ilona Koelsch")
-
-> Bonjour, je suis Ilona Koelsch.
-> Diplômée professeure de français langue étrangère et de russe, je suis ravie de faire partie de l’équipe de l’École Française Internationale d’Auckland.
-> Je suis également titulaire d’un master en économie et politique du tourisme international, obtenu à Toulouse. Bien que j’aie exercé plusieurs années dans ce domaine, chaque retour en milieu scolaire m’a confirmé que c’était véritablement ma place. Être au contact des élèves et participer à leur apprentissage est ce qui me motive profondément.
-> Au cours des quinze dernières années, j’ai vécu et travaillé dans plusieurs pays — en France, en Norvège, en Polynésie française et aujourd’hui en Nouvelle-Zélande — ce qui m’a permis d’accompagner des élèves issus de cultures et de langues maternelles diverses. Plus récemment, mon intérêt pour l’enseignement de premier cycle m’a conduite à préparer le CRPE en Polynésie française.
-> Maman de deux enfants, j’accorde une grande importance à la compréhension et à l’accompagnement de chaque enfant, afin qu’il se sente en confiance et puisse évoluer à son rythme.

@@ -1,0 +1,6 @@
+{{- /* Use the destination title for navigational labels, retaining PDF/shop labels. */ -}}
+{{- $title := .title -}}
+{{- range where .site.Pages "RelPermalink" .url -}}
+  {{- $title = .Title -}}
+{{- end -}}
+{{- return $title -}}

@@ -1,14 +1,16 @@
-+++
-title = 'Enrolment'
-hero = "/images/efia-maison1.jpg"
-bannerHeight = "450px"
-+++
+{
+  "title": "How to enrol",
+  "hero": "/images/efia-maison1.jpg",
+  "bannerHeight": "450px",
+  "description": "Welcoming families of every nationality and every level of French.",
+  "toc": true
+}
 
 Enrolments are now open. Secure your child’s spot today:
 
-- 👉 {{< conversion-link url="https://ecole-francaise.nz/efia_application_form_2026_2030.pdf" text="Enrolment form">}}
+{{< conversion-link url="https://ecole-francaise.nz/en/documents/admissions/efia-application-form-2026-2030.pdf" text="Enrolment form">}}
 
-🔑 **Key Info**:
+## At a glance
 
 - **Location**: 127 & 131 Remuera Road, Remuera
 - **No zoning**: Students can live anywhere
@@ -18,7 +20,7 @@ Enrolments are now open. Secure your child’s spot today:
 - **Language**: We welcome all children, whether they already speak French or are new to the language
 - **Cost**: Tuition is free for all domestic students!
 
-Year 0/1
+## Starting school: Year 0 and Year 1
 
 * Children cannot start school before their fifth birthday.
 * Those who begin in Term 1 are enrolled in Year 1 (Y1).
@@ -26,3 +28,7 @@ Year 0/1
 * Children whose fifth birthday falls on or after 2 September will be considered for enrolment in Year 1 (Y1) the following year, unless places become available in Year 0.
 
 If you have any questions, please contact us by email at [contact@ecole-francaise.nz](mailto:contact@ecole-francaise.nz).
+
+## Getting ready
+
+Explore [costs and supplies](/admissions/costs/), [FAQs](/about/faq/), and information for [International students](/international-students/).

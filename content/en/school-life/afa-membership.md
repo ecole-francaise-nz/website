@@ -1,5 +1,5 @@
 +++
-title = 'Alliance Française Auckland Membership'
+title = "Alliance Française"
 hero = "/images/afa-membership-banner.jpg"
 bannerHeight = "450px"
 date = 2025-01-11T12:24:00+12:00
@@ -15,7 +15,7 @@ School families receive a free membership to the Alliance Française Auckland (A
 - Access to [private French lessons](https://www.alliance-francaise.co.nz/learn-french/private-tuition/), or [group French lessons for adults](https://www.alliance-francaise.co.nz/learn-french/adults/) and [for children](https://www.alliance-francaise.co.nz/learn-french/kids-and-teenagers/)
 - Access to preparation for the [DELF scolaire exams](https://www.alliance-francaise.co.nz/diplomas/adults/delf-dalf-tout-public/)
 
-# ⭐️⭐️⭐️ NEWS 2026! ⭐️⭐️⭐️
+## ⭐️⭐️⭐️ NEWS 2026! ⭐️⭐️⭐️
 
 **Exclusive Offer**
 

@@ -1,0 +1,59 @@
+{{- /* Traverse actual navigational links, never the sitemap, index or all files.
+      The visited set is global across both language homepages. */ -}}
+{{- $nodes := dict -}}
+{{- $aliases := dict -}}
+{{- $frontier := slice -}}
+{{- range hugo.Sites -}}
+  {{- $frontier = $frontier | append .Home.RelPermalink -}}
+  {{- range .Pages -}}
+    {{- if in (slice "page" "section" "home") .Kind -}}
+      {{- $page := . -}}
+      {{- $content := partialCached "search/page.html" . .RelPermalink -}}
+      {{- $html := printf "%s%s%s" (partial "header.html" .) $content.html (partial "footer.html" .) -}}
+      {{- $links := slice -}}
+      {{- range findRE `(?is)<a\b[^>]*\bhref="[^"]*"` $html -}}
+        {{- $href := replaceRE `(?is).*\bhref="([^"]*)".*` "$1" . -}}
+        {{- $link := partial "search/url.html" (dict "href" $href "source" $page.RelPermalink) -}}
+        {{- if $link }}{{ $links = $links | append $link }}{{ end -}}
+      {{- end -}}
+      {{- with .Params.redirectURL -}}
+        {{- $links = $links | append (partial "search/url.html" (dict "href" . "source" $page.RelPermalink)) -}}
+      {{- end -}}
+      {{- $nodes = merge $nodes (dict .RelPermalink $links) -}}
+      {{- range .Aliases -}}
+        {{- $aliases = merge $aliases (dict . $page.RelPermalink) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- range hugo.Data.documents -}}
+  {{- $document := . -}}
+  {{- $aliases = merge $aliases (dict .legacy .url) -}}
+  {{- range .aliases }}{{ $aliases = merge $aliases (dict . $document.url) }}{{ end -}}
+  {{- $links := slice -}}
+  {{- with index hugo.Data.pdf_text .url -}}
+    {{- range .links -}}
+      {{- $link := partial "search/url.html" (dict "href" . "source" (path.Dir $document.url)) -}}
+      {{- if $link }}{{ $links = $links | append $link }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $nodes = merge $nodes (dict .url $links) -}}
+{{- end -}}
+{{- $visited := dict -}}
+{{- range seq (add (len $nodes) 1) -}}
+  {{- if not $frontier }}{{ break }}{{ end -}}
+  {{- $next := slice -}}
+  {{- range $frontier -}}
+    {{- $url := . -}}
+    {{- with index $aliases $url }}{{ $url = . }}{{ end -}}
+    {{- if and (hasSuffix $url ".pdf") (not (isset $nodes $url)) (fileExists (printf "static%s" $url)) -}}
+      {{- errorf "Linked PDF %s needs an entry in data/documents.json and extraction with scripts/index_pdfs.py" $url -}}
+    {{- end -}}
+    {{- if and (isset $nodes $url) (not (isset $visited $url)) -}}
+      {{- $visited = merge $visited (dict $url true) -}}
+      {{- range index $nodes $url }}{{ $next = $next | append . }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $frontier = $next | uniq -}}
+{{- end -}}
+{{- return $visited -}}

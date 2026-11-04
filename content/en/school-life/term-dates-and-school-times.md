@@ -1,76 +1,151 @@
-+++
-title = 'Term Dates and School Times'
-hero = "/images/term-dates-banner.jpg"
-bannerHeight = "450px"
-date = 2025-01-11T12:24:00+12:00
-+++
-
-# School Times
-
-From 8:30 am to 3:00 pm, Monday to Friday.
-
-# 2026 Calendar
-
-### ☀️ Term 1: from Tuesday, 27 January 2026 to Thursday, 2 April 2026
-
-Public holiday:
-
-* Friday, 6 February 2026 (Waitangi Day)
-
-School holidays: from Friday, 3 April to Sunday, 19 April 2026.
-
-### 🍂 Term 2: from Monday, 20 April 2026 to Friday, 26 June 2026
-
-Public holidays:
-
-* Monday, 27 April 2026 (ANZAC Day)
-* Monday, 1 June 2026 (King's Birthday)
-
-School holidays: from Saturday, 27 June to Sunday, 19 July 2026.
-
-### 🌧️ Term 3: from Monday, 20 July 2026 to Friday, 25 September 2026
-
-School holidays: from Saturday, 26 September to Sunday, 11 October 2026.
-
-### 🌱 Term 4: from Monday, 12 October 2026 to Friday, 11 December 2026
-
-Public holiday:
-
-* Monday, 26 October 2026 (Labour Day)
-
-Summer holidays: from Saturday, 12 December 2026 to Tuesday, 2 February 2027.
-
-# 2027 Calendar
-
-### ☀️ Term 1: from Wednesday, 3 February to Friday, 9 April 2027
-
-Public holidays:
-
-* Monday, 8 February 2027 (Waitangi Day)
-* Friday, 26 March 2027 (Good Friday)
-* Monday, 29 March 2027 (Easter Monday)
-
-School holidays: from Saturday, 10 April to Monday, 26 April 2027 (note: Monday the 26th is a public holiday for ANZAC Day).
-
-### 🍂 Term 2: from Tuesday, 27 April to Friday, 2 July 2027
-
-Public holidays:
-
-* Monday, 7 June 2027 (King's Birthday)
-* Friday, 25 June 2027 (Matariki)
-
-2027 School holidays: from Saturday, 3 July to Sunday, 25 July 2027.
-
-### 🌧️ Term 3: from Monday, 26 July to Friday, 24 September 2027
-
-Public holidays: none.
-
-School holidays: from Saturday, 25 September to Sunday, 10 October 2027.
-
-### 🌱 Term 4: from Monday, 11 October to Tuesday, 14 December 2027
-
-Public holiday:
-
-* Monday, 25 October (Labour Day)
-
-Summer holidays: starting from Wednesday, 15 December 2027.
+{
+  "title": "School calendar & hours",
+  "hero": "/images/term-dates-banner.jpg",
+  "bannerHeight": "450px",
+  "date": "2025-01-11 12:24:00+12:00",
+  "design": "calendar",
+  "description": "School hours, term dates and holidays to help you plan your year.",
+  "years": [
+    {
+      "year": 2026,
+      "terms": [
+        {
+          "number": 1,
+          "start": "2026-01-27",
+          "end": "2026-04-02"
+        },
+        {
+          "number": 2,
+          "start": "2026-04-20",
+          "end": "2026-06-26"
+        },
+        {
+          "number": 3,
+          "start": "2026-07-20",
+          "end": "2026-09-25"
+        },
+        {
+          "number": 4,
+          "start": "2026-10-12",
+          "end": "2026-12-11"
+        }
+      ],
+      "publicHolidays": [
+        {
+          "name": "Waitangi Day",
+          "date": "2026-02-06"
+        },
+        {
+          "name": "ANZAC Day",
+          "date": "2026-04-27"
+        },
+        {
+          "name": "King’s Birthday",
+          "date": "2026-06-01"
+        },
+        {
+          "name": "Labour Day",
+          "date": "2026-10-26"
+        }
+      ],
+      "schoolHolidays": [
+        {
+          "name": "Autumn holidays",
+          "start": "2026-04-03",
+          "end": "2026-04-19"
+        },
+        {
+          "name": "Winter holidays",
+          "start": "2026-06-27",
+          "end": "2026-07-19"
+        },
+        {
+          "name": "Spring holidays",
+          "start": "2026-09-26",
+          "end": "2026-10-11"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2026-12-12",
+          "end": "2027-02-02"
+        }
+      ]
+    },
+    {
+      "year": 2027,
+      "terms": [
+        {
+          "number": 1,
+          "start": "2027-02-03",
+          "end": "2027-04-09"
+        },
+        {
+          "number": 2,
+          "start": "2027-04-27",
+          "end": "2027-07-02"
+        },
+        {
+          "number": 3,
+          "start": "2027-07-26",
+          "end": "2027-09-24"
+        },
+        {
+          "number": 4,
+          "start": "2027-10-11",
+          "end": "2027-12-14"
+        }
+      ],
+      "publicHolidays": [
+        {
+          "name": "Waitangi Day",
+          "date": "2027-02-08"
+        },
+        {
+          "name": "Good Friday",
+          "date": "2027-03-26"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "2027-03-29"
+        },
+        {
+          "name": "ANZAC Day",
+          "date": "2027-04-26"
+        },
+        {
+          "name": "King’s Birthday",
+          "date": "2027-06-07"
+        },
+        {
+          "name": "Matariki",
+          "date": "2027-06-25"
+        },
+        {
+          "name": "Labour Day",
+          "date": "2027-10-25"
+        }
+      ],
+      "schoolHolidays": [
+        {
+          "name": "Autumn holidays",
+          "start": "2027-04-10",
+          "end": "2027-04-26"
+        },
+        {
+          "name": "Winter holidays",
+          "start": "2027-07-03",
+          "end": "2027-07-25"
+        },
+        {
+          "name": "Spring holidays",
+          "start": "2027-09-25",
+          "end": "2027-10-10"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-12-15"
+        }
+      ]
+    }
+  ]
+}

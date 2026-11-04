@@ -1,11 +1,11 @@
 +++
-title = 'Activités périscolaires'
+title = "Avant et après l’école"
 hero = "/images/after-school-activities-banner.jpg"
 bannerHeight = "450px"
 date = 2025-01-11T12:24:00+12:00
 +++
 
-### Activités périscolaires organisées par l’Alliance française
+## Activités périscolaires organisées par l’Alliance française
 
 * Le programme avant-école (Before School) est proposé de 7 h 30 à 8 h 00 au 131 Remuera Road.
 

@@ -1,5 +1,5 @@
 +++
-title = 'Water Safety Awareness & Survival Skills'
+title = "Water safety"
 hero = "/images/sports-banner.jpg"
 bannerHeight = "450px"
 +++

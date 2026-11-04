@@ -1,8 +1,9 @@
-+++
-title = 'Témoignages'
-hero = "/images/chp2-banner.jpg"
-bannerHeight = "450px"
-+++
+{
+  "title": "Paroles de familles",
+  "hero": "/images/chp2-banner.jpg",
+  "bannerHeight": "450px",
+  "toc": true
+}
 
 Voici quelques témoignages de parents d'élèves&nbsp;:
 

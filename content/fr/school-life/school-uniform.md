@@ -1,44 +1,71 @@
-+++
-title = 'Uniforme scolaire'
-hero = "/images/term-dates-banner.jpg"
-bannerHeight = "450px"
-date = 2025-09-06T12:24:00+12:00
-+++
-
-# Uniforme scolaire
-Veuillez suivre le lien suivant afin d'[acheter l'uniforme scolaire](https://schooluniformcentre.co.nz/ecole-francaise-internationale-auckland-efia/).
-
-## Été
-
-Ceci est notre uniforme d'été&nbsp;:
-
-![Été 1](/images/uniforms/summer1.jpg "Été 1")
-
-![Été 2](/images/uniforms/summer2.jpg "Été 2")
-
-Et ceci est notre uniforme d'été pour l'EPS (éducation physique et sportive)&nbsp;:
-
-![Été EPS](/images/uniforms/summer_pe.jpg "Été EPS")
-
-
-## Hiver
-
-Voici nos uniformes d'hiver&nbsp;:
-
-![Hiver](/images/uniforms/winter.jpg "Hiver")
-
-![Hiver 1](/images/uniforms/winter1.jpg "Hiver 1")
-
-![Hiver 2](/images/uniforms/winter2.jpg "Hiver 2")
-
-![Hiver 3](/images/uniforms/winter3.jpg "Hiver 3")
-
-![Hiver 4](/images/uniforms/winter4.jpg "Hiver 4")
-
-Et ceci est notre uniforme d'hiver pour l'EPS&nbsp;:
-
-![Hiver PE](/images/uniforms/winter_pe.jpg "Hiver PE")
-
-Enfin, voici notre imperméable&nbsp;:
-
-![Imperméable](/images/uniforms/raincoat.jpg "Imperméable")
+{
+  "title": "Uniforme scolaire",
+  "design": "uniform",
+  "description": "Les tenues de l’école, en images. Choisissez une photo pour l’agrandir.",
+  "groups": [
+    {
+      "title": "Été",
+      "id": "summer",
+      "images": [
+        {
+          "src": "/images/uniforms/summer1.jpg",
+          "caption": "Été · 1"
+        },
+        {
+          "src": "/images/uniforms/summer2.jpg",
+          "caption": "Été · 2"
+        }
+      ]
+    },
+    {
+      "title": "Hiver",
+      "id": "winter",
+      "images": [
+        {
+          "src": "/images/uniforms/winter.jpg",
+          "caption": "Hiver · 1"
+        },
+        {
+          "src": "/images/uniforms/winter1.jpg",
+          "caption": "Hiver · 2"
+        },
+        {
+          "src": "/images/uniforms/winter2.jpg",
+          "caption": "Hiver · 3"
+        },
+        {
+          "src": "/images/uniforms/winter3.jpg",
+          "caption": "Hiver · 4"
+        },
+        {
+          "src": "/images/uniforms/winter4.jpg",
+          "caption": "Hiver · 5"
+        }
+      ]
+    },
+    {
+      "title": "Éducation physique et sportive",
+      "id": "pe",
+      "images": [
+        {
+          "src": "/images/uniforms/summer_pe.jpg",
+          "caption": "Tenue d’été pour l’EPS"
+        },
+        {
+          "src": "/images/uniforms/winter_pe.jpg",
+          "caption": "Tenue d’hiver pour l’EPS"
+        }
+      ]
+    },
+    {
+      "title": "Tenue de pluie",
+      "id": "rainwear",
+      "images": [
+        {
+          "src": "/images/uniforms/raincoat.jpg",
+          "caption": "Tenue de pluie"
+        }
+      ]
+    }
+  ]
+}
