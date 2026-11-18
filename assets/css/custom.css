@@ -118,6 +118,10 @@ a {
   text-underline-offset:4px;
 }
 
+a[href] {
+  cursor:pointer;
+}
+
 a:hover {
   color:var(--red);
 }
@@ -252,6 +256,14 @@ section[id] {
 .utility-bar a {
   color:#e5eceb;
   text-decoration:none;
+}
+
+.utility-bar a:hover,
+.utility-bar a:focus-visible,
+.site-footer a:not(.button):hover,
+.site-footer a:not(.button):focus-visible {
+  color:white;
+  text-decoration:underline;
 }
 
 .utility-divider {
