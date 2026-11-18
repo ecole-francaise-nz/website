@@ -1235,7 +1235,10 @@ img[src$="/uniforms/raincoat.jpg"] { --uniform-brightness:.98; --uniform-contras
   color:var(--navy);
 }
 
-.uniform-gallery .gallery-caption {
+.uniform-gallery .gallery-caption,
+.uniform-season .gallery-caption {
+  font-size:1rem;
+  color:var(--ink);
   display:block;
   font-weight:700;
   margin-bottom:.75rem;

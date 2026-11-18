@@ -20,7 +20,8 @@
         "Shorts (boys)",
         "White ankle socks with black school shoes or black leather Roman sandals",
         "Hair ties in blue/red/white/black (girls)"
-      ]
+      ],
+      "description_title": "Summer uniform"
     },
     {
       "title": "Winter Uniform",
@@ -63,7 +64,8 @@
         "Navy tights (girls)",
         "Black leather school shoes",
         "Hair ties in blue/red/white/black (girls)"
-      ]
+      ],
+      "description_title": "Winter uniform"
     },
     {
       "title": "PE Summer & Winter Uniform",

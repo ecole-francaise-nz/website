@@ -20,7 +20,8 @@
         "Short (garçons)",
         "Chaussettes courtes blanches avec chaussures d’école noires ou sandales romaines en cuir noir",
         "Élastiques à cheveux bleus, rouges, blancs ou noirs (filles)"
-      ]
+      ],
+      "description_title": "Uniforme d’été"
     },
     {
       "title": "Uniforme d’hiver",
@@ -63,7 +64,8 @@
         "Collants bleu marine (filles)",
         "Chaussures d’école en cuir noir",
         "Élastiques à cheveux bleus, rouges, blancs ou noirs (filles)"
-      ]
+      ],
+      "description_title": "Uniforme d’hiver"
     },
     {
       "title": "Tenue d’EPS été et hiver",

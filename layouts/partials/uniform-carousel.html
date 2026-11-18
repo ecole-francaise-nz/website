@@ -21,5 +21,8 @@
     </div>
     {{ end }}
   </div>
-  <ul class="uniform-outfit">{{ range $group.items }}<li>{{ . }}</li>{{ end }}</ul>
+  <div>
+    <span class="gallery-caption">{{ $group.description_title }}</span>
+    <ul class="uniform-outfit">{{ range $group.items }}<li>{{ . }}</li>{{ end }}</ul>
+  </div>
 </div>
