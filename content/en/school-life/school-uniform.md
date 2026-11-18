@@ -5,7 +5,7 @@
   "description": "A visual guide to what we wear at school. Select any photo for a closer look.",
   "groups": [
     {
-      "title": "Formal Summer Uniform 🌺",
+      "title": "Summer Uniform 🌺",
       "id": "summer",
       "images": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "title": "Formal Winter Uniform ❄️",
+      "title": "Winter Uniform ❄️",
       "id": "winter",
       "images": [
         {
