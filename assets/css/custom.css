@@ -301,6 +301,12 @@ section[id] {
   width:280px;
   height:auto;
   object-fit:contain;
+  transition:opacity .18s ease;
+}
+
+.brand:hover img,
+.brand:focus-visible img {
+  opacity:.78;
 }
 
 .main-navigation {
@@ -745,6 +751,12 @@ section[id] {
   border-radius:4px;
   padding:.7rem;
   height:90px;
+  transition:box-shadow .18s ease;
+}
+
+.partner-logos a:hover,
+.partner-logos a:focus-visible {
+  box-shadow:inset 0 0 0 1px #17352f40,0 4px 12px #17352f10;
 }
 
 .partner-logos img {
@@ -1138,6 +1150,73 @@ section[id] {
 
 .gallery-grid.uniform-gallery {
   grid-template-columns:1fr;
+}
+
+/* Non-destructive uniform photo grading: always render the untouched JPEGs.
+   Tune these absolute settings for each original, rather than stacking edits.
+   The src selectors also cover the enlarged lightbox photo. */
+img[src*="/images/uniforms/"] {
+  filter:brightness(var(--uniform-brightness,1)) contrast(var(--uniform-contrast,1));
+}
+img[src$="/uniforms/summer1.jpg"] { --uniform-brightness:1.16; --uniform-contrast:.96; }
+img[src$="/uniforms/summer_pe.jpg"] { --uniform-brightness:1.24; --uniform-contrast:.94; }
+img[src$="/uniforms/winter.jpg"] { --uniform-brightness:1.04; --uniform-contrast:1.02; }
+img[src$="/uniforms/winter1.jpg"] { --uniform-brightness:1.03; --uniform-contrast:1.02; }
+img[src$="/uniforms/winter2.jpg"] { --uniform-brightness:1.03; --uniform-contrast:1.02; }
+img[src$="/uniforms/winter3.jpg"] { --uniform-brightness:1.06; --uniform-contrast:1.02; }
+img[src$="/uniforms/winter4.jpg"] { --uniform-brightness:1.07; --uniform-contrast:1.02; }
+img[src$="/uniforms/summer2.jpg"] { --uniform-brightness:1.03; --uniform-contrast:1.02; }
+img[src$="/uniforms/winter_pe.jpg"] { --uniform-brightness:.98; --uniform-contrast:1.03; }
+img[src$="/uniforms/raincoat.jpg"] { --uniform-brightness:.98; --uniform-contrast:1.03; }
+
+.uniform-season {
+  display:grid;
+  grid-template-columns:minmax(0,360px) minmax(0,1fr);
+  gap:2rem;
+  align-items:start;
+  padding:1.25rem;
+  border-radius:var(--radius);
+  background:#f0efe9;
+}
+
+.uniform-carousel { min-width:0; }
+.uniform-carousel-track {
+  display:flex;
+  overflow-x:auto;
+  scroll-snap-type:x mandatory;
+  position:relative;
+}
+.uniform-slide {
+  flex:0 0 100%;
+  min-width:0;
+  margin:0;
+  scroll-snap-align:start;
+}
+.uniform-slide .gallery-item { background:#f0efe9; }
+.uniform-slide .gallery-item img { height:400px; object-fit:contain; }
+.uniform-slide figcaption { margin-top:.5rem; font-size:.85rem; color:var(--muted); text-align:center; }
+.uniform-carousel-controls:not([hidden]) {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1rem;
+  margin-top:.75rem;
+}
+.uniform-carousel-controls button {
+  border:1px solid var(--line);
+  border-radius:50%;
+  width:44px;
+  height:44px;
+  color:var(--navy);
+  background:white;
+}
+.uniform-carousel-controls button:hover:not(:disabled) { background:var(--navy); color:white; }
+.uniform-carousel-controls button:disabled { opacity:.35; cursor:default; }
+.uniform-carousel-track:focus-visible { outline:3px solid #c5672f; outline-offset:5px; }
+
+@media(max-width:600px) {
+  .uniform-season { grid-template-columns:1fr; gap:1.25rem; }
+  .uniform-slide .gallery-item img { height:320px; }
 }
 
 .uniform-gallery figure {

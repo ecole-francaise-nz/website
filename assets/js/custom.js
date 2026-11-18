@@ -136,6 +136,42 @@
     row.classList.toggle('is-current', current);
     row.querySelector('.current-badge').hidden = !current;
   });
+  document.querySelectorAll('[data-uniform-carousel]').forEach(carousel => {
+    const track = carousel.querySelector('.uniform-carousel-track');
+    const slides = [...track.children];
+    const controls = carousel.querySelector('.uniform-carousel-controls');
+    if (!controls) return;
+    const previous = controls.querySelector('[data-carousel-prev]');
+    const next = controls.querySelector('[data-carousel-next]');
+    const counter = controls.querySelector('[data-carousel-counter]');
+    let index = 0;
+    const update = () => {
+      index = Math.round(track.scrollLeft / track.clientWidth);
+      const label = `${index + 1} / ${slides.length}`;
+      if (counter.textContent !== label) counter.textContent = label;
+      previous.disabled = index === 0;
+      next.disabled = index === slides.length - 1;
+    };
+    const move = offset => {
+      const target = Math.max(0, Math.min(slides.length - 1, index + offset));
+      track.scrollTo({ left: target * track.clientWidth, behavior: 'instant' });
+      update();
+    };
+    controls.hidden = false;
+    previous.addEventListener('click', () => move(-1));
+    next.addEventListener('click', () => move(1));
+    track.addEventListener('scroll', update, { passive: true });
+    track.addEventListener('keydown', event => {
+      if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
+      event.preventDefault();
+      move(event.key === 'ArrowRight' ? 1 : -1);
+    });
+    // Preserve the selected photo when the viewport changes width.
+    new ResizeObserver(() => {
+      track.scrollTo({ left: index * track.clientWidth, behavior: 'instant' });
+    }).observe(track);
+    update();
+  });
   const dialog = document.getElementById('photo-dialog');
   if (!dialog || typeof dialog.showModal !== 'function') return;
   const links = [...document.querySelectorAll('.gallery-item')];

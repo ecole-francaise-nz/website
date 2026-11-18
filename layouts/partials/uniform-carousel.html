@@ -1,0 +1,25 @@
+{{ $ui := index hugo.Data.interface .page.Lang }}
+{{ $group := .group }}
+<div class="uniform-season">
+  <div class="uniform-carousel" data-uniform-carousel>
+    <div class="uniform-carousel-track" id="{{ $group.id }}-photos" tabindex="0" role="group" aria-label="{{ $group.title }} — {{ $ui.gallery }}">
+      {{ range $i, $photo := $group.images }}
+      <figure class="uniform-slide" role="group" aria-label="{{ add $i 1 }} / {{ len $group.images }}">
+        <a class="gallery-item" href="{{ .src }}" data-gallery="{{ $group.id }}" data-caption="{{ .caption }}" aria-label="{{ $ui.expand }}: {{ .caption }}">
+          <img src="{{ .src }}" alt="{{ .caption }}" loading="lazy" decoding="async">
+          <span class="zoom-icon" aria-hidden="true">↗</span>
+        </a>
+        <figcaption>{{ .caption }}</figcaption>
+      </figure>
+      {{ end }}
+    </div>
+    {{ if gt (len $group.images) 1 }}
+    <div class="uniform-carousel-controls" hidden>
+      <button type="button" data-carousel-prev aria-label="{{ $ui.previous }}" aria-controls="{{ $group.id }}-photos">←</button>
+      <span data-carousel-counter aria-live="polite" aria-atomic="true">1 / {{ len $group.images }}</span>
+      <button type="button" data-carousel-next aria-label="{{ $ui.nextphoto }}" aria-controls="{{ $group.id }}-photos">→</button>
+    </div>
+    {{ end }}
+  </div>
+  <ul class="uniform-outfit">{{ range $group.items }}<li>{{ . }}</li>{{ end }}</ul>
+</div>
