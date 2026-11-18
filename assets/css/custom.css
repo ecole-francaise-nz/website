@@ -1124,6 +1124,65 @@ section[id] {
   object-fit:contain;
 }
 
+.gallery-grid.uniform-gallery {
+  grid-template-columns:1fr;
+}
+
+.uniform-gallery figure {
+  display:grid;
+  grid-template-columns:minmax(180px,280px) minmax(0,1fr);
+  align-items:start;
+  gap:1.5rem;
+  padding:1rem;
+  border-radius:var(--radius);
+  background:#f0efe9;
+}
+
+.uniform-gallery figcaption {
+  margin:0;
+  font-size:1rem;
+  color:var(--navy);
+}
+
+.uniform-gallery .gallery-caption {
+  display:block;
+  font-weight:700;
+  margin-bottom:.75rem;
+}
+
+.uniform-descriptions {
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));
+  gap:1.25rem;
+}
+
+.uniform-outfit {
+  margin:0;
+  padding-left:1.2rem;
+}
+
+.uniform-outfit li + li {
+  margin-top:.3rem;
+}
+
+.uniform-position {
+  font-weight:600;
+  margin:0 0 .5rem;
+}
+
+.uniform-note {
+  font-size:.85rem;
+  margin:.75rem 0 0;
+  color:var(--muted);
+}
+
+@media(max-width:600px) {
+  .uniform-gallery figure {
+    grid-template-columns:1fr;
+    gap:1rem;
+  }
+}
+
 .gallery-grid figcaption {
   font-size:.82rem;
   margin-top:.6rem;

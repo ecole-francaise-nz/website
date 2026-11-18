@@ -5,56 +5,186 @@
   "description": "A visual guide to what we wear at school. Select any photo for a closer look.",
   "groups": [
     {
-      "title": "Summer",
+      "title": "Formal Summer Uniform 🌺",
       "id": "summer",
       "images": [
         {
           "src": "/images/uniforms/summer1.jpg",
-          "caption": "Summer · 1"
-        },
-        {
-          "src": "/images/uniforms/summer2.jpg",
-          "caption": "Summer · 2"
+          "caption": "Summer uniform",
+          "descriptions": [
+            {
+              "items": [
+                "Short sleeve polo",
+                "Shorts",
+                "White ankle socks",
+                "Black leather Roman sandals or school shoes",
+                "Bucket hat"
+              ],
+              "title": "Left"
+            },
+            {
+              "items": [
+                "Short sleeve polo",
+                "Culottes",
+                "White ankle socks",
+                "Black leather Roman sandals or school shoes",
+                "Hair ties in blue/red/white/black"
+              ],
+              "title": "Right"
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Winter",
+      "title": "Formal Winter Uniform ❄️",
       "id": "winter",
       "images": [
         {
           "src": "/images/uniforms/winter.jpg",
-          "caption": "Winter · 1"
+          "caption": "Knitwear and trousers",
+          "descriptions": [
+            {
+              "items": [
+                "Long sleeve polo",
+                "Knitwear",
+                "Trousers",
+                "Navy ankle socks",
+                "Black leather school shoes"
+              ]
+            }
+          ]
         },
         {
           "src": "/images/uniforms/winter1.jpg",
-          "caption": "Winter · 2"
+          "caption": "Knitwear and culottes",
+          "descriptions": [
+            {
+              "items": [
+                "Short sleeve polo",
+                "Knitwear",
+                "Culottes",
+                "Navy knee-high socks or navy tights",
+                "Black leather school shoes",
+                "Hair ties in blue/red/white/black"
+              ]
+            }
+          ]
         },
         {
           "src": "/images/uniforms/winter2.jpg",
-          "caption": "Winter · 3"
+          "caption": "Fleece and shorts",
+          "descriptions": [
+            {
+              "items": [
+                "Short sleeve polo",
+                "Fleece",
+                "Shorts",
+                "Navy knee-high socks",
+                "Black leather school shoes"
+              ]
+            }
+          ]
         },
         {
           "src": "/images/uniforms/winter3.jpg",
-          "caption": "Winter · 4"
+          "caption": "Long sleeve polo and trousers",
+          "descriptions": [
+            {
+              "items": [
+                "Long sleeve polo",
+                "Knitwear",
+                "Trousers",
+                "Navy ankle socks",
+                "Black leather school shoes",
+                "Hair ties in blue/red/white/black"
+              ],
+              "note": "Knitwear is worn as an additional layer (not pictured)."
+            }
+          ]
         },
         {
           "src": "/images/uniforms/winter4.jpg",
-          "caption": "Winter · 5"
+          "caption": "Knitwear and trousers",
+          "descriptions": [
+            {
+              "items": [
+                "Long sleeve polo",
+                "Knitwear",
+                "Trousers",
+                "Navy ankle socks",
+                "Black leather school shoes",
+                "Hair ties in blue/red/white/black"
+              ]
+            }
+          ]
+        },
+        {
+          "src": "/images/uniforms/summer2.jpg",
+          "caption": "Winter polos, culottes and shorts",
+          "descriptions": [
+            {
+              "items": [
+                "Short sleeve polo",
+                "Fleece",
+                "Culottes",
+                "Navy knee-high socks or navy tights",
+                "Black leather school shoes",
+                "Hair ties in blue/red/white/black"
+              ],
+              "title": "Left",
+              "note": "Fleece is worn as an additional layer (not pictured)."
+            },
+            {
+              "items": [
+                "Short sleeve polo",
+                "Fleece",
+                "Shorts",
+                "Navy knee-high socks",
+                "Black leather school shoes"
+              ],
+              "title": "Right",
+              "note": "Fleece is worn as an additional layer (not pictured)."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Physical Education",
+      "title": "PE Summer & Winter Uniform ⛹️‍♀️🤸‍♂️",
       "id": "pe",
       "images": [
         {
           "src": "/images/uniforms/summer_pe.jpg",
-          "caption": "Summer PE uniform"
+          "caption": "Summer PE uniform",
+          "descriptions": [
+            {
+              "items": [
+                "Short sleeve PE shirt",
+                "PE shorts",
+                "White ankle socks",
+                "Dark-coloured sports shoes",
+                "Hair ties in blue/red/white/black",
+                "Bucket hat"
+              ]
+            }
+          ]
         },
         {
           "src": "/images/uniforms/winter_pe.jpg",
-          "caption": "Winter PE uniform"
+          "caption": "Winter PE uniform",
+          "descriptions": [
+            {
+              "items": [
+                "Short sleeve PE shirt",
+                "Fleece",
+                "PE trackpants",
+                "White or navy ankle socks",
+                "Dark-coloured sports shoes",
+                "Bucket hat"
+              ]
+            }
+          ]
         }
       ]
     },
