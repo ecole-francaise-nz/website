@@ -1250,6 +1250,10 @@ img[src$="/uniforms/raincoat.jpg"] { --uniform-brightness:.98; --uniform-contras
 .uniform-outfit {
   margin:0;
   padding-left:1.2rem;
+  font-size:1rem;
+  font-weight:400;
+  line-height:1.65;
+  color:var(--ink);
 }
 
 .uniform-outfit li + li {
