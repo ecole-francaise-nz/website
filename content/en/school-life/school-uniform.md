@@ -189,7 +189,7 @@
       ]
     },
     {
-      "title": "Rainwear",
+      "title": "Rainwear ☔",
       "id": "rainwear",
       "images": [
         {

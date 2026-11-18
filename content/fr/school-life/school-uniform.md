@@ -189,7 +189,7 @@
       ]
     },
     {
-      "title": "Tenue de pluie",
+      "title": "Tenue de pluie ☔",
       "id": "rainwear",
       "images": [
         {
