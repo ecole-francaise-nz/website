@@ -27,7 +27,7 @@ Les inscriptions sont désormais ouvertes. Réservez dès aujourd'hui la place d
 * Les enfants qui atteignent l’âge de cinq ans au cours du trimestre 2 ou 3, au plus tard le 1er septembre inclus, peuvent intégrer l’année 0 dès leur cinquième anniversaire, sous réserve de places disponibles.
 * Les enfants dont le cinquième anniversaire tombe le 2 septembre ou après seront considérés pour une entrée en année 1 (Y1) l’année suivante, sauf si des places se libèrent en année 0.
 * Les élèves entrant en Year 1 doivent avoir acquis les bases fondamentales de la Year 0 du programme français, notamment en motricité fine (comme savoir écrire leur prénom), la connaissance de l'alphabet en anglais, ainsi qu'une capacité d'attention soutenue afin d'être dans les meilleures conditions pour apprendre une nouvelle langue.
-
+* Des rencontres avec les familles et les enfants sont organisées au quatrième trimestre de l'année précédente afin de vérifier les prérequis, de s'assurer de l'adéquation avec le caractère distinctif de l'école, et de confirmer l'inscription.
 
 Pour toute question, n'hésitez pas à nous contacter à l'adresse suivante&nbsp;: [contact@ecole-francaise.nz](mailto:contact@ecole-francaise.nz).
 

@@ -9,7 +9,9 @@ bannerHeight = "450px"
 
 L’école a été sélectionnée parmi les sept premières écoles publiques à charte de Nouvelle-Zélande, à l’issue d’un processus de sélection rigoureux. Le respect des exigences de la Charter School Agency est contrôlé dans le cadre du [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_17_06.pdf). Veuillez consulter le site internet de la [Charter School Agency](https://www.charterschools.govt.nz/) pour plus d’informations.
 
-Veuillez lire notre [politique d'engagement de la communauté scolaire](/en/documents/school-life/school-community-engagement-policy-v1-05-02-2026.pdf).
+L'EFIA dispose d'un caractère distinctif reconnu (publié dans la New Zealand Gazette)&nbsp;: «&nbsp;_Une immersion complète dans l'éducation française, dispensant les programmes nationaux français en français et en anglais dans le cadre d'un modèle intégré d'implication des familles, sous l'homologation du ministère français de l'Éducation nationale._&nbsp;».
+
+Veuillez lire notre [politique d'engagement de la communauté scolaire](/en/documents/school-life/parents-efia-partnership-distinguishing-characteristic-11-2026.pdf).
 
 ## Vision
 

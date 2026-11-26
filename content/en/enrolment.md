@@ -27,6 +27,7 @@ Enrolments are now open. Secure your child’s spot today:
 * Children who turn five during Terms 2 or 3, on or before 1 September, can start in Year 0 from their fifth birthday, subject to places being available.
 * Children whose fifth birthday falls on or after 2 September will be considered for enrolment in Year 1 (Y1) the following year, unless places become available in Year 0.
 * Year 1 students are required to meet the foundational milestones of Year 0 in the French curriculum, including fine motor skills such as writing their name, knowing the alphabet in English, and maintaining a sustained attention span to be in the best conditions to learn a new language.
+* Meetings with families and children are organised in Term 4 of the previous year to check prerequisites, ensure alignment with the school's distinguishing character, and confirm enrolment.
 
 If you have any questions, please contact us by email at [contact@ecole-francaise.nz](mailto:contact@ecole-francaise.nz).
 

@@ -9,7 +9,9 @@ bannerHeight = "450px"
 
 The school was selected as one of the first seven Charter schools in New Zealand, following a rigorous selection process. Compliance with the Charter School Agency’s requirements is monitored through the [Performance Management Framework](https://www.charterschools.govt.nz/assets/Operating-a-charter-school/1176-Charter-School-Management-Framework_17_06.pdf). Please consult the [Charter School Agency website](https://www.charterschools.govt.nz/) for more information.
 
-Please read our [School Community Engagement Policy](/en/documents/school-life/school-community-engagement-policy-v1-05-02-2026.pdf).
+EFIA has an approved distinguishing characteristic (published in the New Zealand Gazette): "_Full immersion in French education, delivering the French national curriculum in French and English within an integrated family engagement model, under accreditation of the French Ministry of Education._"
+
+Please read our [Parent Commitment to our School Distinguishing Characteristic and Charter School Status](/en/documents/school-life/parents-efia-partnership-distinguishing-characteristic-11-2026.pdf).
 
 ## Vision
 
